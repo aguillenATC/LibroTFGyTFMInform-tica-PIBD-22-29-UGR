@@ -1,0 +1,76 @@
+\chapter{La elaboración de la presentación en la defensa} \label{cap:elaboraciónPresentación}
+
+% [Autores: Pablo, Alberto]
+
+¡Ya queda menos para poder presentar el proyecto! Tu programa ya funciona y ya estás listo para enseñarlo al mundo.
+
+Después de todo el esfuerzo, de todas las horas, de todos los cabezazos contra la pantalla, resulta que solo tienes 20-25 minutos ante un tribunal para contarles lo que has hecho. Además, seamos sinceros, muchas veces el tribunal se va a leer la memoria de pasada mientras estas haciendo la presentación, así que te juegas mucho dependiendo de cómo lo hagas en esos 20 minutos y lo que enseñes y no enseñes. En este capítulo te enseñaremos cómo preparar la presentación, es decir el archivo (el PDF, el ODP, el PPTX) que proyectarás en el aula, mientras que en el siguiente capítulo nos centraremos en cómo preparar la defensa de esa presentación.
+
+\section{Centrarte en lo importante}
+
+El primer consejo que te vamos a dar es que el tribunal tiene que mirarte a ti, no a las transparencias. Tú eres la estrella de la función, y la presentación es un apoyo a lo que estás diciendo. El segundo consejo, y más importante todavía es: \textbf{no te pases del tiempo}. Alguien del tribunal tiene un cronómetro encendido y no hay nada que quede peor en una defensa que decirle al estudiante ``lo siento, tienes que cortar''. Así que no prepares 50 transparencias y quieras contarlo todo con miles de pelos y señales. Por ejemplo, puedes ahorrarte transparencias de bibliografía, que aportan poco en la defensa.
+
+Aunque dependerá del tipo de TFG que realices, una posible estructura puede ser la siguiente:
+\begin{itemize}
+\item Título del proyecto, fecha, tu nombre y tu correo electrónico y el nombre de tu director o directora. Logos de la Universidad y Escuela, para dejarlo más profesional.
+\item La segunda transparencia debe ser un índice numerado de las secciones de la presentación.
+\item Una o dos transparencias de introducción y contexto.
+\item Una transparencia definiendo los objetivos.
+\item Una transparencia resumiendo el estado del arte
+\item Una o dos transparencias de planificación y metodología
+\item Si tu trabajo es de desarrollo
+    \begin{itemize}
+    \item Dos o tres transparencias del diseño e implementación, diagramas sobre todo.
+    \item Una transparencia hablando de pruebas.
+    \item Capturas de la UI, aunque mejor haz una demo.
+    \end{itemize}
+\item Si tu trabajo es experimentación o investigación:
+    \begin{itemize}
+        \item Dos o tres transparencias describiendo el método y mostrando los resultados (gráficas sobre todo). Dependiendo del número de experimentos que realices quizás necesites más. Pero recuerda, casi siempre menos es más.
+    \end{itemize}
+\item Una transparencia de conclusiones, incluyendo enlace a repositorio del código, si lo hubiera.
+\item Una transparencia de despedida, con un texto parecido a ``Muchas gracias por su atención''.
+\end{itemize}
+
+Esto nos lleva a una presentación con 15 a 20 transparencias aproximadamente. Si te centras un minuto en cada una, y créenos, un minuto pasa muy rápido, ya lo tienes listo.
+
+Respecto a los títulos de las transparencias, mucha gente cambia el título de cada una para que sea como un titular de periódico, que le da un toque más innovador.  Es decir, en vez de poner títulos genéricos como ``Introducción (I)'' o ``Introducción (II)'' puedes poner una transparencia (que no usaremos en el conteo) con el texto centrado ``Introducción'' y pasar rápidamente a las siguientes tituladas ``El problema de los tres cuerpos es muy difícil de resolver'' y ``Se han utilizado algunas cosas sin éxito''. Fíjate como parecen titulares de periódico, pero seguimos siendo conscientes de que estamos en la introducción. De hecho, como curiosidad, fíjate también en los nombres de las secciones de este capítulo, no hace falta leer el texto para sacar la idea principal de cada una.
+
+\section{La presentación no es un karaoke}
+
+Si vas a leer lo que pone en las transparencias envíala por correo y nos ahorramos tiempo. Y recuerda que menos es más. Así que quita la broza. En tu memoria quizás hayas escrito algo como 
+
+``\textit{El objetivo de este proyecto es demostrar que, bajo ciertas condiciones, utilizar el algoritmo Williamsito, creado por Williams [11] permite obtener mejor rendimiento para resolver el problema de los tres cuerpos [12] reduciendo el tiempo de computación}''. 
+
+Pues eso, en la presentación quita la broza: 
+
+``\textit{Williamsito reduce el tiempo para resolver el problema de los tres cuerpos}''. 
+
+Ya está, dicen exactamente lo mismo, pero más rápido. El tribunal lo habrá pillado enseguida y podemos pasar a otra cosa.
+
+Especialmente importante será la transparencia de conclusiones. Es la última carta que tienes en la manga para que el tribunal vea que has hecho un buen trabajo.
+
+\section{El poder de lo visual}
+Vamos a mejorar el texto anterior: 
+
+``\textit{Williamsito \textbf{reduce el tiempo} para resolver el problema de los tres cuerpos}''. 
+
+Fíjate cómo hemos usado un componente visual (la negrita) para ir directamente a la idea de la frase. No te cortes en usar técnicas tipográficas para facilitar la lectura (negrita, cursiva, color), pero tampoco te pases. Resaltar de una a tres palabras por frase es más que suficiente.
+
+A veces incluso se puede sustituir el texto con una imagen o un pictograma que represente la idea. Por ejemplo, en vez de poner una lista de los componentes de tu sistema y lo que hacen, utiliza un diagrama. De un solo vistazo vemos que tiene 5 componentes y se comunican usando MQTT. Perfecto, todo claro. 
+
+Pero igual que antes, no pongas diagramas que no aportan y te pongas a explicarlos. El diagrama de clases o el de E/R, por ejemplo, generalmente no aportan absolutamente nada en la presentación, ya has aprobado las asignaturas que te lo evaluaban. Tampoco pongas código fuente, a menos que sea realmente necesario (que es casi nunca).
+
+Y ojo con los colores. Utiliza paletas ya establecidas. Existen webs que te permiten coger un grupo de 4 colores que combinan bien. Por ejemplo Coolors.co \footnote{\url{https://coolors.co}}, pero hay otras muchas. A menos que sepas de diseño gráfico y teoría del color no te fíes de tu criterio artístico. Esto es especialmente importante si estás visualizando datos. Además, puede haber personas daltónicas en el tribunal.
+
+Además, texto oscuro en fondo claro hace que el público mire a la transparencia, pero texto claro sobre fondo oscuro hace que miren al orador.
+
+Y para terminar un consejo muy fácil de aplicar y que queda muy bien: añade el número de transparencia actual y el total de transparencias en la esquina (Ej: \textit{4 de 20}). De este modo el tribunal podrá orientarse y saber cuánto te queda. Si por ejemplo ven que te pasas un poco de tiempo pero solo te queda una transparencia quizás no te interrumpan. También servirá para que en el turno de preguntas puedas moverte a una transparencia concreta si te lo piden.
+
+\section{Show. Don't tell.}
+
+Esto es un aforismo que se usa mucho en el guión cinematográfico. En vez de escribir qué hace tu aplicación prepara una demo de dos o tres minutos en la que veamos cómo funciona. No hace falta que muestres todo, por ejemplo, como crear usuarios, que es algo trivial, sino la parte interesante.
+
+Si tienes miedo de que algo falle (por ejemplo si el servidor está en tu casa), prepara un vídeo, pero no grabes tu voz explicándolo, da la explicación en directo mientras que visualizas el vídeo.
+
+Consensúa esta presentación con la persona que te tutoriza el TFG hasta que estéis ambos contentos con ella.
