@@ -11,13 +11,13 @@ https://www.youtube.com/channel/UCoBdgKxqebJ4c4Eks6HYj0g
 
 # Autores
 
-Juan Manuel Fernández Luna
-María José Rodríguez Fórtiz
-Manuel Noguera García
-Pablo García Sánchez
-Eugenio Martínez Cámara
-Rocío Romero Záliz
-Alberto Guillén Perales
+- Juan Manuel Fernández Luna
+- María José Rodríguez Fórtiz
+- Manuel Noguera García
+- Pablo García Sánchez
+- Eugenio Martínez Cámara
+- Rocío Romero Záliz
+- Alberto Guillén Perales
 
 
 # Licencia
