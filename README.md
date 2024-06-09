@@ -9,4 +9,17 @@ Por todo ello, se echa en falta un material docente que integre y aúne recomend
 
 https://www.youtube.com/channel/UCoBdgKxqebJ4c4Eks6HYj0g
 
+# Autores
 
+Juan Manuel Fernández Luna
+María José Rodríguez Fórtiz
+Manuel Noguera García
+Pablo García Sánchez
+Eugenio Martínez Cámara
+Rocío Romero Záliz
+Alberto Guillén Perales
+
+
+# Licencia
+
+CC-BY-NC-SA
