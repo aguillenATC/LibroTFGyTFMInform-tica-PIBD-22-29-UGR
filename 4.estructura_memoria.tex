@@ -6,11 +6,11 @@
 %Pablo revisa/copia/quita lo que vea oportuno de las recomendaciones generales -> Sobre la redacción de la memoria
 % Lo siguiente añadido por María José
 
-En este capítulo te mostramos de forma breve cómo estructurar la memoria de tu TFG. Esta estructura debería ser lo primero que deberías abordar, ya que te marcará un esquema mental del trabajo a realizar. Además es muy importante que esté consensuada con la persona que te tutoriza. 
+En este capítulo te mostramos de forma breve cómo estructurar la memoria de tu TFG. Esta estructura debería ser lo primero que deberías abordar, ya que te marcará un esquema mental del trabajo a realizar. Además es muy importante que esté consensuada con la persona que te tutoriza. Por tanto, bien puedes tener una tutoría para acordar dicha estructura o bien pensar tú en ella y hacerle una propuesta a ella. Para tal fin, puedes buscar memorias de TFGs y confeccionar tu la tuya propia teniendo en cuenta el ámbito o temática de tu proyecto.
 
 \section{Estructura general de un TFG}
 
-La estructura depende del tipo de TFG que realices (ver Apéndice \ref{cap:Tipologías}). En general, e independientemente del tipo de proyecto, todas las memorias deberían tener capítulos de \textit{Introducción}, \textit{Estado del Arte}, \textit{Conclusiones} y \textit{Bibliografía}. Aquí te damos una sugerencia de una posible organización de capítulos y secciones dentro de cada capítulo. 
+La estructura depende del tipo de TFG que realices (ver Apéndice \ref{cap:Tipologías}). En general, e independientemente del tipo de proyecto, todas las memorias deberían tener capítulos de \textit{Introducción}, \textit{Estado del Arte}, \textit{Conclusiones} y \textit{Bibliografía}. Aquí te damos una sugerencia de una posible organización de capítulos y secciones dentro de cada capítulo para un TFG genérico. 
 
 \begin{enumerate}
     \item Introducción
@@ -44,8 +44,11 @@ La estructura depende del tipo de TFG que realices (ver Apéndice \ref{cap:Tipol
     \item Anexos
 \end{enumerate}
 
-En el Capítulo \ref{cap:IntroducciónTFG} podrás ver en profundidad las descripciones de cada una de las secciones de la Introducción.
-En el capítulo del Estado del Arte de tu trabajo se pueden incluir tantas secciones como se desee para agrupar bien los tipos de revisiones realizadas. Si la envergadura de estas secciones es muy grande, pueden incluso separarse en capítulos aparte, aunque te recomendamos que sólo ocupe uno. Tal y como se indica en el Capítulo \ref{cap:RevisionEstadoDelArte}, cada sección del estado del arte que se desee incluir deberá constar primero de una introducción explicando la metodología seguida para la revisión, luego la revisión concreta y al final unas conclusiones. %Es muy aconsejable incluir tablas con aspectos comparativos, ya que son más visuales y sirven de resumen. Por ejemplo, se recomienda incluir comparativas entre las potenciales tecnologías o metodologías, para luego en el capítulo de la propuesta justificar cuáles de ellas son las elegidas para la solución. También es común comparar los trabajos relacionados entre sí y según nuestros objetivos o requisitos.
+En el Capítulo \ref{cap:IntroducciónTFG} podrás ver en profundidad las descripciones de cada una de las secciones de la Introducción. Es una sección muy importante pues da una visión global del TFG y de sus objetivos, es decir, de qué trata el TFG, por qué el problema que resuelve es relevante y qué metas te marcas. Por tanto, te recomendamos que te esfuerces en su confección. 
+
+En el capítulo del Estado del Arte de tu trabajo se pueden incluir tantas secciones como se desee para agrupar bien los tipos de revisiones realizadas. Si la envergadura de estas secciones es muy grande, pueden incluso separarse en capítulos aparte, aunque te recomendamos que sólo ocupe uno. Tal y como se indica en el Capítulo \ref{cap:RevisionEstadoDelArte}, cada sección del estado del arte que se desee incluir deberá constar primero de una introducción explicando la metodología seguida para la revisión, luego la revisión concreta y al final unas conclusiones. Este capítulo es imprescindible en todo TFG que se precie ya que establecerá lo que hay ya hecho en la temática del mismo y dónde se enmarca la contribución de tu trabajo.
+
+%Es muy aconsejable incluir tablas con aspectos comparativos, ya que son más visuales y sirven de resumen. Por ejemplo, se recomienda incluir comparativas entre las potenciales tecnologías o metodologías, para luego en el capítulo de la propuesta justificar cuáles de ellas son las elegidas para la solución. También es común comparar los trabajos relacionados entre sí y según nuestros objetivos o requisitos.
 
 Las secciones de los capítulos en los que desarrollamos nuestra propuesta están muy relacionadas con el tipo de proyecto y metodología. En las siguientes secciones de este capítulo te damos unas guías de cómo podría estructurarse según ello, aunque tienes información más detallada en el Anexo \ref{cap:Tipologías} para cada tipo de proyecto.
 
@@ -53,61 +56,59 @@ Finalmente, las dos secciones del capítulo de Conclusiones y Trabajo Futuro de 
 
 \section{Proyectos de desarrollo}
 
-Los proyectos de desarrollo suelen ser iterativos, y dependen de la metodología seguida (Ver Apéndice \ref{appendix:desarrollo}):
+Los proyectos de desarrollo suelen ser iterativos, y dependen de la metodología seguida (Ver Apéndice \ref{appendix:desarrollo}). La importancia de este capítulo reside en el hecho de que en él recae todo el peso de la descripción de la metodología que se ha seguido, de tal forma que un lector pueda entender claramente cómo has construido la solución de tu TFG. A continuación mostramos cómo podría estructurarse esta sección según las dos  metodologías principales, ágiles y clásica. En caso de no seguir ninguna de estas, deberás plasmar las etapas que compongan la que has seguido en secciones del capítulo. En cualquier caso, deberá haber una parte de análisis y diseño y otra de implementación.
 
 \subsection{Metodologías ágiles}
 
-Cuando usamos una metodología ágil, como SCRUM, es buena idea crear la siguiente estructura de capítulos:
+Cuando usamos una metodología ágil, como SCRUM, podría ser buena idea crear la siguiente estructura:
 \begin{itemize}
-    \item \textbf{Análisis}: incluimos planificación y presupuesto
-    \item \textit{Product Backlog}: listado de historias de usuario priorizadas, y su descripción detallada, incluyendo las pruebas a realizar.
-    \item \textit{Iteraciones}: una sección por cada iteración o \textit{sprint}, describiendo las tareas e incluyendo gestión de riesgos si procede, así como la planificación en el tiempo de esas iteraciones.
-    \item \textit{Presupuesto}: cálculo de la estimación económica del costo del proyecto.
-    \item \textbf{Implementación}: descripción de la implementación de cada iteración así como de las pruebas correspondientes. 
+    \item \textit{Product backlog}: listado de historias de usuario priorizadas, y su descripción detallada, incluyendo las pruebas a realizar. Y no te olvides de las historias técnicas. 
+    \item \textit{Sprint backlog}: una sección por cada iteración o \textit{sprint}, describiendo las tareas e incluyendo gestión de riesgos si procede, así como la planificación en el tiempo de esas iteraciones.
+    \item \textit{Presupuesto}: cálculo de la estimación económica del costo del proyecto 
+    \item \textit{Implementación}: descripción de la implementación de cada iteración así como de las pruebas correspondientes. 
     
 \end{itemize}
-                
-
+            
 \subsection{Ciclo de vida clásico}
 En este caso podemos crear un capítulo por cada una de las etapas.
                 \begin{itemize}
-                    \item \textbf{Análisis/Requisitos}: requisitos funcionales y no funcionales, de datos y de información, casos de uso, diagramas de los casos de uso, presupuesto, planificación, etc.
-                    \item \textbf{Diseño}: diagramas de clases, de secuencia, de la arquitectura, diseño de bases de datos y de interfaces de usuario, etc.
-                    \item \textbf{Implementación}: detalles concretos de la implementación de cada componente.
-                    \item \textbf{Pruebas}: descripción de las pruebas unitarias, de integración, etc.
+                    \item \textit{Análisis}: requisitos funcionales y no funcionales, de datos y de información, casos de uso, diagramas de los casos de uso, presupuesto, planificación, etc.
+                    \item \textit{Diseño}: diagramas de clases, de secuencia, de la arquitectura, diseño de bases de datos y de interfaces de usuario, etc.
+                    \item \textit{Implementación}: elección de tecnologías, detalles concretos de la implementación de cada componente.
+                    \item \textit{Pruebas}: descripción de las pruebas unitarias, de integración, etc.
                 \end{itemize}
-\subsection{Otros ciclos de desarrollo}
-Si usamos otro tipo de desarrollo deberemos adaptar los capítulos a sus etapas.
+%\subsection{Otros ciclos de desarrollo}
+%Si usamos otro tipo de desarrollo deberemos adaptar los capítulos a sus etapas.
 
 \section{Proyectos de investigación}
 Los proyectos de investigación tienen su propia estructura (ver Apéndice \ref{appendix:investigacion}), en la que se le da especial importancia a la discusión de los resultados. 
 
 Para empezar en un proyecto de investigación, la introducción también debería contar con las siguientes secciones:
     \begin{itemize}
-                \item \textbf{Preguntas de investigación}: identificación de problemas o carencias que se van a abordar en el proyecto.
-                \item \textbf{Hipótesis}: enunciados a demostrar o probar (suele ser uno de los objetivos el demostrar una hipótesis concreta).
+                \item \textit{Preguntas de investigación}: identificación de problemas o carencias que se van a abordar en el proyecto.
+                \item \textit{Hipótesis}: enunciados a demostrar o probar (suele ser uno de los objetivos el demostrar una hipótesis concreta).
                 
     \end{itemize}
 
 %\item \textbf{Evaluación de las hipótesis}: Elección de un método de investigación, determinación de experimentaciones a realizar, elección de instrumentos de recogida de datos y de herramientas análisis de datos y de evaluación.
-El resto de capítulos (además de la Introducción, Estado del Arte y Conclusiones, claro) pueden ser los siguientes:
+El resto de capítulos (además de la \textit{Introducción}, \textit{Estado del arte} y \textit{Conclusiones}, claro) pueden ser los siguientes:
 \begin{itemize}
-    \item \textbf{Metodología}: explicación de los pasos a seguir, algoritmos a implementar, ecuaciones, variables a medir, etc.
-    \item \textbf{Experimentos}: definir los parámetros exactos que se van a utilizar y explicaciones más específicas sobre los experimentos a realizar.
-    \item \textbf{Resultados}: variables y valores obtenidos. Tablas de análisis, matrices de correlación, etc.
-    \item \textbf{Discusión}: interpretación de resultados, referenciando estado del arte e hipótesis u objetivos.
+    \item \textit{Metodología}: explicación de los pasos a seguir, algoritmos a implementar, ecuaciones, variables a medir, etc.
+    \item \textit{Experimentos}: definir los parámetros exactos que se van a utilizar y explicaciones más específicas sobre los experimentos a realizar.
+    \item \textit{Resultados}: variables y valores obtenidos. Tablas de análisis, matrices de correlación, etc.
+    \item \textit{Discusión}: interpretación de resultados, referenciando estado del arte e hipótesis u objetivos.
 \end{itemize}
     
-Si alguno de estos capítulos se te queda corto se puede combinar con otro: por ejemplo, ``Metodología Experimental'' o ``Resultados y discusión''.
+Si alguno de estos capítulos se te queda corto se puede combinar con otro: por ejemplo, \textit{Metodología experimental} o \textit{Resultados y discusión}.
         
 \section{Proyectos de revisión de estado del arte} 
 
-En este tipo de proyectos (Ver Apéndice  \ref{appendix:revisionestado}) la mayor envergadura la tendrá el capítulo (o capítulos) del estado del arte. Sin embargo, justo después de la \textit{Introducción} deberías incluir un capítulo llamado \textit{``Metodología''}, donde expliques el proceso seguido para la revisión (dónde buscar, qué palabras clave utilizar, cómo filtrar la búsqueda, qué características revisar/comparar, etc.).
+En este tipo de proyectos (Ver Apéndice  \ref{appendix:revisionestado}) la mayor envergadura la tendrá el capítulo (o capítulos) del estado del arte. Sin embargo, justo después de la \textit{Introducción} deberías incluir un capítulo llamado \textit{Metodología}, donde expliques el proceso seguido para la revisión (dónde buscar, qué palabras clave utilizar, cómo filtrar la búsqueda, qué características revisar/comparar, etc.).
 
 
 \section{Conclusión}
 
- Las metodologías de proyectos no son exclusivas entre sí.  Por ejemplo, un proyecto de tipo desarrollo podría incluir una parte de validación que implique aplicar la metodología de investigación. Igualmente, un proyecto de investigación puede necesitar del desarrollo de software. Por ello, se pueden añadir secciones de un tipo en otro tipo.
+ Las metodologías de proyectos no son exclusivas entre sí.  Por ejemplo, un proyecto de tipo desarrollo podría incluir una parte de validación que implique aplicar la metodología de investigación. Igualmente, un proyecto de investigación puede necesitar del desarrollo de software. Por ello, se pueden añadir secciones de un tipo en otro tipo. Por otro lado, un proyecto más relacionado con hardware también puede seguir una metodología en cascada, quizá adaptada a sus características.
 
 En resumen, la estructura no está escrita en piedra y puede variar dependiendo de lo que vayas a hacer. Por eso es muy importante consensuarla con tu director/a y también tener en cuenta que puede cambiar durante el desarrollo del proyecto. En los siguientes capítulos de este libro te explicamos con más detalle cada uno de los capítulos y secciones de la memoria de tu proyecto.
 
