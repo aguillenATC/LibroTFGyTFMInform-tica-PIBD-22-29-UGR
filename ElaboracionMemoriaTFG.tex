@@ -18,43 +18,62 @@
 \setlist[todolist]{label=$\square$}
 \usepackage{color}
 \usepackage{rotating}
+%\usepackage[utf8]{inputenc}
 
 \newcommand{\emc}[1]{\textcolor{blue}{#1}}
 \newenvironment{naranja}{\par\color{orange}}{\par}
 
-\begin{document}
-
-\title{Cómo escribir la memoria de tu TFG del Grado de Ingeniería Informática y presentarlo sin morir en el intento (tentativo)}
-\author{Tus Nombres}
+\title{Cómo escribir la memoria de tu TFG del \\ Grado de Ingeniería Informática\\ y presentarlo sin morir en el intento}
+\author{
+    \makebox[\textwidth][c]{%
+        \begin{minipage}{\textwidth}
+            \centering
+            Alberto Guillén Perales, Eugenio Martínez Cámara, \\
+            Juan Manuel Fernández Luna, Pablo García Sánchez, \\
+            Manuel Noguera García, María José Rodríguez Fortis, \\
+            Rocío Romero Zaliz \\[1ex]
+           \vspace{2ex}
+            Escuela Técnica Superior de Ingenierías\\ Informática y de Telecomunicación\\
+            Universidad de Granada\\ 
+           \vspace{5ex}
+            Depósito legal: XXXXXXX
+        \end{minipage}%
+    }
+}
 \date{\today}
+
+\begin{document}
 \maketitle
+\chapter*{Agradecimientos}
+\addcontentsline{toc}{chapter}{Agradecimientos}
+Queremos expresar nuestro más profundo agradecimiento a los estudiantes egresados del Doble Grado de Ingeniería Informática y Matemáticas, Javier , Mario xxxx, al egresado del Doble Grado de Ingeniería Informática y ADE, Néstor Martínez xxx, y a Álvaro Jesús Baena Rosino, alumno en este curso 2024/2025 de este doble grado, y también a los compañeros de la ETSIIT, Javier Medina Quero y José Manuel Soto Hidalgo, que aceptaron nuestra propuesta de revisión del manuscrito. Sus certeros comentarios y correcciones sin duda han mejorado la calidad de este libro. Muchas gracias por vuestra colaboración.
+
+Este libro ha sido escrito dentro del marco del Proyecto de Innovación y Buenas Prácticas Docentes Avanzados/Coordinados 2022-2024 con código 22-29 y titulado ``Cómo escribir tu TFG o TFM de ingeniería informática y no morir en el intento: dificultades, retos y elaboración de materiales docentes'' y financiado por el Plan FIDO UGR, Plan de Formación e Innovación Docente 2022-2023, Programa de Innovación y Buenas Prácticas Docentes, Unidad de Calidad, Innovación Docente y Prospectiva de la Universidad de Granada. 
 
 \tableofcontents
 \listoftables
 \listoffigures
 
 % Incluye los archivos de los capítulos
-\include{1.prologo}
-\include{2.introduccion_libro}
-\include{3.recomendaciones_generales}
-\include{4.estructura_memoria}
-\include{5.introduccion_tfg}
-\include{6.revision_estado_arte}
-\include{7.planificacion_presupuesto}
-\include{9.conclusiones_trabajos_futuros}
-\include{10.bibliografia_tfg}
-\include{11.anexostfg}
-\include{12.revision_proyecto_memoria}
-\include{13.elaboracion_presentacion}
-\include{14.defensa}
-\include{15.agradecimientos_libro}
+%\include{1.prologo}
+\include{1.introduccion_libro}
+\include{2.recomendaciones_generales}
+\include{3.estructura_memoria}
+\include{4.introduccion_tfg}
+\include{5.revision_estado_arte}
+\include{6.planificacion_presupuesto}
+\include{7.conclusiones_trabajos_futuros}
+\include{8.bibliografia_tfg}
+\include{X.anexostfg}
+\include{9.revision_proyecto_memoria}
+\include{10.elaboracion_presentacion}
+\include{11.defensa}
 
 \bibliographystyle{plain}
 \bibliography{bibliografia_libro}
 
-
 %\appendix
-\include{16.anexos_libro}
-\include{8.tipologias}
+\include{anexoI_licencias}
+\include{anexoII_tipologias}
 
 \end{document}
