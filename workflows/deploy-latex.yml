@@ -1,0 +1,67 @@
+name: Build and Deploy LaTeX Document
+
+permissions: write-all
+
+on:
+  push:
+    branches: ["main"]
+  pull_request:
+    branches: ["main"]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      # Restore the TeX Live installation from cache
+      - name: Restore TeX Live Cache
+        uses: actions/cache@v2
+        with:
+          path: |
+            /usr/local/texlive
+          key: texlive-${{ runner.os }}-${{ hashFiles('**/*.tex') }}
+
+      - name: Install TeX Live
+        run: |
+          sudo apt update
+          sudo apt install texlive-full
+
+      - name: Build Latex PDF and HTML
+        run: |
+          mkdir ./public
+          cp *.tex public/
+          cp -r assets/ public/
+          cd public/
+          pdflatex ElaboracionMemoriaTFG.tex
+          pdflatex ElaboracionMemoriaTFG.tex
+          make4ht ElaboracionMemoriaTFG.tex
+          mv ElaboracionMemoriaTFG.html index.html
+
+      # Save the TeX Live installation to cache for future use
+      - name: Save TeX Live Cache
+        uses: actions/cache@v2
+        with:
+          path: |
+            /usr/local/texlive
+          key: texlive-${{ runner.os }}-${{ hashFiles('**/*.tex') }}
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: PDF
+          path: public/ElaboracionMemoriaTFG.pdf
+
+      - name: Publish PDF
+        uses: softprops/action-gh-release@v1
+        with:
+          tag_name: Current
+          files: public/ElaboracionMemoriaTFG.pdf
+
+      - name: Publish HTML to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
