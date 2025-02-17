@@ -29,7 +29,7 @@ jobs:
           sudo apt update
           sudo apt install texlive-full
 
-      - name: Build Latex PDF and HTML
+      - name: Build Latex PDF 
         run: |
           mkdir ./public
           cp *.tex public/
@@ -37,8 +37,6 @@ jobs:
           cd public/
           pdflatex ElaboracionMemoriaTFG.tex
           pdflatex ElaboracionMemoriaTFG.tex
-          make4ht ElaboracionMemoriaTFG.tex
-          mv ElaboracionMemoriaTFG.html index.html
 
       # Save the TeX Live installation to cache for future use
       - name: Save TeX Live Cache
@@ -59,6 +57,12 @@ jobs:
         with:
           tag_name: Current
           files: public/ElaboracionMemoriaTFG.pdf
+
+      - name: Build Latex  HTML
+        run: |
+          cd public/
+          make4ht ElaboracionMemoriaTFG.tex
+          mv ElaboracionMemoriaTFG.html index.html
 
       - name: Publish HTML to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
