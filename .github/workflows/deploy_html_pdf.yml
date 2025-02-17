@@ -55,14 +55,14 @@ jobs:
       - name: Publish PDF
         uses: softprops/action-gh-release@v1
         with:
-          tag_name: Current
+          tag_name: ÚltimaCompilación
           files: public/ElaboracionMemoriaTFG.pdf
 
-      #- name: Build Latex  HTML
-      #  run: |
-      #    cd public/
-      #    make4ht ElaboracionMemoriaTFG.tex
-      #    mv ElaboracionMemoriaTFG.html index.html
+      - name: Build Latex  HTML
+        run: |
+          cd public/
+          make4ht ElaboracionMemoriaTFG.tex
+          mv ElaboracionMemoriaTFG.html index.html
 
       - name: Publish HTML to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
