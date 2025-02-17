@@ -37,6 +37,8 @@ jobs:
           cd public/
           pdflatex ElaboracionMemoriaTFG.tex
           pdflatex ElaboracionMemoriaTFG.tex
+          make4ht ElaboracionMemoriaTFG.tex
+          mv ElaboracionMemoriaTFG.html index.html
 
       # Save the TeX Live installation to cache for future use
       - name: Save TeX Live Cache
@@ -58,12 +60,7 @@ jobs:
           tag_name: ÚltimaCompilación
           files: public/ElaboracionMemoriaTFG.pdf
 
-      - name: Build Latex  HTML
-        run: |
-          cd public/
-          make4ht ElaboracionMemoriaTFG.tex
-          mv ElaboracionMemoriaTFG.html index.html
-
+          
       - name: Publish HTML to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
