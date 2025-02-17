@@ -1,4 +1,5 @@
 \documentclass{book}
+\usepackage[a4paper]{geometry}
 \usepackage{xcolor}
 \usepackage{color}
 \usepackage[spanish]{babel}
@@ -19,36 +20,77 @@
 \usepackage{color}
 \usepackage{rotating}
 %\usepackage[utf8]{inputenc}
+\usepackage{charter} % Palatino como fuente principal
+\usepackage{emptypage} % Evita encabezados y pies de página en páginas vacías
+\usepackage{microtype}
+\usepackage{pdfpages}
+\usepackage[fixlanguage]{babelbib}
+
+\hypersetup{
+    pdftitle={Cómo escribir la memoria de tu TFG del Grado en Ingeniería Informática y presentarlo sin morir en el intento}
+    pdflang={es-ES}
+}
+%\usepackage[tagged,highstructure]{accessibility}
+
+
+% Cambiar "Cuadro" por "Tabla"
+\addto\captionsspanish{\renewcommand{\tablename}{Tabla}}
 
 \newcommand{\emc}[1]{\textcolor{blue}{#1}}
 \newenvironment{naranja}{\par\color{orange}}{\par}
 
-\title{Cómo escribir la memoria de tu TFG del \\ Grado de Ingeniería Informática\\ y presentarlo sin morir en el intento}
+\title{Cómo escribir la memoria de tu TFG del \\ Grado en Ingeniería Informática\\ y presentarlo sin morir en el intento}
 \author{
     \makebox[\textwidth][c]{%
         \begin{minipage}{\textwidth}
             \centering
             Alberto Guillén Perales, Eugenio Martínez Cámara, \\
             Juan Manuel Fernández Luna, Pablo García Sánchez, \\
-            Manuel Noguera García, María José Rodríguez Fortis, \\
+            Manuel Noguera García, María José Rodríguez Fórtiz, \\
             Rocío Romero Zaliz \\[1ex]
            \vspace{2ex}
             Escuela Técnica Superior de Ingenierías\\ Informática y de Telecomunicación\\
             Universidad de Granada\\ 
            \vspace{5ex}
-            Depósito legal: XXXXXXX
+            %Depósito legal: XXXXXXX
         \end{minipage}%
     }
 }
 \date{\today}
 
 \begin{document}
-\maketitle
-\chapter*{Agradecimientos}
-\addcontentsline{toc}{chapter}{Agradecimientos}
-Queremos expresar nuestro más profundo agradecimiento a los estudiantes egresados del Doble Grado de Ingeniería Informática y Matemáticas, Javier , Mario xxxx, al egresado del Doble Grado de Ingeniería Informática y ADE, Néstor Martínez xxx, y a Álvaro Jesús Baena Rosino, alumno en este curso 2024/2025 de este doble grado, y también a los compañeros de la ETSIIT, Javier Medina Quero y José Manuel Soto Hidalgo, que aceptaron nuestra propuesta de revisión del manuscrito. Sus certeros comentarios y correcciones sin duda han mejorado la calidad de este libro. Muchas gracias por vuestra colaboración.
 
-Este libro ha sido escrito dentro del marco del Proyecto de Innovación y Buenas Prácticas Docentes Avanzados/Coordinados 2022-2024 con código 22-29 y titulado ``Cómo escribir tu TFG o TFM de ingeniería informática y no morir en el intento: dificultades, retos y elaboración de materiales docentes'' y financiado por el Plan FIDO UGR, Plan de Formación e Innovación Docente 2022-2023, Programa de Innovación y Buenas Prácticas Docentes, Unidad de Calidad, Innovación Docente y Prospectiva de la Universidad de Granada. 
+% Página de portada con imagen
+\clearpage
+
+\thispagestyle{empty} % Sin numeración
+\includepdf[pages={1},width=1.45\textwidth]{images/portada.pdf}
+%\maketitle
+
+\thispagestyle{empty} % Sin numeración
+
+\textit{Cómo escribir la memoria de tu TFG del Grado en Ingeniería Informática y presentarlo sin morir en el intento} \textcopyright 2025 por Alberto Guillén Perales, Eugenio Martínez Cámara, Juan Manuel Fernández Luna, Pablo García Sánchez,  Manuel Noguera García, María José Rodríguez Fórtiz,  Rocío Romero Zaliz está licenciado bajo CC BY-NC-SA 4.0. Para ver una copia de esta licencia visite \url{https://creativecommons.org/licenses/by-nc-sa/4.0/}
+
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=2cm]{images/by-nc-sa.png}
+\end{figure}
+
+\vspace{5ex}
+Depósito legal: GR 242-2025
+
+%ISBN: XXXXXXXXXX
+
+
+\chapter*{Agradecimientos}
+%\addcontentsline{toc}{chapter}{Agradecimientos}
+Queremos expresar nuestro más profundo agradecimiento a los estudiantes egresados del Doble Grado de Ingeniería Informática y Matemáticas, Javier Granados López, Mario García Márquez, al egresado del Doble Grado de Ingeniería Informática y ADE, Néstor Martínez Sáez, y a Álvaro Jesús Baena Rosino, alumno en este curso 2024/2025 de este doble grado, y también a los compañeros de la ETSIIT, Javier Medina Quero y José Manuel Soto Hidalgo, que aceptaron nuestra propuesta de revisión del manuscrito. Sus certeros comentarios y correcciones sin duda han mejorado la calidad de este libro. Muchas gracias por vuestra colaboración. También queremos agradecer a nuestros compañeros y compañeras de la ETS. de Ingenierías Informática y de Telecomunicación por todas esas fructíferas reuniones, tribunales compartidos y comisiones, pero sobre todo por esos cafés y charlas informales en pasillos que nos han hecho mejorar en nuestra labor docente como tutores y tutoras de TFG. Y, por último, pero no menos importante, damos las gracias a Joaquín Fernández Valdivia por aceptar nuestra invitación y escribir el prólogo de este libro.
+
+Y no podemos olvidar a quienes hemos tenido el privilegio de tutorizar en estos años. Esperamos que hayáis aprendido una fracción de todo lo que hemos aprendido gracias a vuestro trabajo, esfuerzo y dedicación. Esta es nuestra forma de agradecerlo.
+
+Este manual ha sido escrito dentro del marco del Proyecto de Innovación y Buenas Prácticas Docentes Avanzados/Coordinados 2022-2024 con código 22-29 y titulado ``Cómo escribir tu TFG o TFM de ingeniería informática y no morir en el intento: dificultades, retos y elaboración de materiales docentes'' y financiado por el Plan FIDO UGR, Plan de Formación e Innovación Docente 2022-2023, Programa de Innovación y Buenas Prácticas Docentes, Unidad de Calidad, Innovación Docente y Prospectiva de la Universidad de Granada. 
+
+\include{0.prologo}
 
 \tableofcontents
 \listoftables
@@ -69,11 +111,81 @@ Este libro ha sido escrito dentro del marco del Proyecto de Innovación y Buenas
 \include{10.elaboracion_presentacion}
 \include{11.defensa}
 
-\bibliographystyle{plain}
+
+\bibliographystyle{bababbrv-fl}
 \bibliography{bibliografia_libro}
 
 %\appendix
 \include{anexoI_licencias}
 \include{anexoII_tipologias}
+\include{anexoIII_experiencias.tex}
+\clearpage
+\thispagestyle{empty}
+\null
+\newpage
+
+% Contraportada
+\clearpage
+\thispagestyle{empty} % Sin encabezado ni pie de página
+
+\begin{titlepage}
+    \begin{minipage}{0.9\textwidth}
+ \textbf{Cómo escribir la memoria de tu TFG del Grado en Ingeniería Informática y presentarlo sin morir en el intento} \\ \\
+        \small
+      
+       Alberto Guillén Perales\\
+       Departamento de Ingeniería de Computadores, Automática y Robótica\\
+       Universidad de Granada\\ 
+       \vspace{1ex}\\
+       Eugenio Martínez Cámara \\ 
+       Departamento de Informática \\
+       Universidad de Jaén\\
+       \vspace{1ex}\\
+       Juan Manuel Fernández Luna\\
+       Departamento de Ciencias de la Computación e Inteligencia Artificial\\
+       Universidad de Granada\\ 
+       \vspace{1ex}\\
+       Pablo García Sánchez\\
+       Departamento de Ingeniería de Computadores, Automática y Robótica\\
+       Universidad de Granada\\ 
+       \vspace{1ex}\\
+       Manuel Noguera García\\
+       Departamento de Lenguajes y Sistemas Informáticos \\
+       Universidad de Granada\\ 
+       \vspace{1ex}\\
+       María José Rodríguez Fórtiz\\
+       Departamento de Lenguajes y Sistemas Informáticos \\
+       Universidad de Granada\\ 
+       \vspace{1ex} \\
+       Rocío Romero Zaliz\\
+       Departamento de Ciencias de la Computación e Inteligencia Artificial\\
+       Universidad de Granada\\ 
+
+       
+    \end{minipage}
+
+  %{\Large\bfseries Recursos Adicionales\par}
+    \vspace{1cm}
+    \begin{minipage}{0.9\textwidth}
+        \centering
+        \begin{minipage}{0.45\textwidth}
+            \centering
+            \includegraphics[width=0.9\textwidth]{images/qr-youtube.png}\\
+            \small Canal de YouTube
+        \end{minipage}
+        \hfill
+        \begin{minipage}{0.45\textwidth}
+            \centering
+            \includegraphics[width=0.9\textwidth]{images/qr-github.png}\\
+            \small Repositorio de GitHub
+        \end{minipage}
+    \end{minipage}
+
+\end{titlepage}
+
+\newpage
+
+\thispagestyle{empty} % Sin numeración
+\includepdf[pages={1},width=1.45\textwidth]{images/contraportada.pdf}
 
 \end{document}
