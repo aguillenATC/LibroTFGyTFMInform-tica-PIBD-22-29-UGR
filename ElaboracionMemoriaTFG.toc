@@ -1,4 +1,4 @@
-\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}
 \contentsline {chapter}{\numberline {1}Introducción}{17}{chapter.1}%
 \contentsline {chapter}{\numberline {2}Recomendaciones generales}{21}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Sobre la elección del TFG}{21}{section.2.1}%
@@ -87,7 +87,7 @@
 \contentsline {section}{\numberline {B.1}TFG de desarrollo de software}{103}{section.Alph2.1}%
 \contentsline {section}{\numberline {B.2}TFG de investigación}{105}{section.Alph2.2}%
 \contentsline {subsection}{\numberline {B.2.1}El método científico}{106}{subsection.Alph2.2.1}%
-\contentsline {subsection}{\numberline {B.2.2}Estructura del trabajo y de la memoria}{107}{subsection.Alph2.2.2}%
+\contentsline {subsection}{\numberline {B.2.2}Estructura del trabajo y de la memoria}{108}{subsection.Alph2.2.2}%
 \contentsline {paragraph}{Motivación - Pregunta de investigación\textnormal {.}}{108}{section*.20}%
 \contentsline {paragraph}{Investigación relacionada - Estudiar el estado del arte\textnormal {.}}{108}{section*.21}%
 \contentsline {paragraph}{Hipótesis\textnormal {.}}{109}{section*.22}%
@@ -98,5 +98,3 @@
 \contentsline {section}{\numberline {B.3}TFG de revisión del estado del arte}{114}{section.Alph2.3}%
 \contentsline {subsection}{\numberline {B.3.1}Tipos de revisiones}{114}{subsection.Alph2.3.1}%
 \contentsline {subsection}{\numberline {B.3.2}Revisiones sistemáticas}{115}{subsection.Alph2.3.2}%
-\contentsline {chapter}{\numberline {C}Experiencias y consejos del estudiantado}{119}{appendix.Alph3}%
-\contentsline {section}{\numberline {C.1}¡Incluye tu comentario o experiencia aquí!}{119}{section.Alph3.1}%

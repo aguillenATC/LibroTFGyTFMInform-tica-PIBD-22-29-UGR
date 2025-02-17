@@ -1,488 +1,443 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.2.17)  17 FEB 2025 15:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=latex 2025.2.17)  17 FEB 2025 15:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**ElaboracionMemoriaTFG.tex
-(./ElaboracionMemoriaTFG.tex
-LaTeX2e <2023-11-01> patch level 1
-L3 programming layer <2024-01-22>
-(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
-Document Class: book 2023/05/17 v1.4n Standard LaTeX document class
+**\makeatletter\def\HCode{\futurelet\HCode\HChar}\def\HChar{\ifx"\HCode\def\HCo
+de"##1"{\Link##1}\expandafter\HCode\else\expandafter\Link\fi}\def\Link#1.a.b.c.
+{\g@addto@macro\@documentclasshook{\RequirePackage[#1,html]{tex4ht}}\let\HCode\
+documentstyle\def\documentstyle{\let\documentstyle\HCode\expandafter\def\csname
+ tex4ht\endcsname{#1,html}\def\HCode####1{\documentstyle[tex4ht,}\@ifnextchar[{
+\HCode}{\documentstyle[tex4ht]}}}\makeatother\HCode xhtml,,html5.a.b.c.\input "
+\detokenize{ElaboracionMemoriaTFG.tex}"
+(./ElaboracionMemoriaTFG.tex (/usr/share/texlive/texmf-dist/tex/latex/base/book
+.cls
+Document Class: book 2019/12/20 v1.4l Standard LaTeX document class
 (/usr/share/texlive/texmf-dist/tex/latex/base/bk10.clo
-File: bk10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+File: bk10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 )
-\c@part=\count187
-\c@chapter=\count188
-\c@section=\count189
-\c@subsection=\count190
-\c@subsubsection=\count191
-\c@paragraph=\count192
-\c@subparagraph=\count193
-\c@figure=\count194
-\c@table=\count195
-\abovecaptionskip=\skip48
-\belowcaptionskip=\skip49
-\bibindent=\dimen140
-)
-(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+\c@part=\count167
+\c@chapter=\count168
+\c@section=\count169
+\c@subsection=\count170
+\c@subsubsection=\count171
+\c@paragraph=\count172
+\c@subparagraph=\count173
+\c@figure=\count174
+\c@table=\count175
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/tex4ht.sty
+version 2019-03-18-15:24
+Package: tex4ht 
+--------------------------------------
+--- Note --- for _ at preamble, use the command line option `early_'
+--------------------------------------
+--------------------------------------
+--- Note --- for ^ at preamble, use the command line option `early^'
+--------------------------------------
+\tmp:toks=\toks14
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/usepackage.4ht
+version 2019-12-19-14:27
+) (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
-
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
-Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
-\KV@toks@=\toks17
-)
-(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+) (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
-
 (/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
-Package: iftex 2022/02/03 v1.0f TeX engine tests
+Package: iftex 2019/11/07 v1.0c TeX engine tests
 ))
-\Gm@cnth=\count196
-\Gm@cntv=\count197
-\c@Gm@tempcnt=\count198
-\Gm@bindingoffset=\dimen141
-\Gm@wd@mp=\dimen142
-\Gm@odd@mp=\dimen143
-\Gm@even@mp=\dimen144
-\Gm@layoutwidth=\dimen145
-\Gm@layoutheight=\dimen146
-\Gm@layouthoffset=\dimen147
-\Gm@layoutvoffset=\dimen148
-\Gm@dimlist=\toks18
-)
-(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
-Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
-
+\Gm@cnth=\count176
+\Gm@cntv=\count177
+\c@Gm@tempcnt=\count178
+\Gm@bindingoffset=\dimen135
+\Gm@wd@mp=\dimen136
+\Gm@odd@mp=\dimen137
+\Gm@even@mp=\dimen138
+\Gm@layoutwidth=\dimen139
+\Gm@layoutheight=\dimen140
+\Gm@layouthoffset=\dimen141
+\Gm@layoutvoffset=\dimen142
+\Gm@dimlist=\toks16
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/usepackage.4ht
+version 2019-12-19-14:27
+) (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
-Package xcolor Info: Driver file: pdftex.def on input line 274.
-
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
-File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+Package xcolor Info: Driver file: dvips.def on input line 225.
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/dvips.def
+File: dvips.def 2017/06/20 v3.1d Graphics/color driver for dvips
 )
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx)
-Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
-Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1354.
-Package xcolor Info: Model `RGB' extended on input line 1366.
-Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1368.
-Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1369.
-Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
-Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
-Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
-Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
-)
-(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2024/01/07 v24.1 The Babel package
-\babel@savecnt=\count199
-\U@D=\dimen149
-\l@unhyphenated=\language89
-
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+) (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2020/02/14 3.40 The Babel package
+(/usr/share/texlive/texmf-dist/tex/generic/babel/switch.def
+File: switch.def 2020/02/14 3.40 Babel switching mechanism
+) (/usr/share/texlive/texmf-dist/tex/generic/babel-spanish/spanish.ldf
+Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2020/02/14 3.40 Babel common definitions
+\babel@savecnt=\count179
+\U@D=\dimen143
 (/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
 \bbl@readstream=\read2
-\bbl@dirlevel=\count266
-
-(/usr/share/texlive/texmf-dist/tex/generic/babel-spanish/spanish.ldf
-Language: spanish.ldf 2021/05/27 v5.0q Spanish support from the babel system
-\es@quottoks=\toks19
-\es@quotdepth=\count267
-Package babel Info: Making " an active character on input line 570.
-Package babel Info: Making . an active character on input line 675.
-Package babel Info: Making < an active character on input line 722.
-Package babel Info: Making > an active character on input line 722.
-))
-(/usr/share/texlive/texmf-dist/tex/generic/babel/locale/es/babel-spanish.tex
-Package babel Info: Importing font and identification data for spanish
-(babel)             from babel-es.ini. Reported on input line 11.
+\bbl@dirlevel=\count180
 )
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
-
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
-
+\es@quottoks=\toks17
+\es@quotdepth=\count181
+Package babel Info: Making " an active character on input line 561.
+Package babel Info: Making . an active character on input line 662.
+Package babel Info: Making < an active character on input line 707.
+Package babel Info: Making > an active character on input line 707.
+)) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/usepackage.4ht
+version 2019-12-19-14:27
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
-Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
-)
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: pdftex.def on input line 107.
+Package graphics Info: Driver file: dvips.def on input line 105.
 )
-\Gin@req@height=\dimen150
-\Gin@req@width=\dimen151
-)
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2024-01-20 v7.01h Hypertext links for LaTeX
-
-(/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
-Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
-)
-(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
-Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
-Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
-
+\Gin@req@height=\dimen144
+\Gin@req@width=\dimen145
+) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2020/01/14 v7.00d Hypertext links for LaTeX
 (/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
-Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+) (/usr/share/texlive/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
 )
-(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
-Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
-)
-
 (/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
-))
-(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package pdftexcmds Info: \pdfdraftmode is ignored in DVI mode.
+) (/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
-)
-(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+) (/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
-)
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
-Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
 
-(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
-Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
-)
-(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
-Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+Package auxhook Warning: Cannot patch \document,
+(auxhook)                using \AtBeginDocument instead.
 
-(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
-Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
-))
-\c@section@level=\count268
+) (/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
-Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count269
-)
-\@linkdim=\dimen152
-\Hy@linkcounter=\count270
-\Hy@pagecounter=\count271
-
+\@linkdim=\dimen146
+\Hy@linkcounter=\count182
+\Hy@pagecounter=\count183
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2024-01-20 v7.01h Hyperref: PDFDocEncoding definition (HO)
+File: pd1enc.def 2020/01/14 v7.00d Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
-)
-(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
+) (/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count272
-
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
-File: puenc.def 2024-01-20 v7.01h Hyperref: PDF Unicode definition (HO)
-Now handling font encoding PU ...
-... no UTF-8 mapping file for font encoding PU
-)
-Package hyperref Info: Hyper figures OFF on input line 4179.
-Package hyperref Info: Link nesting OFF on input line 4184.
-Package hyperref Info: Hyper index ON on input line 4187.
-Package hyperref Info: Plain pages OFF on input line 4194.
-Package hyperref Info: Backreferencing OFF on input line 4199.
+\Hy@SavedSpaceFactor=\count184
+\pdfmajorversion=\count185
+Package hyperref Info: Option `colorlinks' set `true' on input line 4421.
+Package hyperref Info: Hyper figures OFF on input line 4547.
+Package hyperref Info: Link nesting OFF on input line 4552.
+Package hyperref Info: Hyper index ON on input line 4555.
+Package hyperref Info: Plain pages OFF on input line 4562.
+Package hyperref Info: Backreferencing OFF on input line 4567.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4446.
-\c@Hy@tempcnt=\count273
-
+Package hyperref Info: Bookmarks ON on input line 4800.
+\c@Hy@tempcnt=\count186
 (/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 4784.
-\XeTeXLinkMargin=\dimen153
-
+LaTeX Info: Redefining \url on input line 5159.
+\XeTeXLinkMargin=\dimen147
 (/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
-
 (/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count274
-\Field@Width=\dimen154
-\Fld@charsize=\dimen155
-Package hyperref Info: Hyper figures OFF on input line 6063.
-Package hyperref Info: Link nesting OFF on input line 6068.
-Package hyperref Info: Hyper index ON on input line 6071.
-Package hyperref Info: backreferencing OFF on input line 6078.
-Package hyperref Info: Link coloring OFF on input line 6083.
-Package hyperref Info: Link coloring with OCG OFF on input line 6088.
-Package hyperref Info: PDF/A mode OFF on input line 6093.
+\Fld@menulength=\count187
+\Field@Width=\dimen148
+\Fld@charsize=\dimen149
+\Field@toks=\toks18
+Package hyperref Info: Hyper figures OFF on input line 6430.
+Package hyperref Info: Link nesting OFF on input line 6435.
+Package hyperref Info: Hyper index ON on input line 6438.
+Package hyperref Info: backreferencing OFF on input line 6445.
+Package hyperref Info: Link coloring ON on input line 6448.
+Package hyperref Info: Link coloring with OCG OFF on input line 6455.
+Package hyperref Info: PDF/A mode OFF on input line 6460.
+LaTeX Info: Redefining \ref on input line 6500.
+LaTeX Info: Redefining \pageref on input line 6504.
+(/usr/share/texlive/texmf-dist/tex/generic/atbegshi/atbegshi.sty
+Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+)
+\Hy@abspage=\count188
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty
-Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
-package with kernel methods
-)
-\Hy@abspage=\count275
-\c@Item=\count276
-\c@Hfootnote=\count277
-)
-Package hyperref Info: Driver (autodetected): hpdftex.
+Package hyperref Message: Stopped early.
 
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
-File: hpdftex.def 2024-01-20 v7.01h Hyperref driver for pdfTeX
-
-(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty
-Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
-kage
-with kernel methods
 )
-\Fld@listcount=\count278
-\c@bookmark@seq@number=\count279
-
-(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
-Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
-
-(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
-Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
-)
-Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
-85.
-)
-\Hy@SectionHShift=\skip50
-)
-(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package hyperref Info: Driver: htex4ht.
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/htex4ht.def
+File: htex4ht.def 2020/01/14 v7.00d Hyperref driver for TeX4ht
+Package hyperref Info: tex4ht is already loaded.
+) (/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
-\heavyrulewidth=\dimen156
-\lightrulewidth=\dimen157
-\cmidrulewidth=\dimen158
-\belowrulesep=\dimen159
-\belowbottomsep=\dimen160
-\aboverulesep=\dimen161
-\abovetopsep=\dimen162
-\cmidrulesep=\dimen163
-\cmidrulekern=\dimen164
-\defaultaddspace=\dimen165
-\@cmidla=\count280
-\@cmidlb=\count281
-\@aboverulesep=\dimen166
-\@belowrulesep=\dimen167
-\@thisruleclass=\count282
-\@lastruleclass=\count283
-\@thisrulewidth=\dimen168
-)
-(/usr/share/texlive/texmf-dist/tex/latex/varwidth/varwidth.sty
+\heavyrulewidth=\dimen150
+\lightrulewidth=\dimen151
+\cmidrulewidth=\dimen152
+\belowrulesep=\dimen153
+\belowbottomsep=\dimen154
+\aboverulesep=\dimen155
+\abovetopsep=\dimen156
+\cmidrulesep=\dimen157
+\cmidrulekern=\dimen158
+\defaultaddspace=\dimen159
+\@cmidla=\count189
+\@cmidlb=\count190
+\@aboverulesep=\dimen160
+\@belowrulesep=\dimen161
+\@thisruleclass=\count191
+\@lastruleclass=\count192
+\@thisrulewidth=\dimen162
+) (/usr/share/texlive/texmf-dist/tex/latex/varwidth/varwidth.sty
 Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
-\@vwid@box=\box51
-\sift@deathcycles=\count284
-\@vwid@loff=\dimen169
-\@vwid@roff=\dimen170
-)
-(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
-Package: caption 2023/08/05 v3.6o Customizing captions (AR)
-
+\@vwid@box=\box45
+\sift@deathcycles=\count193
+\@vwid@loff=\dimen163
+\@vwid@roff=\dimen164
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/usepackage.4ht
+version 2019-12-19-14:27
+) (/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/01/03 v3.4h Customizing captions (AR)
 (/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
-Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
-\caption@tempdima=\dimen171
-\captionmargin=\dimen172
-\caption@leftmargin=\dimen173
-\caption@rightmargin=\dimen174
-\caption@width=\dimen175
-\caption@indent=\dimen176
-\caption@parindent=\dimen177
-\caption@hangindent=\dimen178
+Package: caption3 2020/01/03 v1.8h caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 61.
+\captionmargin=\dimen165
+\captionmargin@=\dimen166
+\captionwidth=\dimen167
+\caption@tempdima=\dimen168
+\caption@indent=\dimen169
+\caption@parindent=\dimen170
+\caption@hangindent=\dimen171
 Package caption Info: Standard document class detected.
 )
-\c@caption@flags=\count285
-\c@continuedfloat=\count286
+\c@caption@flags=\count194
+\c@continuedfloat=\count195
 Package caption Info: hyperref package is loaded.
-)
-(/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
-Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
-\multirow@colwidth=\skip51
-\multirow@cntb=\count287
-\multirow@dima=\skip52
-\bigstrutjot=\dimen179
-)
-(/usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty
+Package caption Info: Hyperref support is turned off
+(caption)             because hyperref has stopped early.
+) (/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
+\multirow@colwidth=\skip49
+\multirow@cntb=\count196
+\multirow@dima=\skip50
+\bigstrutjot=\dimen172
+) (/usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty
 Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
-)
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
-Package: amsmath 2023/05/13 v2.17o AMS math features
-\@mathmargin=\skip53
-
+) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip51
 For additional information on amsmath, use the `?' option.
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
-Package: amstext 2021/08/26 v2.01 AMS text
-
+Package: amstext 2000/06/29 v2.01 AMS text
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks20
-\ex@=\dimen180
-))
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+\@emptytoks=\toks19
+\ex@=\dimen173
+)) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen181
+\pmbraise@=\dimen174
+) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
 )
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
-Package: amsopn 2022/04/08 v2.04 operator names
-)
-\inf@bad=\count288
-LaTeX Info: Redefining \frac on input line 234.
-\uproot@=\count289
-\leftroot@=\count290
-LaTeX Info: Redefining \overline on input line 399.
-LaTeX Info: Redefining \colon on input line 410.
-\classnum@=\count291
-\DOTSCASE@=\count292
-LaTeX Info: Redefining \ldots on input line 496.
-LaTeX Info: Redefining \dots on input line 499.
-LaTeX Info: Redefining \cdots on input line 620.
-\Mathstrutbox@=\box52
-\strutbox@=\box53
-LaTeX Info: Redefining \big on input line 722.
-LaTeX Info: Redefining \Big on input line 723.
-LaTeX Info: Redefining \bigg on input line 724.
-LaTeX Info: Redefining \Bigg on input line 725.
-\big@size=\dimen182
-LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
-\macc@depth=\count293
-LaTeX Info: Redefining \bmod on input line 905.
-LaTeX Info: Redefining \pmod on input line 910.
-LaTeX Info: Redefining \smash on input line 940.
-LaTeX Info: Redefining \relbar on input line 970.
-LaTeX Info: Redefining \Relbar on input line 971.
-\c@MaxMatrixCols=\count294
+\inf@bad=\count197
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count198
+\leftroot@=\count199
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count266
+\DOTSCASE@=\count267
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box46
+\strutbox@=\box47
+\big@size=\dimen175
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count268
+\c@MaxMatrixCols=\count269
 \dotsspace@=\muskip17
-\c@parentequation=\count295
-\dspbrk@lvl=\count296
-\tag@help=\toks21
-\row@=\count297
-\column@=\count298
-\maxfields@=\count299
-\andhelp@=\toks22
-\eqnshift@=\dimen183
-\alignsep@=\dimen184
-\tagshift@=\dimen185
-\tagwidth@=\dimen186
-\totwidth@=\dimen187
-\lineht@=\dimen188
-\@envbody=\toks23
-\multlinegap=\skip54
-\multlinetaggap=\skip55
-\mathdisplay@stack=\toks24
-LaTeX Info: Redefining \[ on input line 2953.
-LaTeX Info: Redefining \] on input line 2954.
-)
-(/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
+\c@parentequation=\count270
+\dspbrk@lvl=\count271
+\tag@help=\toks20
+\row@=\count272
+\column@=\count273
+\maxfields@=\count274
+\andhelp@=\toks21
+\eqnshift@=\dimen176
+\alignsep@=\dimen177
+\tagshift@=\dimen178
+\tagwidth@=\dimen179
+\totwidth@=\dimen180
+\lineht@=\dimen181
+\@envbody=\toks22
+\multlinegap=\skip52
+\multlinetaggap=\skip53
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+) (/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
-\labelindent=\skip56
-\enit@outerparindent=\dimen189
-\enit@toks=\toks25
-\enit@inbox=\box54
-\enit@count@id=\count300
-\enitdp@description=\count301
-)
-(/usr/share/texlive/texmf-dist/tex/latex/todonotes/todonotes.sty
-Package: todonotes 2024/01/05 v1.1.7 Todonotes source and documentation.
-Package: todonotes 2024/01/05
-
+\labelindent=\skip54
+\enit@outerparindent=\dimen182
+\enit@toks=\toks24
+\enit@inbox=\box48
+\enit@count@id=\count275
+\enitdp@description=\count276
+) (/usr/share/texlive/texmf-dist/tex/latex/todonotes/todonotes.sty
+Package: todonotes 2019/01/24 v1.1.2 Todonotes source and documentation.
+Package: todonotes 2018/11/22
 (/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
-Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+) (/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex (/usr/share/texl
+ive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks25
+\XKV@tempa@toks=\toks26
 )
-(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
-Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
-
-(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
-(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
-\XKV@toks=\toks26
-\XKV@tempa@toks=\toks27
-)
-\XKV@depth=\count302
+\XKV@depth=\count277
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
-))
-(/usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
-(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
-(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
-\pgfutil@everybye=\toks28
-\pgfutil@tempdima=\dimen190
-\pgfutil@tempdimb=\dimen191
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
-\pgfutil@abb=\box55
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/pgf.revision.tex)
-Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
-))
-Package: pgf 2023-01-15 v3.1.10 (3.1.10)
+)) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/usepackage.4ht
+version 2019-12-19-14:27
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/usepackage.4ht
+version 2019-12-19-14:27
+) (/usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty (/usr/sha
+re/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty (/usr/share/texlive/texm
+f-dist/tex/latex/pgf/utilities/pgfrcs.sty (/usr/share/texlive/texmf-dist/tex/ge
+neric/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks27
+\pgfutil@tempdima=\dimen183
+\pgfutil@tempdimb=\dimen184
 
-(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
-(/usr/share/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
-Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
-
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.t
+ex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box49
+(/usr/share/texlive/texmf-dist/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex (/u
+sr/share/texlive/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2020/01/08 v3.1.5b (3.1.5b)
+))
+Package: pgf 2020/01/08 v3.1.5b (3.1.5b)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty (/usr/share
+/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty (/usr/share/texlive/te
+xmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2020/01/08 v3.1.5b (3.1.5b)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
-\pgfkeys@pathtoks=\toks29
-\pgfkeys@temptoks=\toks30
+\pgfkeys@pathtoks=\toks28
+\pgfkeys@temptoks=\toks29
 
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryfiltered
-.code.tex
-\pgfkeys@tmptoks=\toks31
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.t
+ex
+\pgfkeys@tmptoks=\toks30
 ))
-\pgf@x=\dimen192
-\pgf@y=\dimen193
-\pgf@xa=\dimen194
-\pgf@ya=\dimen195
-\pgf@xb=\dimen196
-\pgf@yb=\dimen197
-\pgf@xc=\dimen198
-\pgf@yc=\dimen199
-\pgf@xd=\dimen256
-\pgf@yd=\dimen257
+\pgf@x=\dimen185
+\pgf@y=\dimen186
+\pgf@xa=\dimen187
+\pgf@ya=\dimen188
+\pgf@xb=\dimen189
+\pgf@yb=\dimen190
+\pgf@xc=\dimen191
+\pgf@yc=\dimen192
+\pgf@xd=\dimen193
+\pgf@yd=\dimen194
 \w@pgf@writea=\write3
 \r@pgf@reada=\read3
-\c@pgf@counta=\count303
-\c@pgf@countb=\count304
-\c@pgf@countc=\count305
-\c@pgf@countd=\count306
-\t@pgf@toka=\toks32
-\t@pgf@tokb=\toks33
-\t@pgf@tokc=\toks34
-\pgf@sys@id@count=\count307
- (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
-File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
+\c@pgf@counta=\count278
+\c@pgf@countb=\count279
+\c@pgf@countc=\count280
+\c@pgf@countd=\count281
+\t@pgf@toka=\toks31
+\t@pgf@tokb=\toks32
+\t@pgf@tokc=\toks33
+\pgf@sys@id@count=\count282
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2020/01/08 v3.1.5b (3.1.5b)
 )
-Driver file for pgf: pgfsys-pdftex.def
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
-File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
+Driver file for pgf: pgfsys-tex4ht.def
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-tex4ht.def
+File: pgfsys-tex4ht.def 2020/01/08 v3.1.5b (3.1.5b)
 
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.de
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-svg.de
 f
-File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
+File: pgfsys-common-svg.def 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@sys@svg@objectcount=\count283
+\pgf@sys@svg@scopecount=\count284
+\pgf@sys@svg@type@count=\count285
+\pgf@sys@svg@canvascount=\count286
+)
+\pgf@sys@svg@picnum=\count287
+\pgf@sys@svg@nodenum=\count288
+\pgfsys@foreignobject@Box=\box50
+\pgf@s=\dimen195
+\pgf@t=\dimen196
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/usepackage.4ht
+version 2019-12-19-14:27
 )))
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.
 tex
-File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfsyssoftpath@smallbuffer@items=\count308
-\pgfsyssoftpath@bigbuffer@items=\count309
+File: pgfsyssoftpath.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfsyssoftpath@smallbuffer@items=\count289
+\pgfsyssoftpath@bigbuffer@items=\count290
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.
 tex
-File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
-))
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
-Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
+File: pgfsysprotocol.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/usepackage.4ht
+version 2019-12-19-14:27
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2020/01/08 v3.1.5b (3.1.5b)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex (/usr/shar
+e/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex (/usr/share/texl
+ive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex) (/usr/share/texlive/t
+exmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen197
+\pgfmath@count=\count291
+\pgfmath@box=\box51
+\pgfmath@toks=\toks34
+\pgfmath@stack@operand=\toks35
+\pgfmath@stack@operation=\toks36
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
 
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
-\pgfmath@dimen=\dimen258
-\pgfmath@count=\count310
-\pgfmath@box=\box56
-\pgfmath@toks=\toks35
-\pgfmath@stack@operand=\toks36
-\pgfmath@stack@operation=\toks37
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code
 .tex)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonomet
@@ -498,194 +453,209 @@ tex)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.
 tex)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerari
-thmetics.code.tex)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count311
-))
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
+thmetics.code.tex))) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmat
+hfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count292
+)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.te
 x
-File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@picminx=\dimen259
-\pgf@picmaxx=\dimen260
-\pgf@picminy=\dimen261
-\pgf@picmaxy=\dimen262
-\pgf@pathminx=\dimen263
-\pgf@pathmaxx=\dimen264
-\pgf@pathminy=\dimen265
-\pgf@pathmaxy=\dimen266
-\pgf@xx=\dimen267
-\pgf@xy=\dimen268
-\pgf@yx=\dimen269
-\pgf@yy=\dimen270
-\pgf@zx=\dimen271
-\pgf@zy=\dimen272
+File: pgfcorepoints.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@picminx=\dimen198
+\pgf@picmaxx=\dimen199
+\pgf@picminy=\dimen256
+\pgf@picmaxy=\dimen257
+\pgf@pathminx=\dimen258
+\pgf@pathmaxx=\dimen259
+\pgf@pathminy=\dimen260
+\pgf@pathmaxy=\dimen261
+\pgf@xx=\dimen262
+\pgf@xy=\dimen263
+\pgf@yx=\dimen264
+\pgf@yy=\dimen265
+\pgf@zx=\dimen266
+\pgf@zy=\dimen267
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.
 code.tex
-File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@path@lastx=\dimen273
-\pgf@path@lasty=\dimen274
+File: pgfcorepathconstruct.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@path@lastx=\dimen268
+\pgf@path@lasty=\dimen269
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code
 .tex
-File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@shorten@end@additional=\dimen275
-\pgf@shorten@start@additional=\dimen276
+File: pgfcorepathusage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@shorten@end@additional=\dimen270
+\pgf@shorten@start@additional=\dimen271
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.te
 x
-File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfpic=\box57
-\pgf@hbox=\box58
-\pgf@layerbox@main=\box59
-\pgf@picture@serial@count=\count312
+File: pgfcorescopes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfpic=\box52
+\pgf@hbox=\box53
+\pgf@layerbox@main=\box54
+\pgf@picture@serial@count=\count293
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.c
 ode.tex
-File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgflinewidth=\dimen277
+File: pgfcoregraphicstate.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgflinewidth=\dimen272
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformation
 s.code.tex
-File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@pt@x=\dimen278
-\pgf@pt@y=\dimen279
-\pgf@pt@temp=\dimen280
+File: pgfcoretransformations.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@pt@x=\dimen273
+\pgf@pt@y=\dimen274
+\pgf@pt@temp=\dimen275
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
-File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
+File: pgfcorequick.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.t
 ex
-File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
+File: pgfcoreobjects.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing
 .code.tex
-File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
+File: pgfcorepathprocessing.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.te
 x
-File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfarrowsep=\dimen281
+File: pgfcorearrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfarrowsep=\dimen276
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
-File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@max=\dimen282
-\pgf@sys@shading@range@num=\count313
-\pgf@shadingcount=\count314
+File: pgfcoreshade.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@max=\dimen277
+\pgf@sys@shading@range@num=\count294
+\pgf@shadingcount=\count295
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
-File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)
+File: pgfcoreimage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.
 tex
-File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfexternal@startupbox=\box60
-)
+File: pgfcoreexternal.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfexternal@startupbox=\box55
+))
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.te
 x
-File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+File: pgfcorelayers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.c
 ode.tex
-File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
+File: pgfcoretransparency.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.
 tex
-File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
-File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
+File: pgfcorepatterns.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )))
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
-File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfnodeparttextbox=\box61
+File: pgfmoduleshapes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfnodeparttextbox=\box56
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
-File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
+File: pgfmoduleplot.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )
 (/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65
 .sty
-Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
-\pgf@nodesepstart=\dimen283
-\pgf@nodesepend=\dimen284
+Package: pgfcomp-version-0-65 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@nodesepstart=\dimen278
+\pgf@nodesepend=\dimen279
 )
 (/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18
 .sty
-Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
-)) (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
-(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
-(/usr/share/texlive/texmf-dist/tex/latex/pgf/math/pgfmath.sty
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
-Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
-\pgffor@iter=\dimen285
-\pgffor@skip=\dimen286
-\pgffor@stack=\toks38
-\pgffor@toks=\toks39
+Package: pgfcomp-version-1-18 2020/01/08 v3.1.5b (3.1.5b)
+)) (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty (/usr/shar
+e/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty (/usr/share/texlive/te
+xmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)) (/usr/share/texlive/texmf
+-dist/tex/latex/pgf/math/pgfmath.sty (/usr/share/texlive/texmf-dist/tex/generic
+/pgf/math/pgfmath.code.tex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/uti
+lities/pgffor.code.tex
+Package: pgffor 2020/01/08 v3.1.5b (3.1.5b)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen280
+\pgffor@skip=\dimen281
+\pgffor@stack=\toks37
+\pgffor@toks=\toks38
 ))
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
-Package: tikz 2023-01-15 v3.1.10 (3.1.10)
+Package: tikz 2020/01/08 v3.1.5b (3.1.5b)
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers
 .code.tex
-File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@plot@mark@count=\count315
-\pgfplotmarksize=\dimen287
+File: pgflibraryplothandlers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@plot@mark@count=\count296
+\pgfplotmarksize=\dimen282
 )
-\tikz@lastx=\dimen288
-\tikz@lasty=\dimen289
-\tikz@lastxsaved=\dimen290
-\tikz@lastysaved=\dimen291
-\tikz@lastmovetox=\dimen292
-\tikz@lastmovetoy=\dimen293
-\tikzleveldistance=\dimen294
-\tikzsiblingdistance=\dimen295
-\tikz@figbox=\box62
-\tikz@figbox@bg=\box63
-\tikz@tempbox=\box64
-\tikz@tempbox@bg=\box65
-\tikztreelevel=\count316
-\tikznumberofchildren=\count317
-\tikznumberofcurrentchild=\count318
-\tikz@fig@count=\count319
+\tikz@lastx=\dimen283
+\tikz@lasty=\dimen284
+\tikz@lastxsaved=\dimen285
+\tikz@lastysaved=\dimen286
+\tikz@lastmovetox=\dimen287
+\tikz@lastmovetoy=\dimen288
+\tikzleveldistance=\dimen289
+\tikzsiblingdistance=\dimen290
+\tikz@figbox=\box57
+\tikz@figbox@bg=\box58
+\tikz@tempbox=\box59
+\tikz@tempbox@bg=\box60
+\tikztreelevel=\count297
+\tikznumberofchildren=\count298
+\tikznumberofcurrentchild=\count299
+\tikz@fig@count=\count300
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
-File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfmatrixcurrentrow=\count320
-\pgfmatrixcurrentcolumn=\count321
-\pgf@matrix@numberofcolumns=\count322
+File: pgfmodulematrix.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfmatrixcurrentrow=\count301
+\pgfmatrixcurrentcolumn=\count302
+\pgf@matrix@numberofcolumns=\count303
 )
-\tikz@expandcount=\count323
+\tikz@expandcount=\count304
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
 zlibrarytopaths.code.tex
-File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
+File: tikzlibrarytopaths.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )))
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
 zlibrarypositioning.code.tex
-File: tikzlibrarypositioning.code.tex 2023-01-15 v3.1.10 (3.1.10)
+File: tikzlibrarypositioning.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
-Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count324
-\calc@Bcount=\count325
-\calc@Adimen=\dimen296
-\calc@Bdimen=\dimen297
-\calc@Askip=\skip57
-\calc@Bskip=\skip58
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryshadows.code.tex
+File: tikzlibraryshadows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryfadings.code.tex
+File: tikzlibraryfadings.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryfadings.code
+.tex
+File: pgflibraryfadings.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+
+Package pgf Warning: Your graphic driver pgfsys-tex4ht.def does not support svg
+ code in preamble. This warning is given only once on input line 31.
+
+
+Package pgf Warning: Your graphic driver pgfsys-tex4ht.def does not support fad
+ings. This warning is given only once on input line 31.
+
+))) (/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count305
+\calc@Bcount=\count306
+\calc@Adimen=\dimen291
+\calc@Bdimen=\dimen292
+\calc@Askip=\skip55
+\calc@Bskip=\skip56
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count326
-\calc@Cskip=\skip59
+\calc@Ccount=\count307
+\calc@Cskip=\skip57
 )
-\c@@todonotes@numberoftodonotes=\count327
-)
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+\c@@todonotes@numberoftodonotes=\count308
+) (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
-
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
@@ -694,99 +664,625 @@ LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
-\enitdp@todolist=\count328
-
+\enitdp@todolist=\count309
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/rotating.sty
 Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
-\c@r@tfl@t=\count329
-\rotFPtop=\skip60
-\rotFPbot=\skip61
-\rot@float@box=\box66
-\rot@mess@toks=\toks40
-)
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/charter.sty
-Package: charter 2020/03/25 PSNFSS-v9.3 (P.Dyballa) 
-)
-(/usr/share/texlive/texmf-dist/tex/latex/emptypage/emptypage.sty
+\c@r@tfl@t=\count310
+\rotFPtop=\skip58
+\rotFPbot=\skip59
+\rot@float@box=\box61
+\rot@mess@toks=\toks39
+) (/usr/share/texlive/texmf-dist/tex/latex/psnfss/charter.sty
+Package: charter 2005/04/12 PSNFSS-v9.2a (P.Dyballa) 
+) (/usr/share/texlive/texmf-dist/tex/latex/emptypage/emptypage.sty
 Package: emptypage 2010/05/30 v1.2 Suppress page numbers and headings on empty 
 pages
-)
-(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.sty
-Package: microtype 2023/03/13 v3.1a Micro-typographical refinements (RS)
-\MT@toks=\toks41
-\MT@tempbox=\box67
-\MT@count=\count330
-LaTeX Info: Redefining \noprotrusionifhmode on input line 1059.
-LaTeX Info: Redefining \leftprotrusion on input line 1060.
-\MT@prot@toks=\toks42
-LaTeX Info: Redefining \rightprotrusion on input line 1078.
-LaTeX Info: Redefining \textls on input line 1368.
-\MT@outer@kern=\dimen298
-LaTeX Info: Redefining \textmicrotypecontext on input line 1988.
-\MT@listname@count=\count331
-
+) (/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.sty
+Package: microtype 2019/11/18 v2.7d Micro-typographical refinements (RS)
+\MT@toks=\toks40
+\MT@count=\count311
+LaTeX Info: Redefining \textls on input line 790.
+\MT@outer@kern=\dimen293
+LaTeX Info: Redefining \textmicrotypecontext on input line 1354.
+\MT@listname@count=\count312
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype-pdftex.def
-File: microtype-pdftex.def 2023/03/13 v3.1a Definitions specific to pdftex (RS)
+File: microtype-pdftex.def 2019/11/18 v2.7d Definitions specific to pdftex (RS)
 
-LaTeX Info: Redefining \lsstyle on input line 902.
-LaTeX Info: Redefining \lslig on input line 902.
-\MT@outer@space=\skip62
+LaTeX Info: Redefining \lsstyle on input line 914.
+LaTeX Info: Redefining \lslig on input line 914.
+\MT@outer@space=\skip60
 )
 Package microtype Info: Loading configuration file microtype.cfg.
-
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.cfg
-File: microtype.cfg 2023/03/13 v3.1a microtype main configuration file (RS)
-))
-(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pdfpages.sty
-Package: pdfpages 2024/01/21 v0.5y Insert pages of external PDF documents (AM)
-
-(/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
-Package: eso-pic 2023/05/03 v3.0c eso-pic (RN)
-\ESO@tempdima=\dimen299
-\ESO@tempdimb=\dimen300
+File: microtype.cfg 2019/11/18 v2.7d microtype main configuration file (RS)
+)) (/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2020/01/28 v0.5q Insert pages of external PDF documents (AM)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/usepackage.4ht
+version 2019-12-19-14:27
+tex4ht warning: package eso-pic was prevented from loading
 )
-\AM@pagewidth=\dimen301
-\AM@pageheight=\dimen302
-\AM@fboxrule=\dimen303
-
+\AM@pagewidth=\dimen294
+\AM@pageheight=\dimen295
 (/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pppdftex.def
-File: pppdftex.def 2024/01/21 v0.5y Pdfpages driver for pdfTeX (AM)
-)
-\pdfpages@includegraphics@status=\count332
-\AM@pagebox=\box68
-\AM@global@opts=\toks43
-\AM@pagecnt=\count333
-\AM@toc@title=\toks44
-\AM@lof@heading=\toks45
-\c@AM@survey=\count334
-\AM@templatesizebox=\box69
-)
-(/usr/share/texlive/texmf-dist/tex/latex/babelbib/babelbib.sty
-Package: babelbib 2021/01/06 v1.34 babelbib: multilingual bibliographies
-\c@btxromaniannumeral=\count335
-)
-LaTeX Font Info:    Trying to load font information for OT1+bch on input line 6
-1.
+File: pppdftex.def 2020/01/28 v0.5q Pdfpages driver for pdfTeX (AM)
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/ppnull.def
+File: ppnull.def 2020/01/28 v0.5q Pdfpages dummy driver (AM)
 
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1bch.fd
-File: ot1bch.fd 2004/10/18 font definitions for OT1/bch.
+Package pdfpages Warning: I will use a dummy \includepdf command
+(pdfpages)                which will insert empty pages instead of the actual
+(pdfpages)                PDF file because we are running in DVI mode or with
+(pdfpages)                dvips driver.
+
+))
+\AM@pagebox=\box62
+\AM@global@opts=\toks41
+\AM@pagecnt=\count313
+\AM@toc@title=\toks42
+\c@AM@survey=\count314
+\AM@templatesizebox=\box63
+) (/usr/share/texlive/texmf-dist/tex/latex/babelbib/babelbib.sty
+Package: babelbib 2019/03/11 v1.32 babelbib: multilingual bibliographies (HH)
+\c@btxromaniannumeral=\count315
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/tex4ht.4ht
+version 2018-12-30-09:29
+--------------------------------------
+--- Note --- for additional information, use the command line option `info'
+--------------------------------------
+::::::::::::::::::::::::::::::::::::::::::
+ TeX4ht info is available in the log file 
+::::::::::::::::::::::::::::::::::::::::::
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/tex4ht.sty
+version 2019-03-18-15:24
+--- needs --- tex4ht ElaboracionMemoriaTFG ---
+\tmp:cnt=\count316
+\openout15 = `ElaboracionMemoriaTFG.tmp'.
+
+(./ElaboracionMemoriaTFG.tmp)
+\tmp:dim=\skip61
+(./ElaboracionMemoriaTFG.xref)
+\:refout=\write4
+\openout4 = `ElaboracionMemoriaTFG.xref'.
+
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-02-14-14:21
+--------------------------------------
+--- Note --- to remove the <?xml version=...?> processing instruction use the c
+ommand line option `no-VERSION'
+--------------------------------------
+--------------------------------------
+--- Note --- to remove the DOCTYPE declaration use the command line option `no-
+DOCTYPE'
+--------------------------------------
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2019-12-28-14:40
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2019-12-16-15:21
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2019-11-21-13:36
 )
-(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count336
-\l__pdf_internal_box=\box70
+--------------------------------------
+--- Note --- for marking of the base font, use the command line option `fonts+'
+
+--------------------------------------
+--------------------------------------
+--- Note --- for non active _, use the command line option `no_'
+--------------------------------------
+--------------------------------------
+--- Note --- for _ of catcode 13, use the command line option `_13'
+--------------------------------------
+--------------------------------------
+--- Note --- for non active ^, use the command line option `no^'
+--------------------------------------
+--------------------------------------
+--- Note --- for ^ of catcode 13, use the command line option `^13'
+--------------------------------------
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-02-14-14:21
+--------------------------------------
+--- Note --- for alternative charset, use the command line option `charset=...'
+
+--------------------------------------
+--------------------------------------
+--- Note --- to ignore CSS font decoration, use the `NoFonts' command line opti
+on
+--------------------------------------
+--------------------------------------
+--- Note --- for jpg bitmaps of pictures, use the `jpg' command line option. (C
+haracter bitmaps are controled only by `g' records of tex4ht.env and `-g' switc
+hes of tex4ht.c) 
+--------------------------------------
+--------------------------------------
+--- Note --- for gif bitmaps of pictures, use the `gif' command line option. (C
+haracter bitmaps are controled only by `g' records of tex4ht.env and `-g' switc
+hes of tex4ht.c) 
+--------------------------------------
+--------------------------------------
+--- Note --- for content and toc in 2 frames, use the command line option `fram
+es'
+--------------------------------------
+--------------------------------------
+--- Note --- for content, toc, and footnotes in 3 frames, use the command line 
+option `frames-fn'
+--------------------------------------
+--------------------------------------
+--- Note --- for file extension name xht, use the command line option `xht'
+--------------------------------------
+TeX4ht package options: xhtml,html5,html
+--------------------------------------
+--- Note --- To print a timestamp, use the command line option timestamp
+--------------------------------------
+--------------------------------------
+--- Note --- to ignore CSS code, use the command line option `-css
+--------------------------------------
+--------------------------------------
+--- Note --- for inline CSS code, use the command line option `css-in'
+--------------------------------------
+--------------------------------------
+--- Note --- for pop ups on mouse over, use the command line option `mouseover'
+
+--------------------------------------
+--------------------------------------
+--- Note --- for addressing images in a subdirectory, use the command line opti
+on `imgdir:.../'
+--------------------------------------
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2019-12-28-14:40
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2019-12-16-15:21
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2019-11-21-13:36
+--------------------------------------
+--- Note --- To print a timestamp, use the command line option timestamp
+--------------------------------------
 )
-(./ElaboracionMemoriaTFG.aux
-LaTeX Info: Redefining \. on input line 11.
-LaTeX Info: Redefining \% on input line 11.
- (./0.prologo.aux) (./1.introduccion_libro.aux)
-(./2.recomendaciones_generales.aux) (./3.estructura_memoria.aux)
-(./4.introduccion_tfg.aux) (./5.revision_estado_arte.aux)
-(./6.planificacion_presupuesto.aux) (./7.conclusiones_trabajos_futuros.aux)
-(./8.bibliografia_tfg.aux) (./X.anexostfg.aux)
-(./9.revision_proyecto_memoria.aux) (./10.elaboracion_presentacion.aux)
-(./11.defensa.aux) (./anexoI_licencias.aux) (./anexoII_tipologias.aux)
-(./anexoIII_experiencias.aux))
+\:tokwrite=\toks43
+\:tokpage=\toks44
+--------------------------------------
+--- Note --- for back links to toc, use the command line option `sections+'
+--------------------------------------
+--------------------------------------
+--- Note --- for linear crosslinks of pages, use the command line option `next'
+
+--------------------------------------
+\openout15 = `ElaboracionMemoriaTFG.4ct'.
+
+\:tocout=\write5
+\openout5 = `ElaboracionMemoriaTFG.4tc'.
+
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-02-14-14:21
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2019-12-28-14:40
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2019-12-16-15:21
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2019-11-21-13:36
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/latex.4ht
+version 2019-08-26-14:22
+LaTeX Info: Redefining \_ on input line 168.
+--------------------------------------
+--- Note --- for links into captions, instead of float heads, use the command l
+ine option `refcaption'
+--------------------------------------
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-02-14-14:21
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2019-12-28-14:40
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2019-12-16-15:21
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2019-11-21-13:36
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-02-14-14:21
+--------------------------------------
+--- Note --- For mini tocs immediately aftter the header use the command line o
+ption `minitoc<'
+--------------------------------------
+--------------------------------------
+--- Note --- for enumerated list elements with valued data, use the command lin
+e option `enumerate+'
+--------------------------------------
+--------------------------------------
+--- Note --- for enumerated list elements li's with value attributes, use the c
+ommand line option `enumerate-'
+--------------------------------------
+--------------------------------------
+--- Note --- for CSS2 code, use the command line option `css2'
+--------------------------------------
+--------------------------------------
+--- Note --- for pictorial tabular, use the command line option `pic-tabular'
+--------------------------------------
+--------------------------------------
+--- Note --- for bitmap fbox'es, use the command line option `pic-fbox'
+--------------------------------------
+--------------------------------------
+--- Note --- for bitmap framebox'es, use the command line option `pic-framebox'
+
+--------------------------------------
+--------------------------------------
+--- Note --- for inline footnotes use command line option `fn-in'
+--------------------------------------
+--------------------------------------
+--- Note --- for tracing of latex font commands, use the command line option `f
+onts'
+--------------------------------------
+--------------------------------------
+--- Note --- for width specifications of tabular p entries, use the `p-width' c
+ommand line option or a configuration similar to \Configure{HColWidth}{\HCode{ 
+style="width:\HColWidth"}}
+--------------------------------------
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2019-12-28-14:40
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2019-12-16-15:21
+--------------------------------------
+--- Note --- for pictorial eqnarray, use the command line option `pic-eqnarray'
+
+--------------------------------------
+--------------------------------------
+--- Note --- for pictorial array, use the command line option `pic-array'
+--------------------------------------
+--------------------------------------
+--- Note --- for pictorial $...$ environments, use the command line option `pic
+-m' (not recommended!!)
+--------------------------------------
+--------------------------------------
+--- Note --- for pictorial $...$ and $$...$$ environments with latex alt, use t
+he command line option `pic-m+' (not safe!!)
+--------------------------------------
+--------------------------------------
+--- Note --- for pictorial array, use the command line option `pic-array'
+--------------------------------------
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2019-11-21-13:36
+)) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/fontmath.4ht
+version 2018-11-06-15:55
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-02-14-14:21
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2019-12-28-14:40
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2019-12-16-15:21
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2019-11-21-13:36
+)) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/book.4ht (/usr/share/texli
+ve/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-02-14-14:21
+--------------------------------------
+--- Note --- for automatic sectioning pagination, use the command line option `
+1', `2', `3', '4', '5', '6', or '7'
+--------------------------------------
+--------------------------------------
+--- Note --- for files named derived from section titles, use the command line 
+option `sec-filename'
+--------------------------------------
+--------------------------------------
+--- Note --- for i-columns index, use the command line option `index=i' (e.g., 
+index=2)
+--------------------------------------
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2019-12-28-14:40
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2019-12-16-15:21
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2019-11-21-13:36
+)) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/geometry.4ht
+version 2016-07-01-08:55
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-02-14-14:21
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2019-12-28-14:40
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2019-12-16-15:21
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2019-11-21-13:36
+)) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/xcolor.4ht
+version 2019-04-09-10:06
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/color.4ht (/usr/share/texlive
+/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-02-14-14:21
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2019-12-28-14:40
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2019-12-16-15:21
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2019-11-21-13:36
+)) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-02-14-14:21
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2019-12-28-14:40
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2019-12-16-15:21
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2019-11-21-13:36
+)) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/color.4ht) (/usr/share/tex
+live/texmf-dist/tex/generic/tex4ht/dvips.4ht
+version 2009-05-21-09:32
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-02-14-14:21
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2019-12-28-14:40
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2019-12-16-15:21
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2019-11-21-13:36
+)) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/babel.4ht (/usr/share/texl
+ive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-02-14-14:21
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2019-12-28-14:40
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2019-12-16-15:21
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2019-11-21-13:36
+)) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/spanish.4ht
+version 2015-02-17-15:57
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-02-14-14:21
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2019-12-28-14:40
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2019-12-16-15:21
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2019-11-21-13:36
+)) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/graphicx.4ht
+version 2018-10-01-14:24
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-02-14-14:21
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2019-12-28-14:40
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2019-12-16-15:21
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2019-11-21-13:36
+)) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/graphics.4ht (/usr/share/t
+exlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-02-14-14:21
+--------------------------------------
+--- Note --- if included graphics are of degraded quality, try the command line
+ options `graphics-num' or `graphics-'. The `num' should provide the density of
+ pixels in the bitmaps (e.g., 110). 
+--------------------------------------
+--------------------------------------
+--- Note --- for key dimensions try the option `Gin-dim'; for key dimensions wh
+en bounding box is unavailable try `Gin-dim+'; neither is recommended
+--------------------------------------
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2019-12-28-14:40
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2019-12-16-15:21
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2019-11-21-13:36
+)) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/hyperref.4ht
+version 2019-09-14-15:17
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count317
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/nameref.4ht
+version 2019-12-23-13:36
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-02-14-14:21
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2019-12-28-14:40
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2019-12-16-15:21
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2019-11-21-13:36
+))
+LaTeX Info: Redefining \autoref on input line 95.
+\Hy@SectionHShift=\skip62
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-02-14-14:21
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2019-12-28-14:40
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2019-12-16-15:21
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2019-11-21-13:36
+)) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/pd1enc.4ht
+version 2009-05-21-09:32
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-02-14-14:21
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2019-12-28-14:40
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2019-12-16-15:21
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2019-11-21-13:36
+)) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/url.4ht
+version 2009-05-21-09:32
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-02-14-14:21
+--------------------------------------
+--- Note --- for URL encoding within href use the command line option `url-enc'
+
+--------------------------------------
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2019-12-28-14:40
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2019-12-16-15:21
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2019-11-21-13:36
+)) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/booktabs.4ht
+version 2009-05-21-09:32
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-02-14-14:21
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2019-12-28-14:40
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2019-12-16-15:21
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2019-11-21-13:36
+)) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/caption.4ht (/usr/share/te
+xlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-02-14-14:21
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2019-12-28-14:40
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2019-12-16-15:21
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2019-11-21-13:36
+)) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/multirow.4ht (/usr/share/t
+exlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-02-14-14:21
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2019-12-28-14:40
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2019-12-16-15:21
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2019-11-21-13:36
+)) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/amsmath.4ht
+version 2019-12-29-14:17
+\tmp:muskip=\muskip18
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-02-14-14:21
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2019-12-28-14:40
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2019-12-16-15:21
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2019-11-21-13:36
+)) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/amstext.4ht
+version 2009-05-21-09:32
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-02-14-14:21
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2019-12-28-14:40
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2019-12-16-15:21
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2019-11-21-13:36
+)) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/amsbsy.4ht
+version 2009-05-21-09:32
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-02-14-14:21
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2019-12-28-14:40
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2019-12-16-15:21
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2019-11-21-13:36
+)) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/amsopn.4ht
+version 2009-05-21-09:32
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-02-14-14:21
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2019-12-28-14:40
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2019-12-16-15:21
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2019-11-21-13:36
+)) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/enumitem.4ht
+version 2009-05-21-09:32
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-02-14-14:21
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2019-12-28-14:40
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2019-12-16-15:21
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2019-11-21-13:36
+)) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/ifthen.4ht
+version 2009-05-21-09:32
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-02-14-14:21
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2019-12-28-14:40
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2019-12-16-15:21
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2019-11-21-13:36
+)) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/pgf.4ht
+version 2009-05-21-09:32
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-02-14-14:21
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2019-12-28-14:40
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2019-12-16-15:21
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2019-11-21-13:36
+)) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/everyshi.4ht
+version 2009-05-21-09:32
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-02-14-14:21
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2019-12-28-14:40
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2019-12-16-15:21
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2019-11-21-13:36
+)) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/amssymb.4ht
+version 2009-05-21-09:32
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-02-14-14:21
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2019-12-28-14:40
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2019-12-16-15:21
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2019-11-21-13:36
+)) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/amsfonts.4ht
+version 2009-05-21-09:32
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-02-14-14:21
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2019-12-28-14:40
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2019-12-16-15:21
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2019-11-21-13:36
+)) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/rotating.4ht
+version 2009-05-21-09:32
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-02-14-14:21
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2019-12-28-14:40
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2019-12-16-15:21
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2019-11-21-13:36
+)) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/microtype.4ht
+version 2009-05-21-09:32
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-02-14-14:21
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2019-12-28-14:40
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2019-12-16-15:21
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2019-11-21-13:36
+)) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-02-14-14:21
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2019-12-28-14:40
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2019-12-16-15:21
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2019-11-21-13:36
+)) (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-dvips.def
+File: l3backend-dvips.def 2020-02-03 L3 backend support: dvips
+\l__pdf_internal_box=\box64
+\g__pdf_backend_object_int=\count318
+\l__pdf_backend_content_box=\box65
+\l__pdf_backend_model_box=\box66
+\g__pdf_backend_annotation_int=\count319
+\g__pdf_backend_link_int=\count320
+\g__pdf_backend_link_sf_int=\count321
+) (./ElaboracionMemoriaTFG.aux
+LaTeX Info: Redefining \. on input line 23.
+LaTeX Info: Redefining \% on input line 23.
+(./0.prologo.aux) (./1.introduccion_libro.aux) (./2.recomendaciones_generales.a
+ux) (./3.estructura_memoria.aux) (./4.introduccion_tfg.aux) (./5.revision_estad
+o_arte.aux) (./6.planificacion_presupuesto.aux) (./7.conclusiones_trabajos_futu
+ros.aux) (./8.bibliografia_tfg.aux) (./X.anexostfg.aux) (./9.revision_proyecto_
+memoria.aux) (./10.elaboracion_presentacion.aux) (./11.defensa.aux) (./anexoI_l
+icencias.aux) (./anexoII_tipologias.aux) (./anexoIII_experiencias.tex.aux))
 \openout1 = `ElaboracionMemoriaTFG.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 61.
@@ -805,13 +1301,15 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 61.
 LaTeX Font Info:    ... okay on input line 61.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 61.
 LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-
+LaTeX Font Info:    Trying to load font information for OT1+bch on input line 6
+1.
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1bch.fd
+File: ot1bch.fd 2004/10/18 font definitions for OT1/bch.
+)
 *geometry* driver: auto-detecting
-*geometry* detected driver: pdftex
+*geometry* detected driver: dvips
 *geometry* verbose mode - [ preamble ] result:
-* driver: pdftex
+* driver: dvips
 * paper: a4paper
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
@@ -822,8 +1320,8 @@ LaTeX Font Info:    ... okay on input line 61.
 * \paperheight=845.04684pt
 * \textwidth=418.25368pt
 * \textheight=591.5302pt
-* \oddsidemargin=-0.56833pt
-* \evensidemargin=35.28255pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
 * \topmargin=-0.93083pt
 * \headheight=12.0pt
 * \headsep=18.06749pt
@@ -842,604 +1340,1103 @@ LaTeX Font Info:    ... okay on input line 61.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count337
-\scratchdimen=\dimen304
-\scratchbox=\box71
-\nofMPsegments=\count338
-\nofMParguments=\count339
-\everyMPshowfont=\toks46
-\MPscratchCnt=\count340
-\MPscratchDim=\dimen305
-\MPnumerator=\count341
-\makeMPintoPDFobject=\count342
-\everyMPtoPDFconversion=\toks47
-) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
-Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-
-(/usr/share/texlive/texmf-dist/tex/latex/grfext/grfext.sty
-Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
-)
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-85.
-Package grfext Info: Graphics extension search list:
-(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
-G,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 504.
-
-(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
-e
-))
 LaTeX Info: Redefining \. on input line 61.
 LaTeX Info: Redefining \% on input line 61.
-Package hyperref Info: Link coloring OFF on input line 61.
-
-(./ElaboracionMemoriaTFG.out) (./ElaboracionMemoriaTFG.out)
-\@outlinefile=\write4
-\openout4 = `ElaboracionMemoriaTFG.out'.
-
+\AtBeginShipoutBox=\box67
+Package hyperref Info: Link coloring ON on input line 61.
+LaTeX Info: Redefining \ref on input line 61.
+LaTeX Info: Redefining \pageref on input line 61.
+LaTeX Info: Redefining \nameref on input line 61.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: rotating package is loaded.
 Package caption Info: End \AtBeginDocument code.
 LaTeX Info: Redefining \microtypecontext on input line 61.
-Package microtype Info: Applying patch `item' on input line 61.
-Package microtype Info: Applying patch `toc' on input line 61.
-Package microtype Info: Applying patch `eqnum' on input line 61.
-Package microtype Info: Applying patch `footnote' on input line 61.
-Package microtype Info: Applying patch `verbatim' on input line 61.
-Package microtype Info: Generating PDF output.
-Package microtype Info: Character protrusion enabled (level 2).
-Package microtype Info: Using default protrusion set `alltext'.
-Package microtype Info: Automatic font expansion enabled (level 2),
-(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
-Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 61.
+Package microtype Info: Generating DVI output.
+Package microtype Info: No character protrusion.
+Package microtype Info: No font expansion.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
-
-(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-bch.cfg
-File: mt-bch.cfg 2007/03/03 v1.5 microtype config. file: Bitstream Charter (RS)
-
-)
 (/usr/share/texlive/texmf-dist/tex/latex/pdflscape/pdflscape.sty
-Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
-
-(/usr/share/texlive/texmf-dist/tex/latex/pdflscape/pdflscape-nometadata.sty
-Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PD
-F (HO)
-
+Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty
-Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
-)
-Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/usepackage.4ht
+version 2019-12-19-14:27
 ))
+Package pdflscape Info: Auto-detected driver: dvips (dvips) on input line 124.
+)
 babelbib: Set bibliography fall-back language to spanish
-babelbib: spanish.bdf loaded because language spanish defined.
 (/usr/share/texlive/texmf-dist/tex/latex/babelbib/spanish.bdf
-File: spanish.bdf 2021/01/06 v1.34 babelbib: multilingual bibliographies
-
+File: spanish.bdf 2019/03/11 v1.32 babelbib: multilingual bibliographies (HH)
 babelbib extension \btxifchangecaseoff added to \extrasspanish
 )
 babelbib: Load BibTeX extensions \bibsspanish for spanish
 babelbib: Set language for keywords in the bibliography fixed to spanish
-<images/portada.pdf, id=372, 597.73312pt x 845.40843pt>
-File: images/portada.pdf Graphic file (type pdf)
-<use images/portada.pdf>
-Package pdftex.def Info: images/portada.pdf  used on input line 67.
-(pdftex.def)             Requested size: 597.73166pt x 845.40636pt.
-File: images/portada.pdf Graphic file (type pdf)
-<use images/portada.pdf>
-Package pdftex.def Info: images/portada.pdf  used on input line 67.
-(pdftex.def)             Requested size: 597.73166pt x 845.40636pt.
-<images/portada.pdf, id=375, page=1, 597.73312pt x 845.40843pt>
-File: images/portada.pdf Graphic file (type pdf)
-<use images/portada.pdf, page 1>
-Package pdftex.def Info: images/portada.pdf , page1 used on input line 67.
-(pdftex.def)             Requested size: 606.46655pt x 857.81602pt.
-File: images/portada.pdf Graphic file (type pdf)
-<use images/portada.pdf, page 1>
-Package pdftex.def Info: images/portada.pdf , page1 used on input line 67.
-(pdftex.def)             Requested size: 589.34976pt x 833.55136pt.
-File: images/portada.pdf Graphic file (type pdf)
-<use images/portada.pdf, page 1>
-Package pdftex.def Info: images/portada.pdf , page1 used on input line 67.
-(pdftex.def)             Requested size: 589.34976pt x 833.55136pt.
-File: images/portada.pdf Graphic file (type pdf)
-<use images/portada.pdf, page 1>
-Package pdftex.def Info: images/portada.pdf , page1 used on input line 67.
-(pdftex.def)             Requested size: 589.34976pt x 833.55136pt.
-File: images/portada.pdf Graphic file (type pdf)
-<use images/portada.pdf, page 1>
-Package pdftex.def Info: images/portada.pdf , page1 used on input line 67.
-(pdftex.def)             Requested size: 589.34976pt x 833.55136pt.
+--- file ElaboracionMemoriaTFG.css ---
 [1
 
+]
 
+Package pdfpages Warning: I cannot determine the number of pages of the
+(pdfpages)                included document, because we are running in
+(pdfpages)                DVI mode. 
+(pdfpages)                You can use the option `lastpage' to give me a hint.
 
- <./images/portada.pdf>]
+[2
+
+]
+! Undefined control sequence.
+<argument> ...\edef \AM@texcoord {\ifESO@texcoord 
+                                                  -\AM@pageheight \else \z@ ...
+l.67 ...,width=1.45\textwidth]{images/portada.pdf}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! You can't use `\raise' in vertical mode.
+\put  (#1,#2)#3->\@killglue \raise 
+                                   #2\unitlength \hb@xt@ \z@ {\kern #1\unitl...
+l.67 ...,width=1.45\textwidth]{images/portada.pdf}
+                                                  
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \hbox 
+l.67 ...,width=1.45\textwidth]{images/portada.pdf}
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \hbox 
+l.67 ...,width=1.45\textwidth]{images/portada.pdf}
+                                                  
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   }
+l.67 ...,width=1.45\textwidth]{images/portada.pdf}
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   }
+l.67 ...,width=1.45\textwidth]{images/portada.pdf}
+                                                  
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Extra }, or forgotten \endgroup.
+<recently read> }
+                 
+l.67 ...,width=1.45\textwidth]{images/portada.pdf}
+                                                  
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   }
+l.67 ...,width=1.45\textwidth]{images/portada.pdf}
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   }
+l.67 ...,width=1.45\textwidth]{images/portada.pdf}
+                                                  
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Extra }, or forgotten \endgroup.
+<recently read> }
+                 
+l.67 ...,width=1.45\textwidth]{images/portada.pdf}
+                                                  
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Extra \else.
+\@iwhilesw ...i ->#1\expandafter \@iwhilesw \else 
+                                                  \@gobbletwo \fi {#1}\fi 
+l.67 ...,width=1.45\textwidth]{images/portada.pdf}
+                                                  
+I'm ignoring this; it doesn't match any \if.
+
+! Extra \else.
+\@iwhilesw ...i ->#1\expandafter \@iwhilesw \else 
+                                                  \@gobbletwo \fi {#1}\fi 
+l.67 ...,width=1.45\textwidth]{images/portada.pdf}
+                                                  
+I'm ignoring this; it doesn't match any \if.
+
+! Extra \fi.
+\@iwhilesw ...ilesw \else \@gobbletwo \fi {#1}\fi 
+                                                  
+l.67 ...,width=1.45\textwidth]{images/portada.pdf}
+                                                  
+I'm ignoring this; it doesn't match any \if.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   }
+l.67 ...,width=1.45\textwidth]{images/portada.pdf}
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   }
+l.67 ...,width=1.45\textwidth]{images/portada.pdf}
+                                                  
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Extra }, or forgotten \endgroup.
+\@iwhilesw ...@iwhilesw \else \@gobbletwo \fi {#1}
+                                                  \fi 
+l.67 ...,width=1.45\textwidth]{images/portada.pdf}
+                                                  
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Extra \fi.
+\@iwhilesw ...ilesw \else \@gobbletwo \fi {#1}\fi 
+                                                  
+l.67 ...,width=1.45\textwidth]{images/portada.pdf}
+                                                  
+I'm ignoring this; it doesn't match any \if.
+
+! Extra \fi.
+\@whilesw #1\fi #2->#1#2\@iwhilesw {#1#2}\fi \fi 
+                                                 
+l.67 ...,width=1.45\textwidth]{images/portada.pdf}
+                                                  
+I'm ignoring this; it doesn't match any \if.
+
+[3]
+! Extra \fi.
+\\includepdf ...ter {\the \AM@global@opts ,#1}\fi 
+                                                  \AM@CheckAtEnd \endgroup \...
+l.67 ...,width=1.45\textwidth]{images/portada.pdf}
+                                                  
+I'm ignoring this; it doesn't match any \if.
+
 LaTeX Font Info:    Trying to load font information for TS1+bch on input line 7
 2.
-
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1bch.fd
 File: ts1bch.fd 2004/10/18 font definitions for TS1/bch.
 )
-Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `cmtt' (encoding: OT1).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
-
-(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg
-File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
-(RS)
-)
 LaTeX Font Info:    Trying to load font information for U+msa on input line 72.
-
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg
-File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
-)
 LaTeX Font Info:    Trying to load font information for U+msb on input line 72.
-
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msb.cfg
-File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
-)
-<images/by-nc-sa.png, id=403, 97.0827pt x 33.9669pt>
-File: images/by-nc-sa.png Graphic file (type png)
-<use images/by-nc-sa.png>
-Package pdftex.def Info: images/by-nc-sa.png  used on input line 76.
-(pdftex.def)             Requested size: 56.9055pt x 19.90968pt.
- [2{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf
--dist/fonts/enc/dvips/base/8r.enc} <./images/by-nc-sa.png>] [3
+) [4] [5
 
 ]
+l.76 --- TeX4ht warning --- File `"images/by-nc-sa.xbb"' not found ---
+l.76 --- TeX4ht warning --- Cannot determine size of graphic in "images/by-nc-s
+a.xbb" (no BoundingBox) ---
+l. 76 --- needs --- images/by-nc-sa.png ---
+[6
+
+] [7
+
+] [8
+
+] [9]
 \openout2 = `0.prologo.aux'.
 
- (./0.prologo.tex [4
+(./0.prologo.tex [10
 
+] [11
 
-] [5]
-[6]) [7] [8
+] [12]) [13] [14
 
+] (./ElaboracionMemoriaTFG.4ct [15
 
+] [16]) [17] [18
 
-] (./ElaboracionMemoriaTFG.toc
-LaTeX Info: Redefining \. on input line 1.
-LaTeX Info: Redefining \% on input line 1.
- [9]
-LaTeX Info: Redefining \. on input line 83.
-LaTeX Info: Redefining \% on input line 83.
- [10]
-Overfull \hbox (1.17996pt too wide) detected at line 87
- []\OT1/bch/m/n/10 101
- []
+] (./ElaboracionMemoriaTFG.4ct
 
+LaTeX Warning: Citation `fernandez2023evaluacion' on page 19 undefined on input
+ line 71.
 
-Overfull \hbox (1.17996pt too wide) detected at line 88
- []\OT1/bch/m/n/10 103
- []
+) [19] [20
 
+] (./ElaboracionMemoriaTFG.4ct
 
-Overfull \hbox (1.17996pt too wide) detected at line 89
- []\OT1/bch/m/n/10 104
- []
+LaTeX Warning: Citation `fernandez2023evaluacion' on page 21 undefined on input
+ line 72.
 
-
-Overfull \hbox (1.17996pt too wide) detected at line 90
- []\OT1/bch/m/n/10 105
- []
-
-
-Overfull \hbox (1.17996pt too wide) detected at line 97
- []\OT1/bch/m/n/10 110
- []
-
-
-Overfull \hbox (1.17996pt too wide) detected at line 98
- []\OT1/bch/m/n/10 112
- []
-
-
-Overfull \hbox (1.17996pt too wide) detected at line 99
- []\OT1/bch/m/n/10 112
- []
-
-
-Overfull \hbox (1.17996pt too wide) detected at line 100
- []\OT1/bch/m/n/10 113
- []
-
-
-Overfull \hbox (1.17996pt too wide) detected at line 102
- []\OT1/bch/m/n/10 117
- []
-
-)
-\tf@toc=\write5
-\openout5 = `ElaboracionMemoriaTFG.toc'.
-
-LaTeX Info: Redefining \. on input line 96.
-LaTeX Info: Redefining \% on input line 96.
- [11] [12
-
-] (./ElaboracionMemoriaTFG.lot
-LaTeX Info: Redefining \. on input line 1.
-LaTeX Info: Redefining \% on input line 1.
-
-
-LaTeX Warning: Citation `fernandez2023evaluacion' on page 13 undefined on input
- line 11.
-
-
-Overfull \hbox (1.17996pt too wide) detected at line 19
- []\OT1/bch/m/n/10 108
- []
-
-
-Overfull \hbox (1.17996pt too wide) detected at line 20
- []\OT1/bch/m/n/10 108
- []
-
-)
-\tf@lot=\write6
-\openout6 = `ElaboracionMemoriaTFG.lot'.
-
- [13] [14
-
-] (./ElaboracionMemoriaTFG.lof
-LaTeX Info: Redefining \. on input line 1.
-LaTeX Info: Redefining \% on input line 1.
-
-
-LaTeX Warning: Citation `fernandez2023evaluacion' on page 15 undefined on input
- line 12.
-
-
-Overfull \hbox (1.17996pt too wide) detected at line 18
- []\OT1/bch/m/n/10 105
- []
-
-)
-\tf@lof=\write7
-\openout7 = `ElaboracionMemoriaTFG.lof'.
-
- [15]
+) [21]
 \openout2 = `1.introduccion_libro.aux'.
 
- (./1.introduccion_libro.tex [16
-
+(./1.introduccion_libro.tex [22
 
 ]
 Cap\'{\i }tulo 1.
-[17]
-LaTeX Info: Redefining \. on input line 26.
-LaTeX Info: Redefining \% on input line 26.
- [18] [19])
-LaTeX Info: Redefining \. on input line 101.
-LaTeX Info: Redefining \% on input line 101.
- [20]
+! Argument of \MT@res@a has an extra }.
+<inserted text> 
+                \par 
+l.2 \label{cap:Introducción}
+                             
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+##1,\OT1/cmtt/m/n/10 ,##2##3\@nnil {\ifx ##2\@empty \MT@inlist@false \ETC.
+! Paragraph ended before \MT@res@a was complete.
+<to be read again> 
+                   \par 
+l.2 \label{cap:Introducción}
+                             
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+Runaway argument?
+{cap:Introducci\relax \unhbox \voidb@x \special {t4ht=&#x00F3;}\let \begingroup
+ \ETC.
+! Paragraph ended before \l:bel: was complete.
+<to be read again> 
+                   \par 
+l.2 \label{cap:Introducción}
+                             
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+! Too many }'s.
+\:temp ...t \MT@subst@\OT1/cmtt/m/n/10 \def \par }
+                                                  
+l.2 \label{cap:Introducción}
+                             
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+[23
+
+]
+--- file ElaboracionMemoriaTFG2.html ---
+[24
+
+]
+! Argument of \MT@res@a has an extra }.
+<inserted text> 
+                \par 
+l.40 ...rrow$ Capítulo \ref{cap:IntroducciónTFG}
+                                                  . La introducción del TFG.
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+##1,\OT1/cmtt/m/n/10 ,##2##3\@nnil {\ifx ##2\@empty \MT@inlist@false \ETC.
+! Paragraph ended before \MT@res@a was complete.
+<to be read again> 
+                   \par 
+l.40 ...rrow$ Capítulo \ref{cap:IntroducciónTFG}
+                                                  . La introducción del TFG.
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+! Argument of \MT@res@a has an extra }.
+<inserted text> 
+                \par 
+l.40 ...rrow$ Capítulo \ref{cap:IntroducciónTFG}
+                                                  . La introducción del TFG.
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+##1,\OT1/cmtt/m/n/10 ,##2##3\@nnil {\ifx ##2\@empty \MT@inlist@false \ETC.
+! Paragraph ended before \MT@res@a was complete.
+<to be read again> 
+                   \par 
+l.40 ...rrow$ Capítulo \ref{cap:IntroducciónTFG}
+                                                  . La introducción del TFG.
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+
+LaTeX Warning: Reference `cap:IntroducciónTFG' on page 25 undefined on input l
+ine 40.
+
+[25]
+! Argument of \MT@res@a has an extra }.
+<inserted text> 
+                \par 
+l.45 ...\rightarrow$ Capítulo \ref{cap:Revisión}
+                                                  . La revisión del proyect...
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+##1,\OT1/bch/m/n/10 ,##2##3\@nnil {\ifx ##2\@empty \MT@inlist@false \else \ETC.
+! Paragraph ended before \MT@res@a was complete.
+<to be read again> 
+                   \par 
+l.45 ...\rightarrow$ Capítulo \ref{cap:Revisión}
+                                                  . La revisión del proyect...
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+! Argument of \MT@res@a has an extra }.
+<inserted text> 
+                \par 
+l.45 ...\rightarrow$ Capítulo \ref{cap:Revisión}
+                                                  . La revisión del proyect...
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+##1,\OT1/bch/m/n/10 ,##2##3\@nnil {\ifx ##2\@empty \MT@inlist@false \else \ETC.
+! Paragraph ended before \MT@res@a was complete.
+<to be read again> 
+                   \par 
+l.45 ...\rightarrow$ Capítulo \ref{cap:Revisión}
+                                                  . La revisión del proyect...
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+
+LaTeX Warning: Reference `cap:Revisión' on page 26 undefined on input line 45.
+
+
+! Argument of \MT@res@a has an extra }.
+<inserted text> 
+                \par 
+l.46 ...ítulo \ref{cap:elaboraciónPresentación}
+                                                  . La elaboración de la pr...
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+##1,\OT1/bch/b/n/10 ,##2##3\@nnil {\ifx ##2\@empty \MT@inlist@false \else \ETC.
+! Paragraph ended before \MT@res@a was complete.
+<to be read again> 
+                   \par 
+l.46 ...ítulo \ref{cap:elaboraciónPresentación}
+                                                  . La elaboración de la pr...
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+! Argument of \MT@res@a has an extra }.
+<inserted text> 
+                \par 
+l.46 ...ítulo \ref{cap:elaboraciónPresentación}
+                                                  . La elaboración de la pr...
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+##1,\OT1/bch/b/n/10 ,##2##3\@nnil {\ifx ##2\@empty \MT@inlist@false \else \ETC.
+! Paragraph ended before \MT@res@a was complete.
+<to be read again> 
+                   \par 
+l.46 ...ítulo \ref{cap:elaboraciónPresentación}
+                                                  . La elaboración de la pr...
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+
+LaTeX Warning: Reference `cap:elaboraciónPresentación' on page 26 undefined o
+n input line 46.
+
+! Argument of \MT@res@a has an extra }.
+<inserted text> 
+                \par 
+l.49 ...htarrow$ Apéndice \ref{anexo:Tipologías}
+                                                  . Las tipologías de TFG y...
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+##1,\OT1/bch/b/n/10 ,##2##3\@nnil {\ifx ##2\@empty \MT@inlist@false \else \ETC.
+! Paragraph ended before \MT@res@a was complete.
+<to be read again> 
+                   \par 
+l.49 ...htarrow$ Apéndice \ref{anexo:Tipologías}
+                                                  . Las tipologías de TFG y...
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+! Argument of \MT@res@a has an extra }.
+<inserted text> 
+                \par 
+l.49 ...htarrow$ Apéndice \ref{anexo:Tipologías}
+                                                  . Las tipologías de TFG y...
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+##1,\OT1/bch/b/n/10 ,##2##3\@nnil {\ifx ##2\@empty \MT@inlist@false \else \ETC.
+! Paragraph ended before \MT@res@a was complete.
+<to be read again> 
+                   \par 
+l.49 ...htarrow$ Apéndice \ref{anexo:Tipologías}
+                                                  . Las tipologías de TFG y...
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+
+LaTeX Warning: Reference `anexo:Tipologías' on page 26 undefined on input line
+ 49.
+
+
+LaTeX Warning: Reference `anexo:Experiencias' on page 26 undefined on input lin
+e 50.
+
+[26]) [27]
+! Extra \else.
+\@include ...ediate \closeout \@partaux \fi \else 
+                                                  \deadcycles \z@ \@nameuse ...
+l.101 \include{1.introduccion_libro}
+                                    
+I'm ignoring this; it doesn't match any \if.
+
+[28
+
+]
 \openout2 = `2.recomendaciones_generales.aux'.
 
- (./2.recomendaciones_generales.tex
-Cap\'{\i }tulo 2.
-[21
+(./2.recomendaciones_generales.tex [29
 
+] [30
+
+]
+Cap\'{\i }tulo 2.
+[31] [32]
+--- file ElaboracionMemoriaTFG3.html ---
+[33
+
+] [34
+
+]
+l.46 --- TeX4ht warning --- File `"images/DecisionTFG.xbb"' not found ---
+l.46 --- TeX4ht warning --- Cannot determine size of graphic in "images/Decisio
+nTFG.xbb" (no BoundingBox) ---
+l. 46 --- needs --- images/DecisionTFG-.png ---
+[35
+
+] [36
+
+]
+--- file ElaboracionMemoriaTFG4.html ---
+--- file ElaboracionMemoriaTFG5.html ---
+--- file ElaboracionMemoriaTFG6.html ---
+--- file ElaboracionMemoriaTFG7.html ---
+[37
 
 
 
 ]
-LaTeX Info: Redefining \. on input line 30.
-LaTeX Info: Redefining \% on input line 30.
- [22]
-<images/DecisionTFG.pdf, id=641, 643.07948pt x 283.08762pt>
-File: images/DecisionTFG.pdf Graphic file (type pdf)
-<use images/DecisionTFG.pdf>
-Package pdftex.def Info: images/DecisionTFG.pdf  used on input line 46.
-(pdftex.def)             Requested size: 321.53896pt x 141.54346pt.
-LaTeX Info: Redefining \. on input line 60.
-LaTeX Info: Redefining \% on input line 60.
- [23]
-LaTeX Info: Redefining \. on input line 74.
-LaTeX Info: Redefining \% on input line 74.
- [24 <./images/DecisionTFG.pdf>]
-LaTeX Info: Redefining \. on input line 97.
-LaTeX Info: Redefining \% on input line 97.
- [25]
-LaTeX Info: Redefining \. on input line 113.
-LaTeX Info: Redefining \% on input line 113.
- [26]
+--- file ElaboracionMemoriaTFG8.html ---
+--- file ElaboracionMemoriaTFG9.html ---
+--- file ElaboracionMemoriaTFG10.html ---
+[38
 
-LaTeX Warning: Citation `EticaCantabria' on page 27 undefined on input line 129
+
+
+
+] [39]
+
+LaTeX Warning: Citation `EticaCantabria' on page 40 undefined on input line 129
 .
 
-LaTeX Info: Redefining \. on input line 130.
-LaTeX Info: Redefining \% on input line 130.
-[27]
-
-LaTeX Warning: Citation `EticaUGR' on page 28 undefined on input line 135.
+--- file ElaboracionMemoriaTFG11.html ---
+--- file ElaboracionMemoriaTFG12.html ---
+[40
 
 
-LaTeX Warning: Citation `bynum2000' on page 28 undefined on input line 144.
+]
 
-LaTeX Info: Redefining \. on input line 147.
-LaTeX Info: Redefining \% on input line 147.
-[28]
+LaTeX Warning: Citation `EticaUGR' on page 41 undefined on input line 135.
 
-LaTeX Warning: Citation `EticaUCM' on page 29 undefined on input line 164.
 
-LaTeX Info: Redefining \. on input line 196.
-LaTeX Info: Redefining \% on input line 196.
-[29]
+LaTeX Warning: Citation `bynum2000' on page 41 undefined on input line 144.
 
-LaTeX Warning: Citation `doran1981there' on page 30 undefined on input line 204
+[41]
+
+LaTeX Warning: Citation `EticaUCM' on page 42 undefined on input line 164.
+
+[42]
+
+LaTeX Warning: Citation `doran1981there' on page 43 undefined on input line 204
 .
 
-LaTeX Info: Redefining \. on input line 212.
-LaTeX Info: Redefining \% on input line 212.
-[30]
-LaTeX Info: Redefining \. on input line 244.
-LaTeX Info: Redefining \% on input line 244.
- [31]
-LaTeX Info: Redefining \. on input line 291.
-LaTeX Info: Redefining \% on input line 291.
- [32]
-LaTeX Info: Redefining \. on input line 316.
-LaTeX Info: Redefining \% on input line 316.
- [33]
-LaTeX Info: Redefining \. on input line 334.
-LaTeX Info: Redefining \% on input line 334.
- [34]
-Underfull \hbox (badness 10000) in paragraph at lines 349--349
-[][][][]$\OT1/cmtt/m/n/8 https : / / grados . ugr . es / informatica / pages / 
-infoacademica / tfg / evaluacion / rubrica _ informe _ tutores _
- []
+[43] [44] [45]
+! Argument of \MT@res@a has an extra }.
+<inserted text> 
+                \par 
+l.295 ...�tulo \ref{cap:elaboraciónPresentación}
+                                                  , pero, como recomendacion...
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+##1,\OT1/cmtt/m/n/10 ,##2##3\@nnil {\ifx ##2\@empty \MT@inlist@false \ETC.
+! Paragraph ended before \MT@res@a was complete.
+<to be read again> 
+                   \par 
+l.295 ...�tulo \ref{cap:elaboraciónPresentación}
+                                                  , pero, como recomendacion...
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+! Argument of \MT@res@a has an extra }.
+<inserted text> 
+                \par 
+l.295 ...�tulo \ref{cap:elaboraciónPresentación}
+                                                  , pero, como recomendacion...
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+##1,\OT1/cmtt/m/n/10 ,##2##3\@nnil {\ifx ##2\@empty \MT@inlist@false \ETC.
+! Paragraph ended before \MT@res@a was complete.
+<to be read again> 
+                   \par 
+l.295 ...�tulo \ref{cap:elaboraciónPresentación}
+                                                  , pero, como recomendacion...
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 349--349
-[][][][]$\OT1/cmtt/m/n/8 https : / / grados . ugr . es / informatica / pages / 
-infoacademica / tfg / evaluacion / rubrica _ comision _
- []
+LaTeX Warning: Reference `cap:elaboraciónPresentación' on page 46 undefined o
+n input line 295.
+
+[46] [47] [48]
+--- file ElaboracionMemoriaTFG13.html ---
+--- file ElaboracionMemoriaTFG14.html ---
+[49
 
 
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 353.
+] [50] [51
 
+] [52
 
-Underfull \hbox (badness 1845) in paragraph at lines 382--382
-[]\OT1/bch/m/n/10 (+20) B[]usque-da y tra-ta-
- []
+]
 
+LaTeX Warning: Citation `ugrIA' on page 53 undefined on input line 395.
 
-Underfull \hbox (badness 10000) in paragraph at lines 382--382
-[]\OT1/bch/m/n/10 (+20) Correcci[]on en or-to-graf[]^^Pa y
- []
+[53
 
+]
+--- file ElaboracionMemoriaTFG15.html ---
+--- file ElaboracionMemoriaTFG16.html ---
+) [54
 
-Underfull \hbox (badness 1762) in paragraph at lines 382--382
-\OT1/bch/m/n/10 (+20) gram[]ati-ca, vo-ca-bu-la-rio, ex-pre-
- []
+]
+! Extra \else.
+\@include ...ediate \closeout \@partaux \fi \else 
+                                                  \deadcycles \z@ \@nameuse ...
+l.102 \include{2.recomendaciones_generales}
+                                           
+I'm ignoring this; it doesn't match any \if.
 
+[53
 
-Overfull \hbox (34.45927pt too wide) in paragraph at lines 358--383
- [][] 
- []
-
-
-LaTeX Warning: Citation `ugrIA' on page 35 undefined on input line 395.
-
-LaTeX Info: Redefining \. on input line 400.
-LaTeX Info: Redefining \% on input line 400.
-[35]
-LaTeX Info: Redefining \. on input line 400.
-LaTeX Info: Redefining \% on input line 400.
- [36]
-LaTeX Info: Redefining \. on input line 453.
-LaTeX Info: Redefining \% on input line 453.
- [37])
-LaTeX Info: Redefining \. on input line 102.
-LaTeX Info: Redefining \% on input line 102.
- [38]
+]
 \openout2 = `3.estructura_memoria.aux'.
 
- (./3.estructura_memoria.tex
-Cap\'{\i }tulo 3.
-[39
-
-
-
+(./3.estructura_memoria.tex [54
 
 ]
-LaTeX Info: Redefining \. on input line 68.
-LaTeX Info: Redefining \% on input line 68.
- [40]
-LaTeX Info: Redefining \. on input line 106.
-LaTeX Info: Redefining \% on input line 106.
- [41])
-LaTeX Info: Redefining \. on input line 103.
-LaTeX Info: Redefining \% on input line 103.
- [42]
+Cap\'{\i }tulo 3.
+! Argument of \MT@res@a has an extra }.
+<inserted text> 
+                \par 
+l.13 ...ces (ver Apéndice \ref{anexo:Tipologías}
+                                                  ). En general, e independi...
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+##1,\OT1/cmtt/m/n/10 ,##2##3\@nnil {\ifx ##2\@empty \MT@inlist@false \ETC.
+! Paragraph ended before \MT@res@a was complete.
+<to be read again> 
+                   \par 
+l.13 ...ces (ver Apéndice \ref{anexo:Tipologías}
+                                                  ). En general, e independi...
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+! Argument of \MT@res@a has an extra }.
+<inserted text> 
+                \par 
+l.13 ...ces (ver Apéndice \ref{anexo:Tipologías}
+                                                  ). En general, e independi...
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+##1,\OT1/cmtt/m/n/10 ,##2##3\@nnil {\ifx ##2\@empty \MT@inlist@false \ETC.
+! Paragraph ended before \MT@res@a was complete.
+<to be read again> 
+                   \par 
+l.13 ...ces (ver Apéndice \ref{anexo:Tipologías}
+                                                  ). En general, e independi...
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+
+LaTeX Warning: Reference `anexo:Tipologías' on page 55 undefined on input line
+ 13.
+
+[55
+
+]
+! Argument of \MT@res@a has an extra }.
+<inserted text> 
+                \par 
+l.47 En el capítulo \ref{cap:IntroducciónTFG}
+                                                podrás ver en profundidad l...
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+##1,\OT1/bch/b/n/10 ,##2##3\@nnil {\ifx ##2\@empty \MT@inlist@false \else \ETC.
+! Paragraph ended before \MT@res@a was complete.
+<to be read again> 
+                   \par 
+l.47 En el capítulo \ref{cap:IntroducciónTFG}
+                                                podrás ver en profundidad l...
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+! Argument of \MT@res@a has an extra }.
+<inserted text> 
+                \par 
+l.47 En el capítulo \ref{cap:IntroducciónTFG}
+                                                podrás ver en profundidad l...
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+##1,\OT1/bch/b/n/10 ,##2##3\@nnil {\ifx ##2\@empty \MT@inlist@false \else \ETC.
+! Paragraph ended before \MT@res@a was complete.
+<to be read again> 
+                   \par 
+l.47 En el capítulo \ref{cap:IntroducciónTFG}
+                                                podrás ver en profundidad l...
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+
+LaTeX Warning: Reference `cap:IntroducciónTFG' on page 56 undefined on input l
+ine 47.
+
+! Argument of \MT@res@a has an extra }.
+<inserted text> 
+                \par 
+l.53 ...allada en el Anexo \ref{anexo:Tipologías}
+                                                   para cada tipo de proyecto.
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+##1,\OT1/bch/b/n/10 ,##2##3\@nnil {\ifx ##2\@empty \MT@inlist@false \else \ETC.
+! Paragraph ended before \MT@res@a was complete.
+<to be read again> 
+                   \par 
+l.53 ...allada en el Anexo \ref{anexo:Tipologías}
+                                                   para cada tipo de proyecto.
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+! Argument of \MT@res@a has an extra }.
+<inserted text> 
+                \par 
+l.53 ...allada en el Anexo \ref{anexo:Tipologías}
+                                                   para cada tipo de proyecto.
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+##1,\OT1/bch/b/n/10 ,##2##3\@nnil {\ifx ##2\@empty \MT@inlist@false \else \ETC.
+! Paragraph ended before \MT@res@a was complete.
+<to be read again> 
+                   \par 
+l.53 ...allada en el Anexo \ref{anexo:Tipologías}
+                                                   para cada tipo de proyecto.
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+
+LaTeX Warning: Reference `anexo:Tipologías' on page 56 undefined on input line
+ 53.
+
+[56] [57]
+--- file ElaboracionMemoriaTFG17.html ---
+[58]) [59
+
+]
+! Extra \else.
+\@include ...ediate \closeout \@partaux \fi \else 
+                                                  \deadcycles \z@ \@nameuse ...
+l.103 \include{3.estructura_memoria}
+                                    
+I'm ignoring this; it doesn't match any \if.
+
+[54
+
+]
 \openout2 = `4.introduccion_tfg.aux'.
 
- (./4.introduccion_tfg.tex
-Cap\'{\i }tulo 4.
-[43
+(./4.introduccion_tfg.tex [55
 
-
-
+] [56
 
 ]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Cap\'{\i }tulo 4.
+! Argument of \MT@res@a has an extra }.
+<inserted text> 
+                \par 
+l.2 \label{cap:IntroducciónTFG}
+                                
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
 
-LaTeX Info: Redefining \. on input line 35.
-LaTeX Info: Redefining \% on input line 35.
- [44]
+Runaway argument?
+##1,\OT1/cmtt/m/n/10 ,##2##3\@nnil {\ifx ##2\@empty \MT@inlist@false \ETC.
+! Paragraph ended before \MT@res@a was complete.
+<to be read again> 
+                   \par 
+l.2 \label{cap:IntroducciónTFG}
+                                
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+Runaway argument?
+{cap:Introducci\relax \unhbox \voidb@x \special {t4ht=&#x00F3;}\let \begingroup
+ \ETC.
+! Paragraph ended before \l:bel: was complete.
+<to be read again> 
+                   \par 
+l.2 \label{cap:IntroducciónTFG}
+                                
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+! Too many }'s.
+\:temp ...t \MT@subst@\OT1/cmtt/m/n/10 \def \par }
+                                                  
+l.2 \label{cap:IntroducciónTFG}
+                                
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+[57] [58]
 LaTeX Font Info:    Trying to load font information for OML+bch on input line 4
 0.
-
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omlbch.fd
 File: omlbch.fd 
 )
 LaTeX Font Info:    Font shape `OML/bch/m/n' in size <10> not available
 (Font)              Font shape `OML/cmm/m/it' tried instead on input line 40.
-LaTeX Info: Redefining \. on input line 48.
-LaTeX Info: Redefining \% on input line 48.
- [45]
-Underfull \hbox (badness 10000) in paragraph at lines 60--60
-[][][][]$\OT1/cmtt/m/n/8 https : / / www . juntadeandalucia . es / organismos /
- saludyconsumo / areas / planificacion /
- []
+[59]
+--- file ElaboracionMemoriaTFG18.html ---
+[60
 
-LaTeX Info: Redefining \. on input line 67.
-LaTeX Info: Redefining \% on input line 67.
-[46]
-LaTeX Info: Redefining \. on input line 88.
-LaTeX Info: Redefining \% on input line 88.
- [47]
-LaTeX Info: Redefining \. on input line 107.
-LaTeX Info: Redefining \% on input line 107.
- [48]
+] [61] [62]
 
-LaTeX Warning: Citation `doran1981there' on page 49 undefined on input line 110
+LaTeX Warning: Citation `doran1981there' on page 63 undefined on input line 110
 .
 
+--- file ElaboracionMemoriaTFG19.html ---
+[63
+
+]
 LaTeX Font Info:    Font shape `OML/bch/m/it' in size <10> not available
 (Font)              Font shape `OML/cmm/m/it' tried instead on input line 123.
-LaTeX Info: Redefining \. on input line 124.
-LaTeX Info: Redefining \% on input line 124.
-[49]
-Overfull \hbox (12.43008pt too wide) in paragraph at lines 128--129
-[]\OT1/bch/m/it/10 (-20) El cap[]^^Ptu-lo 4 con-tie-ne la es-pe-ci-fi-ca-ci[]on
- y ar-qui-tec-tu-ra de los prin-ci-pa-les m[]odu-los/interfaces/servicios
- []
+) [64] [65]
+! Extra \else.
+\@include ...ediate \closeout \@partaux \fi \else 
+                                                  \deadcycles \z@ \@nameuse ...
+l.104 \include{4.introduccion_tfg}
+                                  
+I'm ignoring this; it doesn't match any \if.
 
-)
-LaTeX Info: Redefining \. on input line 104.
-LaTeX Info: Redefining \% on input line 104.
- [50]
+[58
+
+]
 \openout2 = `5.revision_estado_arte.aux'.
 
- (./5.revision_estado_arte.tex
+(./5.revision_estado_arte.tex [59
+
+] [60
+
+]
 Cap\'{\i }tulo 5.
-[51
+[61]
+--- file ElaboracionMemoriaTFG20.html ---
+[62
+
+]
+--- file ElaboracionMemoriaTFG21.html ---
+[63]
+--- file ElaboracionMemoriaTFG22.html ---
+--- file ElaboracionMemoriaTFG23.html ---
+--- file ElaboracionMemoriaTFG24.html ---
+--- file ElaboracionMemoriaTFG25.html ---
+--- file ElaboracionMemoriaTFG26.html ---
+--- file ElaboracionMemoriaTFG27.html ---
+--- file ElaboracionMemoriaTFG28.html ---
+--- file ElaboracionMemoriaTFG29.html ---
+--- file ElaboracionMemoriaTFG30.html ---
+--- file ElaboracionMemoriaTFG31.html ---
+--- file ElaboracionMemoriaTFG32.html ---
+[64
+
 
 
 
 
 ]
-LaTeX Info: Redefining \. on input line 35.
-LaTeX Info: Redefining \% on input line 35.
- [52]
-LaTeX Info: Redefining \. on input line 62.
-LaTeX Info: Redefining \% on input line 62.
- [53]
-LaTeX Info: Redefining \. on input line 83.
-LaTeX Info: Redefining \% on input line 83.
- [54]
-LaTeX Info: Redefining \. on input line 99.
-LaTeX Info: Redefining \% on input line 99.
- [55]
-LaTeX Info: Redefining \. on input line 123.
-LaTeX Info: Redefining \% on input line 123.
- [56]
-LaTeX Info: Redefining \. on input line 146.
-LaTeX Info: Redefining \% on input line 146.
- [57]
-LaTeX Info: Redefining \. on input line 170.
-LaTeX Info: Redefining \% on input line 170.
- [58])
-LaTeX Info: Redefining \. on input line 105.
-LaTeX Info: Redefining \% on input line 105.
- [59]
+--- file ElaboracionMemoriaTFG33.html ---
+--- file ElaboracionMemoriaTFG34.html ---
+--- file ElaboracionMemoriaTFG35.html ---
+--- file ElaboracionMemoriaTFG36.html ---
+[65
+
+
+
+
+] [66
+
+
+
+
+]
+--- file ElaboracionMemoriaTFG37.html ---
+[67] [68
+
+] [69]
+--- file ElaboracionMemoriaTFG38.html ---
+[70]) [71]
 \openout2 = `6.planificacion_presupuesto.aux'.
 
-
-(./6.planificacion_presupuesto.tex [60
-
+(./6.planificacion_presupuesto.tex [72
 
 
 
 ]
 Cap\'{\i }tulo 6.
-<images/EjemploGantt.pdf, id=964, 845.04686pt x 597.50786pt>
-File: images/EjemploGantt.pdf Graphic file (type pdf)
-<use images/EjemploGantt.pdf>
-Package pdftex.def Info: images/EjemploGantt.pdf  used on input line 17.
-(pdftex.def)             Requested size: 418.25368pt x 154.90901pt.
-[61]
-Underfull \vbox (badness 4341) has occurred while \output is active []
+--- file ElaboracionMemoriaTFG39.html ---
+[73
 
-LaTeX Info: Redefining \. on input line 33.
-LaTeX Info: Redefining \% on input line 33.
- [62 <./images/EjemploGantt.pdf, page is rotated 90 degrees>]
-LaTeX Info: Redefining \. on input line 63.
-LaTeX Info: Redefining \% on input line 63.
- [63]
-
-LaTeX Warning: Citation `guerin2018gestion' on page 64 undefined on input line 
-66.
-
-LaTeX Info: Redefining \. on input line 86.
-LaTeX Info: Redefining \% on input line 86.
-[64]
-LaTeX Info: Redefining \. on input line 114.
-LaTeX Info: Redefining \% on input line 114.
- [65])
-LaTeX Info: Redefining \. on input line 106.
-LaTeX Info: Redefining \% on input line 106.
- [66]
-\openout2 = `7.conclusiones_trabajos_futuros.aux'.
-
- (./7.conclusiones_trabajos_futuros.tex
-Cap\'{\i }tulo 7.
-[67
-
-
-
+] [74
 
 ]
-LaTeX Info: Redefining \. on input line 36.
-LaTeX Info: Redefining \% on input line 36.
- [68])
-LaTeX Info: Redefining \. on input line 107.
-LaTeX Info: Redefining \% on input line 107.
- [69]
+l.17 --- TeX4ht warning --- File `"images/EjemploGantt.xbb"' not found ---
+l.17 --- TeX4ht warning --- Cannot determine size of graphic in "images/Ejemplo
+Gantt.xbb" (no BoundingBox) ---
+l. 17 --- needs --- images/EjemploGantt-.png ---
+[75
+
+]
+--- file ElaboracionMemoriaTFG40.html ---
+--- file ElaboracionMemoriaTFG41.html ---
+--- file ElaboracionMemoriaTFG42.html ---
+--- file ElaboracionMemoriaTFG43.html ---
+--- file ElaboracionMemoriaTFG44.html ---
+[76
+
+
+
+
+
+] [77
+
+]
+
+LaTeX Warning: Citation `guerin2018gestion' on page 78 undefined on input line 
+66.
+
+[78] [79] [80]
+l. 153 Writing ElaboracionMemoriaTFG.idv[1] (ElaboracionMemoriaTFG0x.png)
+[81]) [82] [83
+
+]
+\openout2 = `7.conclusiones_trabajos_futuros.aux'.
+
+(./7.conclusiones_trabajos_futuros.tex [84
+
+]
+Cap\'{\i }tulo 7.
+[85
+
+]) [86] [87] [88
+
+]
 \openout2 = `8.bibliografia_tfg.aux'.
 
- (./8.bibliografia_tfg.tex [70
+(./8.bibliografia_tfg.tex [89
 
-
-
+] [90
 
 ]
 Cap\'{\i }tulo 8.
-[71]
+[91]
 
-LaTeX Warning: Citation `fernandez2023evaluacion' on page 72 undefined on input
+LaTeX Warning: Citation `fernandez2023evaluacion' on page 92 undefined on input
  line 46.
 
 
-LaTeX Warning: Citation `fernandez2023evaluacion' on page 72 undefined on input
+LaTeX Warning: Citation `fernandez2023evaluacion' on page 92 undefined on input
  line 54.
 
+[92]
 
-LaTeX Warning: Citation `fernandez2023evaluacion' on page 72 undefined on input
+LaTeX Warning: Citation `fernandez2023evaluacion' on page 93 undefined on input
  line 64.
 
+[93] [94
 
-LaTeX Warning: Citation `fernandez2023evaluacion' on page 72 undefined on input
- line 74.
+]
 
-
-LaTeX Warning: Citation `fernandez2023evaluacion' on page 72 undefined on input
+LaTeX Warning: Citation `fernandez2023evaluacion' on page 95 undefined on input
  line 74.
 
 
@@ -1450,490 +2447,809 @@ Package varwidth Warning: Failed to reprocess entire contents on input line 89.
 Package varwidth Warning: Failed to reprocess entire contents on input line 89.
 
 
-<images/Mapa_prov.png, id=1042, 505.6491pt x 505.6491pt>
-File: images/Mapa_prov.png Graphic file (type png)
-<use images/Mapa_prov.png>
-Package pdftex.def Info: images/Mapa_prov.png  used on input line 92.
-(pdftex.def)             Requested size: 181.6922pt x 110.56049pt.
+l.92 --- TeX4ht warning --- File `"images/Mapa_prov.xbb"' not found ---
+l.92 --- TeX4ht warning --- Cannot determine size of graphic in "images/Mapa_pr
+ov.xbb" (no BoundingBox) ---
+l. 92 --- needs --- images/Mapa_prov.png ---
 
-LaTeX Warning: Citation `fernandez2023evaluacion' on page 72 undefined on input
+LaTeX Warning: Citation `fernandez2023evaluacion' on page 95 undefined on input
  line 93.
 
+[95
 
-LaTeX Warning: Citation `fernandez2023evaluacion' on page 72 undefined on input
- line 93.
+] [96
 
-LaTeX Info: Redefining \. on input line 99.
-LaTeX Info: Redefining \% on input line 99.
-[72]
+] [97
 
-LaTeX Warning: Citation `INE' on page 73 undefined on input line 120.
+] [98
 
+]
 
-LaTeX Warning: Citation `bezanson2017julia' on page 73 undefined on input line 
-202.
+LaTeX Warning: Citation `INE' on page 99 undefined on input line 120.
 
-LaTeX Info: Redefining \. on input line 215.
-LaTeX Info: Redefining \% on input line 215.
-[73 <./images/Mapa_prov.png>]
-<images/apa.pdf, id=1065, 614.295pt x 794.97pt>
-File: images/apa.pdf Graphic file (type pdf)
-<use images/apa.pdf>
-Package pdftex.def Info: images/apa.pdf  used on input line 221.
-(pdftex.def)             Requested size: 283.22093pt x 84.33463pt.
+[99
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+] [100
 
-LaTeX Info: Redefining \. on input line 222.
-LaTeX Info: Redefining \% on input line 222.
- [74]
-<images/mla.pdf, id=1071, 614.295pt x 794.97pt>
-File: images/mla.pdf Graphic file (type pdf)
-<use images/mla.pdf>
-Package pdftex.def Info: images/mla.pdf  used on input line 225.
-(pdftex.def)             Requested size: 283.22093pt x 84.33463pt.
-<images/chicagoA.pdf, id=1073, 614.295pt x 794.97pt>
-File: images/chicagoA.pdf Graphic file (type pdf)
-<use images/chicagoA.pdf>
-Package pdftex.def Info: images/chicagoA.pdf  used on input line 229.
-(pdftex.def)             Requested size: 283.22093pt x 84.33463pt.
-<images/harvard.pdf, id=1075, 614.295pt x 794.97pt>
-File: images/harvard.pdf Graphic file (type pdf)
-<use images/harvard.pdf>
-Package pdftex.def Info: images/harvard.pdf  used on input line 233.
-(pdftex.def)             Requested size: 283.22093pt x 84.33463pt.
-<images/ieee.pdf, id=1077, 614.295pt x 794.97pt>
-File: images/ieee.pdf Graphic file (type pdf)
-<use images/ieee.pdf>
-Package pdftex.def Info: images/ieee.pdf  used on input line 237.
-(pdftex.def)             Requested size: 283.22093pt x 101.40642pt.
-LaTeX Info: Redefining \. on input line 238.
-LaTeX Info: Redefining \% on input line 238.
+] [101
 
-[75 <./images/apa.pdf> <./images/mla.pdf> <./images/chicagoA.pdf> <./images/har
-vard.pdf>]
+]
+
+LaTeX Warning: Citation `bezanson2017julia' on page 102 undefined on input line
+ 202.
+
+l.221 --- TeX4ht warning --- File `"images/apa.xbb"' not found ---
+l.221 --- TeX4ht warning --- Cannot determine size of graphic in "images/apa.xb
+b" (no BoundingBox) ---
+l. 221 --- needs --- images/apa-.png ---
+[102
+
+]
+l.225 --- TeX4ht warning --- File `"images/mla.xbb"' not found ---
+l.225 --- TeX4ht warning --- Cannot determine size of graphic in "images/mla.xb
+b" (no BoundingBox) ---
+l. 225 --- needs --- images/mla-.png ---
+l.229 --- TeX4ht warning --- File `"images/chicagoA.xbb"' not found ---
+l.229 --- TeX4ht warning --- Cannot determine size of graphic in "images/chicag
+oA.xbb" (no BoundingBox) ---
+l. 229 --- needs --- images/chicagoA-.png ---
+l.233 --- TeX4ht warning --- File `"images/harvard.xbb"' not found ---
+l.233 --- TeX4ht warning --- Cannot determine size of graphic in "images/harvar
+d.xbb" (no BoundingBox) ---
+l. 233 --- needs --- images/harvard-.png ---
+l.237 --- TeX4ht warning --- File `"images/ieee.xbb"' not found ---
+l.237 --- TeX4ht warning --- Cannot determine size of graphic in "images/ieee.x
+bb" (no BoundingBox) ---
+l. 237 --- needs --- images/ieee-.png ---
+[103]
+--- file ElaboracionMemoriaTFG45.html ---
+--- file ElaboracionMemoriaTFG46.html ---
+--- file ElaboracionMemoriaTFG47.html ---
 Package textcomp Info: Symbol \textasciiacute not provided by
 (textcomp)             font family bch in TS1 encoding.
 (textcomp)             Default family used instead on input line 251.
 Package textcomp Info: Symbol \textasciiacute not provided by
 (textcomp)             font family bch in TS1 encoding.
 (textcomp)             Default family used instead on input line 251.
-LaTeX Info: Redefining \. on input line 259.
-LaTeX Info: Redefining \% on input line 259.
- [76{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc} <./images/ieee
-.pdf>])
-LaTeX Info: Redefining \. on input line 108.
-LaTeX Info: Redefining \% on input line 108.
- [77]
+[104
+
+
+
+]
+--- file ElaboracionMemoriaTFG48.html ---
+) [105
+
+] [106
+
+]
 \openout2 = `X.anexostfg.aux'.
 
-
 No file X.anexostfg.tex.
+[107
+
+] [108
+
+]
 \openout2 = `9.revision_proyecto_memoria.aux'.
 
-(./9.revision_proyecto_memoria.tex [78
+(./9.revision_proyecto_memoria.tex [109
 
-
-
-
-
-
+] [110
 
 ]
 Cap\'{\i }tulo 9.
-[79]
-Overfull \hbox (5.97182pt too wide) in paragraph at lines 53--54
-[]\OT1/bch/m/n/10 (-20) Todas las fi-gu-ras y ta-blas de-ben es-tar nu-me-ra-da
-s se-cuen-cial-men-te y re-fe-ren-cia-das/citadas
- []
+! Argument of \MT@res@a has an extra }.
+<inserted text> 
+                \par 
+l.2 \label{cap:Revisión}
+                         
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
 
-)
-LaTeX Info: Redefining \. on input line 110.
-LaTeX Info: Redefining \% on input line 110.
- [80] [81]
+Runaway argument?
+##1,\OT1/cmtt/m/n/10 ,##2##3\@nnil {\ifx ##2\@empty \MT@inlist@false \ETC.
+! Paragraph ended before \MT@res@a was complete.
+<to be read again> 
+                   \par 
+l.2 \label{cap:Revisión}
+                         
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+Runaway argument?
+{cap:Revisi\relax \unhbox \voidb@x \special {t4ht=&#x00F3;}\let \begingroup \ET
+C.
+! Paragraph ended before \l:bel: was complete.
+<to be read again> 
+                   \par 
+l.2 \label{cap:Revisión}
+                         
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+! Too many }'s.
+\:temp ...t \MT@subst@\OT1/cmtt/m/n/10 \def \par }
+                                                  
+l.2 \label{cap:Revisión}
+                         
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+[111] [112]) [113]
+! Extra \else.
+\@include ...ediate \closeout \@partaux \fi \else 
+                                                  \deadcycles \z@ \@nameuse ...
+l.110 \include{9.revision_proyecto_memoria}
+                                           
+I'm ignoring this; it doesn't match any \if.
+
+[108
+
+]
 \openout2 = `10.elaboracion_presentacion.aux'.
 
- (./10.elaboracion_presentacion.tex [82
+(./10.elaboracion_presentacion.tex [109
 
-
-
+] [110
 
 ]
 Cap\'{\i }tulo 10.
-[83]
-LaTeX Info: Redefining \. on input line 58.
-LaTeX Info: Redefining \% on input line 58.
- [84]
-LaTeX Info: Redefining \. on input line 83.
-LaTeX Info: Redefining \% on input line 83.
- [85])
-LaTeX Info: Redefining \. on input line 111.
-LaTeX Info: Redefining \% on input line 111.
- [86]
-\openout2 = `11.defensa.aux'.
+! Argument of \MT@res@a has an extra }.
+<inserted text> 
+                \par 
+l.1 ...ensa} \label{cap:elaboraciónPresentación}
+                                                  
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
 
- (./11.defensa.tex
-Cap\'{\i }tulo 11.
-[87
+Runaway argument?
+##1,\OT1/cmtt/m/n/10 ,##2##3\@nnil {\ifx ##2\@empty \MT@inlist@false \ETC.
+! Paragraph ended before \MT@res@a was complete.
+<to be read again> 
+                   \par 
+l.1 ...ensa} \label{cap:elaboraciónPresentación}
+                                                  
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
 
+Runaway argument?
+{cap:elaboraci\relax \unhbox \voidb@x \special {t4ht=&#x00F3;}\let \begingroup 
+\ETC.
+! Paragraph ended before \l:bel: was complete.
+<to be read again> 
+                   \par 
+l.1 ...ensa} \label{cap:elaboraciónPresentación}
+                                                  
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
 
+! Too many }'s.
+\:temp ...t \MT@subst@\OT1/cmtt/m/n/10 \def \par }
+                                                  
+l.1 ...ensa} \label{cap:elaboraciónPresentación}
+                                                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
 
+[111] [112]
+--- file ElaboracionMemoriaTFG49.html ---
+[113
+
+]) [114]
+! Extra \else.
+\@include ...ediate \closeout \@partaux \fi \else 
+                                                  \deadcycles \z@ \@nameuse ...
+l.111 \include{10.elaboracion_presentacion}
+                                           
+I'm ignoring this; it doesn't match any \if.
+
+[111
 
 ]
-LaTeX Info: Redefining \. on input line 36.
-LaTeX Info: Redefining \% on input line 36.
- [88]
-LaTeX Info: Redefining \. on input line 66.
-LaTeX Info: Redefining \% on input line 66.
- [89]
-LaTeX Info: Redefining \. on input line 85.
-LaTeX Info: Redefining \% on input line 85.
- [90]
+\openout2 = `11.defensa.aux'.
 
-LaTeX Warning: Citation `vallejo2009defensa' on page 91 undefined on input line
- 99.
+(./11.defensa.tex [112
 
-LaTeX Info: Redefining \. on input line 110.
-LaTeX Info: Redefining \% on input line 110.
-[91])
-LaTeX Info: Redefining \. on input line 112.
-LaTeX Info: Redefining \% on input line 112.
- [92]
-LaTeX Info: Redefining \. on input line 112.
-LaTeX Info: Redefining \% on input line 112.
- [93]
+]
+Cap\'{\i }tulo 11.
+[113
+
+] [114] [115] [116]
+! Argument of \MT@res@a has an extra }.
+<inserted text> 
+                \par 
+l.86 ...ítulo \ref{cap:elaboraciónPresentación}
+                                                  , como técnicas verbales,...
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+##1,\OT1/bch/m/n/10 ,##2##3\@nnil {\ifx ##2\@empty \MT@inlist@false \else \ETC.
+! Paragraph ended before \MT@res@a was complete.
+<to be read again> 
+                   \par 
+l.86 ...ítulo \ref{cap:elaboraciónPresentación}
+                                                  , como técnicas verbales,...
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+! Argument of \MT@res@a has an extra }.
+<inserted text> 
+                \par 
+l.86 ...ítulo \ref{cap:elaboraciónPresentación}
+                                                  , como técnicas verbales,...
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+##1,\OT1/bch/m/n/10 ,##2##3\@nnil {\ifx ##2\@empty \MT@inlist@false \else \ETC.
+! Paragraph ended before \MT@res@a was complete.
+<to be read again> 
+                   \par 
+l.86 ...ítulo \ref{cap:elaboraciónPresentación}
+                                                  , como técnicas verbales,...
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+
+LaTeX Warning: Reference `cap:elaboraciónPresentación' on page 117 undefined 
+on input line 86.
+
+[117]
+
+LaTeX Warning: Citation `vallejo2009defensa' on page 118 undefined on input lin
+e 99.
+
+[118]) [119]
+! Extra \else.
+\@include ...ediate \closeout \@partaux \fi \else 
+                                                  \deadcycles \z@ \@nameuse ...
+l.112 \include{11.defensa}
+                          
+I'm ignoring this; it doesn't match any \if.
+
 No file ElaboracionMemoriaTFG.bbl.
+[98
+
+]
 \openout2 = `anexoI_licencias.aux'.
 
-(./anexoI_licencias.tex [94
+(./anexoI_licencias.tex [99
 
-
-
+] [100
 
 ]
 Ap\'{e}ndice A.
-[95]
-Overfull \hbox (50.15282pt too wide) in paragraph at lines 42--42
-[][][][]$\OT1/cmtt/m/n/8 https : / / www . ugr . es / universidad / normativa /
- ncg1872-[]reglamento-[]trabajo-[]proyecto-[]fin-[]grado-[]universidad-[]granad
-a$[]| 
- []
+--- file ElaboracionMemoriaTFG50.html ---
+--- file ElaboracionMemoriaTFG51.html ---
+[101
 
-LaTeX Info: Redefining \. on input line 78.
-LaTeX Info: Redefining \% on input line 78.
-[96]
-LaTeX Info: Redefining \. on input line 100.
-LaTeX Info: Redefining \% on input line 100.
- [97]
+] [102
 
-LaTeX Warning: Citation `derechosautorIA' on page 98 undefined on input line 14
-5.
+]
+--- file ElaboracionMemoriaTFG52.html ---
+[103
 
-LaTeX Info: Redefining \. on input line 159.
-LaTeX Info: Redefining \% on input line 159.
-[98]
+] [104] [105
 
-LaTeX Warning: Citation `FSFfaq' on page 99 undefined on input line 165.
+] [106
 
-LaTeX Info: Redefining \. on input line 179.
-LaTeX Info: Redefining \% on input line 179.
-[99]
-LaTeX Info: Redefining \. on input line 204.
-LaTeX Info: Redefining \% on input line 204.
- [100]
-Underfull \hbox (badness 10000) in paragraph at lines 211--211
-[][][][]$\OT1/cmtt/m/n/8 https : / / joinup . ec . europa . eu / collection / e
-upl / solution / joinup-[]licensing-[]assistant /
- []
+]
+
+LaTeX Warning: Citation `derechosautorIA' on page 107 undefined on input line 1
+45.
+
+--- file ElaboracionMemoriaTFG53.html ---
+[107
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 213--213
-[][][][]$\OT1/cmtt/m/n/8 https : / / www . juntadeandalucia . es / organismos /
- turismoculturaydeporte / servicios / procedimientos /
- []
+]
+--- file ElaboracionMemoriaTFG54.html ---
 
-)
-LaTeX Info: Redefining \. on input line 119.
-LaTeX Info: Redefining \% on input line 119.
- [101]
+LaTeX Warning: Citation `FSFfaq' on page 108 undefined on input line 165.
+
+--- file ElaboracionMemoriaTFG55.html ---
+[108
+
+
+]
+--- file ElaboracionMemoriaTFG56.html ---
+--- file ElaboracionMemoriaTFG57.html ---
+--- file ElaboracionMemoriaTFG58.html ---
+[109
+
+
+
+]
+--- file ElaboracionMemoriaTFG59.html ---
+--- file ElaboracionMemoriaTFG60.html ---
+--- file ElaboracionMemoriaTFG61.html ---
+--- file ElaboracionMemoriaTFG62.html ---
+[110
+
+
+
+]
+--- file ElaboracionMemoriaTFG63.html ---
+--- file ElaboracionMemoriaTFG64.html ---
+) [111
+
+
+
+] [112
+
+]
 \openout2 = `anexoII_tipologias.aux'.
 
- (./anexoII_tipologias.tex [102
+(./anexoII_tipologias.tex [113
 
-
-
+] [114
 
 ]
 Ap\'{e}ndice B.
+! Argument of \MT@res@a has an extra }.
+<inserted text> 
+                \par 
+l.2 \label{anexo:Tipologías}
+                             
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+##1,\OT1/cmtt/m/n/10 ,##2##3\@nnil {\ifx ##2\@empty \MT@inlist@false \ETC.
+! Paragraph ended before \MT@res@a was complete.
+<to be read again> 
+                   \par 
+l.2 \label{anexo:Tipologías}
+                             
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+Runaway argument?
+{anexo:Tipolog\relax \unhbox \voidb@x \special {t4ht=&#x00ED;}\let \begingroup 
+\ETC.
+! Paragraph ended before \l:bel: was complete.
+<to be read again> 
+                   \par 
+l.2 \label{anexo:Tipologías}
+                             
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+! Too many }'s.
+\:temp ...t \MT@subst@\OT1/cmtt/m/n/10 \def \par }
+                                                  
+l.2 \label{anexo:Tipologías}
+                             
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
 (./TFG_desarrollo.tex
 
-LaTeX Warning: Citation `sommerville2005ingenieria' on page 103 undefined on in
+LaTeX Warning: Citation `sommerville2005ingenieria' on page 115 undefined on in
 put line 7.
 
 
-LaTeX Warning: Citation `larman2004agile' on page 103 undefined on input line 1
+LaTeX Warning: Citation `larman2004agile' on page 115 undefined on input line 1
 0.
 
 
-LaTeX Warning: Citation `beck2022test' on page 103 undefined on input line 12.
+LaTeX Warning: Citation `beck2022test' on page 115 undefined on input line 12.
 
 
-LaTeX Warning: Citation `freeman2019devops' on page 103 undefined on input line
+LaTeX Warning: Citation `freeman2019devops' on page 115 undefined on input line
  16.
 
 
-LaTeX Warning: Citation `garcia2019desarrollo' on page 103 undefined on input l
+LaTeX Warning: Citation `garcia2019desarrollo' on page 115 undefined on input l
 ine 16.
 
-[103]
+[115]
 
-LaTeX Warning: Citation `TFGs2024JJ' on page 104 undefined on input line 32.
+LaTeX Warning: Citation `TFGs2024JJ' on page 116 undefined on input line 32.
 
-LaTeX Info: Redefining \. on input line 35.
-LaTeX Info: Redefining \% on input line 35.
-[104]) (./TFX_investigacion.tex
+[116]) (./TFX_investigacion.tex
 
-LaTeX Warning: Citation `Zwart2022' on page 105 undefined on input line 8.
+LaTeX Warning: Citation `Zwart2022' on page 117 undefined on input line 8.
 
 
-LaTeX Warning: Citation `Chalmers2013' on page 105 undefined on input line 18.
+LaTeX Warning: Citation `Chalmers2013' on page 117 undefined on input line 18.
 
-LaTeX Info: Redefining \. on input line 30.
-LaTeX Info: Redefining \% on input line 30.
-[105]
+[117]
+--- file ElaboracionMemoriaTFG65.html ---
 
-LaTeX Warning: Citation `NationalAcademies2019' on page 106 undefined on input 
+LaTeX Warning: Citation `NationalAcademies2019' on page 118 undefined on input 
 line 33.
 
+[118
 
+] [119
+
+]
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
 zlibraryshapes.geometric.code.tex
-File: tikzlibraryshapes.geometric.code.tex 2023-01-15 v3.1.10 (3.1.10)
+File: tikzlibraryshapes.geometric.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshape
 s.geometric.code.tex
-File: pgflibraryshapes.geometric.code.tex 2023-01-15 v3.1.10 (3.1.10)
+File: pgflibraryshapes.geometric.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 ))
-LaTeX Info: Redefining \. on input line 84.
-LaTeX Info: Redefining \% on input line 84.
- [106]
-LaTeX Info: Redefining \. on input line 116.
-LaTeX Info: Redefining \% on input line 116.
- [107]
-LaTeX Info: Redefining \. on input line 131.
-LaTeX Info: Redefining \% on input line 131.
- [108]
-LaTeX Info: Redefining \. on input line 155.
-LaTeX Info: Redefining \% on input line 155.
- [109]
-LaTeX Info: Redefining \. on input line 203.
-LaTeX Info: Redefining \% on input line 203.
- [110]
+l. 47 Writing ElaboracionMemoriaTFG.idv[2] (ElaboracionMemoriaTFG1x.png)
+l. 51 Writing ElaboracionMemoriaTFG.idv[3] (ElaboracionMemoriaTFG2x.png)
+[120
 
-LaTeX Warning: Citation `esetal2024Ragas' on page 111 undefined on input line 2
+] [121
+
+]
+LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <10> not available
+(Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 117.
+[122] [123] [124]
+--- file ElaboracionMemoriaTFG66.html ---
+[125]
+--- file ElaboracionMemoriaTFG67.html ---
+
+LaTeX Warning: Citation `esetal2024Ragas' on page 126 undefined on input line 2
 09.
 
+--- file ElaboracionMemoriaTFG68.html ---
+--- file ElaboracionMemoriaTFG69.html ---
+[126
 
-Underfull \vbox (badness 1231) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 217.
-LaTeX Info: Redefining \% on input line 217.
- [111]
-LaTeX Info: Redefining \. on input line 261.
-LaTeX Info: Redefining \% on input line 261.
 
-[112]
-LaTeX Info: Redefining \. on input line 273.
-LaTeX Info: Redefining \% on input line 273.
- [113]) (./TFG_revision.tex
+] [127] [128]) (./TFG_revision.tex
 
-LaTeX Warning: Citation `codina2024lluis' on page 114 undefined on input line 1
+LaTeX Warning: Citation `codina2024lluis' on page 129 undefined on input line 1
 2.
 
+[129]
 
-LaTeX Warning: Citation `grant2009maria' on page 114 undefined on input line 14
+LaTeX Warning: Citation `grant2009maria' on page 130 undefined on input line 14
 .
 
-LaTeX Info: Redefining \. on input line 25.
-LaTeX Info: Redefining \% on input line 25.
-[114]
+[130]
+--- file ElaboracionMemoriaTFG70.html ---
 
-LaTeX Warning: Citation `codina2018lluis' on page 115 undefined on input line 4
+LaTeX Warning: Citation `codina2018lluis' on page 131 undefined on input line 4
 5.
 
 
-LaTeX Warning: Citation `booth2021a' on page 115 undefined on input line 47.
+LaTeX Warning: Citation `booth2021a' on page 131 undefined on input line 47.
 
-LaTeX Info: Redefining \. on input line 52.
-LaTeX Info: Redefining \% on input line 52.
-[115]
-LaTeX Info: Redefining \. on input line 76.
-LaTeX Info: Redefining \% on input line 76.
- [116]
+[131
 
-LaTeX Warning: Citation `carrera2022angela' on page 117 undefined on input line
+] [132]
+
+LaTeX Warning: Citation `carrera2022angela' on page 133 undefined on input line
  81.
 
 
-LaTeX Warning: Citation `kofod2022anders' on page 117 undefined on input line 8
+LaTeX Warning: Citation `kofod2022anders' on page 133 undefined on input line 8
 1.
 
 
-LaTeX Warning: Citation `silva2016rodrigo' on page 117 undefined on input line 
+LaTeX Warning: Citation `silva2016rodrigo' on page 133 undefined on input line 
 81.
 
-))
-LaTeX Info: Redefining \. on input line 120.
-LaTeX Info: Redefining \% on input line 120.
- [117]
-\openout2 = `anexoIII_experiencias.aux'.
+)) [133]
+! Extra \else.
+\@include ...ediate \closeout \@partaux \fi \else 
+                                                  \deadcycles \z@ \@nameuse ...
+l.120 \include{anexoII_tipologias}
+                                  
+I'm ignoring this; it doesn't match any \if.
 
- (./anexoIII_experiencias.tex [118
-
-
-
-
-]
-Ap\'{e}ndice C.
-) [119] [120
-
-
+[132
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 133--135
+\openout2 = `anexoIII_experiencias.tex.aux'.
 
- []
+No file anexoIII_experiencias.tex.tex.
+[133
 
+] [134
 
-Underfull \hbox (badness 10000) in paragraph at lines 133--135
+] [135
 
- []
+] [136] [137
 
+] [138
 
-Underfull \hbox (badness 10000) in paragraph at lines 136--163
+] [139]
+l.173 --- TeX4ht warning --- File `"images/qr-youtube.xbb"' not found ---
+l.173 --- TeX4ht warning --- Cannot determine size of graphic in "images/qr-you
+tube.xbb" (no BoundingBox) ---
+l. 173 --- needs --- images/qr-youtube.png ---
+l.179 --- TeX4ht warning --- File `"images/qr-github.xbb"' not found ---
+l.179 --- TeX4ht warning --- Cannot determine size of graphic in "images/qr-git
+hub.xbb" (no BoundingBox) ---
+l. 179 --- needs --- images/qr-github.png ---
+[1] [2]
 
- []
+Package pdfpages Warning: I cannot determine the number of pages of the
+(pdfpages)                included document, because we are running in
+(pdfpages)                DVI mode. 
+(pdfpages)                You can use the option `lastpage' to give me a hint.
 
-<images/qr-youtube.png, id=1515, 246.9225pt x 246.9225pt>
-File: images/qr-youtube.png Graphic file (type png)
-<use images/qr-youtube.png>
-Package pdftex.def Info: images/qr-youtube.png  used on input line 173.
-(pdftex.def)             Requested size: 152.45035pt x 152.44983pt.
-<images/qr-github.png, id=1516, 271.0125pt x 271.0125pt>
-File: images/qr-github.png Graphic file (type png)
-<use images/qr-github.png>
-Package pdftex.def Info: images/qr-github.png  used on input line 179.
-(pdftex.def)             Requested size: 152.45035pt x 152.45654pt.
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.184 \end{titlepage}
-                      [1
-
-
- <./images/qr-youtube.png> <./images/qr-github.png>]
-<images/contraportada.pdf, id=1523, 597.50786pt x 845.04686pt>
-File: images/contraportada.pdf Graphic file (type pdf)
-<use images/contraportada.pdf>
-Package pdftex.def Info: images/contraportada.pdf  used on input line 189.
-(pdftex.def)             Requested size: 597.5064pt x 845.0448pt.
-File: images/contraportada.pdf Graphic file (type pdf)
-<use images/contraportada.pdf>
-Package pdftex.def Info: images/contraportada.pdf  used on input line 189.
-(pdftex.def)             Requested size: 597.5064pt x 845.0448pt.
-<images/contraportada.pdf, id=1526, page=1, 597.50786pt x 845.04686pt>
-File: images/contraportada.pdf Graphic file (type pdf)
-<use images/contraportada.pdf, page 1>
-Package pdftex.def Info: images/contraportada.pdf , page1 used on input line 18
-9.
-(pdftex.def)             Requested size: 606.46655pt x 857.71996pt.
-File: images/contraportada.pdf Graphic file (type pdf)
-<use images/contraportada.pdf, page 1>
-Package pdftex.def Info: images/contraportada.pdf , page1 used on input line 18
-9.
-(pdftex.def)             Requested size: 589.12766pt x 833.19487pt.
-File: images/contraportada.pdf Graphic file (type pdf)
-<use images/contraportada.pdf, page 1>
-Package pdftex.def Info: images/contraportada.pdf , page1 used on input line 18
-9.
-(pdftex.def)             Requested size: 589.12766pt x 833.19487pt.
-File: images/contraportada.pdf Graphic file (type pdf)
-<use images/contraportada.pdf, page 1>
-Package pdftex.def Info: images/contraportada.pdf , page1 used on input line 18
-9.
-(pdftex.def)             Requested size: 589.12766pt x 833.19487pt.
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
+[3]
+! Undefined control sequence.
+<argument> ...\edef \AM@texcoord {\ifESO@texcoord 
+                                                  -\AM@pageheight \else \z@ ...
 l.189 ...1.45\textwidth]{images/contraportada.pdf}
                                                   
-File: images/contraportada.pdf Graphic file (type pdf)
-<use images/contraportada.pdf, page 1>
-Package pdftex.def Info: images/contraportada.pdf , page1 used on input line 18
-9.
-(pdftex.def)             Requested size: 589.12766pt x 833.19487pt.
- [2
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
- <./images/contraportada.pdf>] (./ElaboracionMemoriaTFG.aux
-LaTeX Info: Redefining \. on input line 11.
-LaTeX Info: Redefining \% on input line 11.
- (./0.prologo.aux) (./1.introduccion_libro.aux) (./2.recomendaciones_generales.
-aux) (./3.estructura_memoria.aux)
-(./4.introduccion_tfg.aux) (./5.revision_estado_arte.aux)
-(./6.planificacion_presupuesto.aux) (./7.conclusiones_trabajos_futuros.aux)
-(./8.bibliografia_tfg.aux) (./X.anexostfg.aux)
-(./9.revision_proyecto_memoria.aux) (./10.elaboracion_presentacion.aux)
-(./11.defensa.aux) (./anexoI_licencias.aux) (./anexoII_tipologias.aux)
-(./anexoIII_experiencias.aux))
- ***********
-LaTeX2e <2023-11-01> patch level 1
-L3 programming layer <2024-01-22>
- ***********
+! You can't use `\raise' in vertical mode.
+\put  (#1,#2)#3->\@killglue \raise 
+                                   #2\unitlength \hb@xt@ \z@ {\kern #1\unitl...
+l.189 ...1.45\textwidth]{images/contraportada.pdf}
+                                                  
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
 
+! Missing number, treated as zero.
+<to be read again> 
+                   \hbox 
+l.189 ...1.45\textwidth]{images/contraportada.pdf}
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \hbox 
+l.189 ...1.45\textwidth]{images/contraportada.pdf}
+                                                  
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   }
+l.189 ...1.45\textwidth]{images/contraportada.pdf}
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   }
+l.189 ...1.45\textwidth]{images/contraportada.pdf}
+                                                  
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Extra }, or forgotten \endgroup.
+<recently read> }
+                 
+l.189 ...1.45\textwidth]{images/contraportada.pdf}
+                                                  
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   }
+l.189 ...1.45\textwidth]{images/contraportada.pdf}
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   }
+l.189 ...1.45\textwidth]{images/contraportada.pdf}
+                                                  
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Extra }, or forgotten \endgroup.
+<recently read> }
+                 
+l.189 ...1.45\textwidth]{images/contraportada.pdf}
+                                                  
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   }
+l.189 ...1.45\textwidth]{images/contraportada.pdf}
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   }
+l.189 ...1.45\textwidth]{images/contraportada.pdf}
+                                                  
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Extra }, or forgotten \endgroup.
+<recently read> }
+                 
+l.189 ...1.45\textwidth]{images/contraportada.pdf}
+                                                  
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Extra \else.
+\@iwhilesw ...i ->#1\expandafter \@iwhilesw \else 
+                                                  \@gobbletwo \fi {#1}\fi 
+l.189 ...1.45\textwidth]{images/contraportada.pdf}
+                                                  
+I'm ignoring this; it doesn't match any \if.
+
+! Extra \else.
+\@iwhilesw ...i ->#1\expandafter \@iwhilesw \else 
+                                                  \@gobbletwo \fi {#1}\fi 
+l.189 ...1.45\textwidth]{images/contraportada.pdf}
+                                                  
+I'm ignoring this; it doesn't match any \if.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   }
+l.189 ...1.45\textwidth]{images/contraportada.pdf}
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   }
+l.189 ...1.45\textwidth]{images/contraportada.pdf}
+                                                  
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Extra }, or forgotten \endgroup.
+\@iwhilesw ...@iwhilesw \else \@gobbletwo \fi {#1}
+                                                  \fi 
+l.189 ...1.45\textwidth]{images/contraportada.pdf}
+                                                  
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+[4] [5] [6
+
+] (./ElaboracionMemoriaTFG.aux
+LaTeX Info: Redefining \. on input line 23.
+LaTeX Info: Redefining \% on input line 23.
+(./0.prologo.aux) (./1.introduccion_libro.aux) (./2.recomendaciones_generales.a
+ux) (./3.estructura_memoria.aux) (./4.introduccion_tfg.aux) (./5.revision_estad
+o_arte.aux) (./6.planificacion_presupuesto.aux) (./7.conclusiones_trabajos_futu
+ros.aux) (./8.bibliografia_tfg.aux) (./X.anexostfg.aux) (./9.revision_proyecto_
+memoria.aux) (./10.elaboracion_presentacion.aux) (./11.defensa.aux) (./anexoI_l
+icencias.aux) (./anexoII_tipologias.aux) (./anexoIII_experiencias.tex.aux))
 
 LaTeX Warning: There were undefined references.
 
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-Package rerunfilecheck Info: File `ElaboracionMemoriaTFG.out' has not changed.
-(rerunfilecheck)             Checksum: 0AB31B5486523BB2FE4BB56CD918D0D1;18418.
- ) 
+ )
+(\end occurred when \ifnum on line 112 was incomplete)
+(\end occurred when \iftrue on line 111 was incomplete)
+(\end occurred when \ifnum on line 111 was incomplete)
+(\end occurred when \iftrue on line 110 was incomplete)
+(\end occurred when \ifnum on line 110 was incomplete)
+(\end occurred when \iftrue on line 104 was incomplete)
+(\end occurred when \ifnum on line 104 was incomplete)
+(\end occurred when \ifx on line 53 was incomplete)
+(\end occurred when \ifx on line 53 was incomplete)
+(\end occurred when \ifx on line 47 was incomplete)
+(\end occurred when \ifx on line 47 was incomplete)
+(\end occurred when \ifx on line 47 was incomplete)
+(\end occurred when \ifx on line 47 was incomplete)
+(\end occurred when \ifx on line 13 was incomplete)
+(\end occurred when \ifx on line 13 was incomplete)
+(\end occurred when \ifx on line 13 was incomplete)
+(\end occurred when \ifx on line 13 was incomplete)
+(\end occurred when \iftrue on line 103 was incomplete)
+(\end occurred when \ifnum on line 103 was incomplete)
+(\end occurred when \ifx on line 295 was incomplete)
+(\end occurred when \ifx on line 295 was incomplete)
+(\end occurred when \iftrue on line 102 was incomplete)
+(\end occurred when \ifnum on line 102 was incomplete)
+(\end occurred when \ifx on line 49 was incomplete)
+(\end occurred when \ifx on line 49 was incomplete)
+(\end occurred when \ifx on line 46 was incomplete)
+(\end occurred when \ifx on line 46 was incomplete)
+(\end occurred when \ifx on line 46 was incomplete)
+(\end occurred when \ifx on line 46 was incomplete)
+(\end occurred when \ifx on line 45 was incomplete)
+(\end occurred when \ifx on line 45 was incomplete)
+(\end occurred when \ifx on line 45 was incomplete)
+(\end occurred when \ifx on line 45 was incomplete)
+(\end occurred when \ifx on line 40 was incomplete)
+(\end occurred when \ifx on line 40 was incomplete)
+(\end occurred when \ifx on line 40 was incomplete)
+(\end occurred when \ifx on line 40 was incomplete)
+(\end occurred when \ifx on line 2 was incomplete)
+(\end occurred when \ifx on line 2 was incomplete)
+(\end occurred when \iftrue on line 101 was incomplete)
+(\end occurred when \ifnum on line 101 was incomplete) 
 Here is how much of TeX's memory you used:
- 29841 strings out of 474222
- 550395 string characters out of 5748733
- 1948975 words of memory out of 5000000
- 50682 multiletter control sequences out of 15000+600000
- 629018 words of font info for 373 fonts, out of 8000000 for 9000
+ 29792 strings out of 481240
+ 526849 string characters out of 5920403
+ 917586 words of memory out of 5000000
+ 44067 multiletter control sequences out of 15000+600000
+ 548204 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,18n,101p,2348b,958s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texlive/texmf-dist/fonts/type1/bitstrea/charter/bchb8a.pfb></usr/
-share/texlive/texmf-dist/fonts/type1/bitstrea/charter/bchbi8a.pfb></usr/share/t
-exlive/texmf-dist/fonts/type1/bitstrea/charter/bchr8a.pfb></usr/share/texlive/t
-exmf-dist/fonts/type1/bitstrea/charter/bchr8a.pfb></usr/share/texlive/texmf-dis
-t/fonts/type1/bitstrea/charter/bchri8a.pfb></usr/share/texlive/texmf-dist/fonts
-/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmitt10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
-sfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
-7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></
-usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texl
-ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/share/texlive/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texlive/texmf-dist/font
-s/type1/public/amsfonts/cm/cmtt8.pfb></usr/share/texlive/texmf-dist/fonts/type1
-/public/amsfonts/symbols/msam10.pfb></usr/share/texmf/fonts/type1/public/cm-sup
-er/sfrm1000.pfb>
-Output written on ElaboracionMemoriaTFG.pdf (122 pages, 2399571 bytes).
-PDF statistics:
- 1680 PDF objects out of 1728 (max. 8388607)
- 1456 compressed objects within 15 object streams
- 349 named destinations out of 1000 (max. 500000)
- 79214 words of extra memory for PDF output out of 89155 (max. 10000000)
+ 74i,20n,86p,2838b,1017s stack positions out of 5000i,500n,10000p,200000b,80000s
 
+Output written on ElaboracionMemoriaTFG.dvi (195 pages, 773212 bytes).

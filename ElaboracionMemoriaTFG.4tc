@@ -1,0 +1,116 @@
+\expandafter\ifx\csname doTocEntry\endcsname\relax \expandafter\endinput\fi
+\doTocEntry\toclikechapter{}{\csname a:TocLink\endcsname{1}{x1-1000}{QQ2-1-1}{Agradecimientos}}{9}\relax 
+\doTocEntry\toclikechapter{}{\csname a:TocLink\endcsname{1}{x1-2000}{QQ2-1-2}{Prólogo}}{11}\relax 
+\doTocEntry\toclikechapter{}{\csname a:TocLink\endcsname{1}{x1-3000}{QQ2-1-3}{\'{I}ndice general}}{15}\relax 
+\doTocEntry\toclikechapter{}{\csname a:TocLink\endcsname{1}{x1-4000}{QQ2-1-4}{\'{I}ndice de cuadros}}{19}\relax 
+\doTocEntry\toclikechapter{}{\csname a:TocLink\endcsname{1}{x1-5000}{QQ2-1-5}{\'{I}ndice de figuras}}{21}\relax 
+\doTocEntry\tocchapter{1}{\csname a:TocLink\endcsname{1}{x1-60001}{QQ2-1-6}{Introducción}}{23}\relax 
+\doTocEntry\toclikesubsubsection{}{\csname a:TocLink\endcsname{1}{x1-70001}{QQ2-1-7}{Manual de uso}}{26}\relax 
+\doTocEntry\tocchapter{2}{\csname a:TocLink\endcsname{1}{x1-80002}{QQ2-1-8}{Recomendaciones generales}}{31}\relax 
+\doTocEntry\tocsection{2.1}{\csname a:TocLink\endcsname{1}{x1-90002.1}{QQ2-1-9}{Sobre la elección del TFG}}{31}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-9003}{}{\numberline {2.1}{\ignorespaces Diagrama de flujo del proceso.\relax }}}{35}\relax 
+\doTocEntry\tocsection{2.2}{\csname a:TocLink\endcsname{1}{x1-100002.2}{QQ2-1-10}{Sobre el desarrollo del proyecto}}{36}\relax 
+\doTocEntry\tocsubsection{2.2.1}{\csname a:TocLink\endcsname{1}{x1-110002.2.1}{QQ2-1-11}{Reuniones con la persona que te tutoriza}}{36}\relax 
+\doTocEntry\tocsubsection{2.2.2}{\csname a:TocLink\endcsname{1}{x1-120002.2.2}{QQ2-1-12}{Disciplina/pauta de trabajo}}{37}\relax 
+\doTocEntry\tocsubsection{2.2.3}{\csname a:TocLink\endcsname{1}{x1-130002.2.3}{QQ2-1-13}{Planificación y herramientas}}{38}\relax 
+\doTocEntry\tocsubsection{2.2.4}{\csname a:TocLink\endcsname{1}{x1-140002.2.4}{QQ2-1-14}{Cuestiones éticas y legales}}{40}\relax 
+\doTocEntry\tocsection{2.3}{\csname a:TocLink\endcsname{1}{x1-150002.3}{QQ2-1-15}{Sobre la redacción de la memoria}}{42}\relax 
+\doTocEntry\tocsubsection{2.3.1}{\csname a:TocLink\endcsname{1}{x1-160002.3.1}{QQ2-1-16}{Estilo de redacción}}{44}\relax 
+\doTocEntry\tocsection{2.4}{\csname a:TocLink\endcsname{1}{x1-170002.4}{QQ2-1-17}{Sobre la maquetación}}{45}\relax 
+\doTocEntry\tocsubsection{2.4.1}{\csname a:TocLink\endcsname{1}{x1-180002.4.1}{QQ2-1-18}{Presentación}}{46}\relax 
+\doTocEntry\tocsection{2.5}{\csname a:TocLink\endcsname{1}{x1-190002.5}{QQ2-1-19}{La finalización del proyecto}}{47}\relax 
+\doTocEntry\tocsubsection{2.5.1}{\csname a:TocLink\endcsname{1}{x1-200002.5.1}{QQ2-1-20}{Lecciones aprendidas}}{47}\relax 
+\doTocEntry\tocsection{2.6}{\csname a:TocLink\endcsname{1}{x1-210002.6}{QQ2-1-21}{Otras consideraciones}}{49}\relax 
+\doTocEntry\tocsubsection{2.6.1}{\csname a:TocLink\endcsname{1}{x1-220002.6.1}{QQ2-1-22}{Ingeniería Curricular}}{49}\relax 
+\doTocEntry\toclot{}{\csname a:TocLink\endcsname{1}{x1-22004}{}{\numberline {2.1}{\ignorespaces Recomendaciones para cubrir las rúbricas\relax }}}{52}\relax 
+\doTocEntry\tocsubsection{2.6.2}{\csname a:TocLink\endcsname{1}{x1-230002.6.2}{QQ2-1-23}{Recomendaciones generales para el uso de la IA}}{53}\relax 
+\doTocEntry\tocchapter{3}{\csname a:TocLink\endcsname{1}{x1-240003}{QQ2-1-24}{La estructura general de la memoria}}{55}\relax 
+\doTocEntry\tocsection{3.1}{\csname a:TocLink\endcsname{1}{x1-250003.1}{QQ2-1-25}{Estructura general de un TFG}}{55}\relax 
+\doTocEntry\tocsection{3.2}{\csname a:TocLink\endcsname{1}{x1-260003.2}{QQ2-1-26}{Proyectos de desarrollo}}{56}\relax 
+\doTocEntry\tocsubsection{3.2.1}{\csname a:TocLink\endcsname{1}{x1-270003.2.1}{QQ2-1-27}{Metodologías ágiles}}{57}\relax 
+\doTocEntry\tocsubsection{3.2.2}{\csname a:TocLink\endcsname{1}{x1-280003.2.2}{QQ2-1-28}{Ciclo de vida clásico}}{57}\relax 
+\doTocEntry\tocsection{3.3}{\csname a:TocLink\endcsname{1}{x1-290003.3}{QQ2-1-29}{Proyectos de investigación}}{58}\relax 
+\doTocEntry\tocsection{3.4}{\csname a:TocLink\endcsname{1}{x1-300003.4}{QQ2-1-30}{Proyectos de revisión de Estado del Arte}}{58}\relax 
+\doTocEntry\tocchapter{4}{\csname a:TocLink\endcsname{1}{x1-310004}{QQ2-1-31}{La introducción del TFG}}{57}\relax 
+\doTocEntry\tocsection{4.1}{\csname a:TocLink\endcsname{1}{x1-320004.1}{QQ2-1-32}{Introducción}}{57}\relax 
+\doTocEntry\tocsection{4.2}{\csname a:TocLink\endcsname{1}{x1-330004.2}{QQ2-1-33}{Contexto}}{58}\relax 
+\doTocEntry\tocsubsection{4.2.1}{\csname a:TocLink\endcsname{1}{x1-340004.2.1}{QQ2-1-34}{Qué de qué: definiciones}}{59}\relax 
+\doTocEntry\tocsubsection{4.2.2}{\csname a:TocLink\endcsname{1}{x1-350004.2.2}{QQ2-1-35}{No despistes al lector}}{59}\relax 
+\doTocEntry\tocsubsection{4.2.3}{\csname a:TocLink\endcsname{1}{x1-360004.2.3}{QQ2-1-36}{Estructura de la introducción: algunas sugerencias}}{60}\relax 
+\doTocEntry\tocsection{4.3}{\csname a:TocLink\endcsname{1}{x1-370004.3}{QQ2-1-37}{Motivación}}{60}\relax 
+\doTocEntry\tocsection{4.4}{\csname a:TocLink\endcsname{1}{x1-380004.4}{QQ2-1-38}{Objetivos del TFG}}{62}\relax 
+\doTocEntry\tocsection{4.5}{\csname a:TocLink\endcsname{1}{x1-390004.5}{QQ2-1-39}{Estructura de la memoria}}{64}\relax 
+\doTocEntry\tocchapter{5}{\csname a:TocLink\endcsname{1}{x1-400005}{QQ2-1-40}{La revisión del estado del arte}}{61}\relax 
+\doTocEntry\tocsection{5.1}{\csname a:TocLink\endcsname{1}{x1-410005.1}{QQ2-1-41}{Introducción}}{61}\relax 
+\doTocEntry\tocsection{5.2}{\csname a:TocLink\endcsname{1}{x1-420005.2}{QQ2-1-42}{Búsqueda de información}}{62}\relax 
+\doTocEntry\tocsubsection{5.2.1}{\csname a:TocLink\endcsname{1}{x1-430005.2.1}{QQ2-1-43}{Identificar las preguntas}}{62}\relax 
+\doTocEntry\tocsubsection{5.2.2}{\csname a:TocLink\endcsname{1}{x1-440005.2.2}{QQ2-1-44}{Selección de las palabras clave para la búsqueda}}{63}\relax 
+\doTocEntry\tocsubsection{5.2.3}{\csname a:TocLink\endcsname{1}{x1-450005.2.3}{QQ2-1-45}{Selección de las fuentes y recursos}}{63}\relax 
+\doTocEntry\tocsubsection{5.2.4}{\csname a:TocLink\endcsname{1}{x1-460005.2.4}{QQ2-1-46}{Evaluación de la calidad de la información, análisis y síntesis}}{66}\relax 
+\doTocEntry\tocsection{5.3}{\csname a:TocLink\endcsname{1}{x1-470005.3}{QQ2-1-47}{Cómo plasmarlo en la memoria}}{68}\relax 
+\doTocEntry\tocsection{5.4}{\csname a:TocLink\endcsname{1}{x1-480005.4}{QQ2-1-48}{Recomendaciones generales}}{69}\relax 
+\doTocEntry\tocchapter{6}{\csname a:TocLink\endcsname{1}{x1-490006}{QQ2-1-49}{La planificación y los costes del proyecto}}{73}\relax 
+\doTocEntry\tocsection{6.1}{\csname a:TocLink\endcsname{1}{x1-500006.1}{QQ2-1-50}{Planificación temporal}}{73}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-50003}{}{\numberline {6.1}{\ignorespaces Diagrama de Gantt\relax }}}{75}\relax 
+\doTocEntry\tocsubsection{6.1.1}{\csname a:TocLink\endcsname{1}{x1-510006.1.1}{QQ2-1-51}{Planificación ``a posteriori''}}{77}\relax 
+\doTocEntry\tocsection{6.2}{\csname a:TocLink\endcsname{1}{x1-520006.2}{QQ2-1-52}{Plan de gestión de riesgos y contingencias}}{77}\relax 
+\doTocEntry\tocsection{6.3}{\csname a:TocLink\endcsname{1}{x1-530006.3}{QQ2-1-53}{Costes}}{78}\relax 
+\doTocEntry\tocsubsection{6.3.1}{\csname a:TocLink\endcsname{1}{x1-540006.3.1}{QQ2-1-54}{Ejemplo}}{79}\relax 
+\doTocEntry\tocsubsubsection{}{\csname a:TocLink\endcsname{1}{x1-550006.3.1}{QQ2-1-55}{Coste de personal}}{80}\relax 
+\doTocEntry\tocsubsubsection{}{\csname a:TocLink\endcsname{1}{x1-560006.3.1}{QQ2-1-56}{Costes de material}}{80}\relax 
+\doTocEntry\tocsubsubsection{}{\csname a:TocLink\endcsname{1}{x1-570006.3.1}{QQ2-1-57}{Costes de despliegue y mantenimiento}}{80}\relax 
+\doTocEntry\tocsubsubsection{}{\csname a:TocLink\endcsname{1}{x1-580006.3.1}{QQ2-1-58}{Costes indirectos}}{81}\relax 
+\doTocEntry\tocsubsection{6.3.2}{\csname a:TocLink\endcsname{1}{x1-590006.3.2}{QQ2-1-59}{Coste Total}}{81}\relax 
+\doTocEntry\tocchapter{7}{\csname a:TocLink\endcsname{1}{x1-600007}{QQ2-1-60}{Las conclusiones y los trabajos futuros}}{85}\relax 
+\doTocEntry\tocsection{7.1}{\csname a:TocLink\endcsname{1}{x1-610007.1}{QQ2-1-61}{Conclusiones}}{85}\relax 
+\doTocEntry\tocsection{7.2}{\csname a:TocLink\endcsname{1}{x1-620007.2}{QQ2-1-62}{Trabajo futuro}}{86}\relax 
+\doTocEntry\tocchapter{8}{\csname a:TocLink\endcsname{1}{x1-630008}{QQ2-1-63}{La bibliografía}}{91}\relax 
+\doTocEntry\tocsection{8.1}{\csname a:TocLink\endcsname{1}{x1-640008.1}{QQ2-1-64}{¿Por qué citar?}}{91}\relax 
+\doTocEntry\tocsection{8.2}{\csname a:TocLink\endcsname{1}{x1-650008.2}{QQ2-1-65}{¿Qué citar?}}{91}\relax 
+\doTocEntry\tocsection{8.3}{\csname a:TocLink\endcsname{1}{x1-660008.3}{QQ2-1-66}{¿Cómo citar?}}{92}\relax 
+\doTocEntry\toclot{}{\csname a:TocLink\endcsname{1}{x1-66002}{}{\numberline {8.1}{\ignorespaces Resumen de hallazgos en las rúbricas tomados de \cite  {fernandez2023evaluacion}.\relax }}}{95}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-66004}{}{\numberline {8.1}{\ignorespaces Mapa de rúbricas basado en \cite  {fernandez2023evaluacion}.\relax }}}{95}\relax 
+\doTocEntry\toclot{}{\csname a:TocLink\endcsname{1}{x1-66006}{}{\numberline {8.2}{\ignorespaces Información mínima y opcional (en cursiva) para cada tipo de referencia a citar.\relax }}}{101}\relax 
+\doTocEntry\tocsection{8.4}{\csname a:TocLink\endcsname{1}{x1-670008.4}{QQ2-1-67}{Herramientas de gestión de referencias y citas}}{103}\relax 
+\doTocEntry\tocsection{8.5}{\csname a:TocLink\endcsname{1}{x1-680008.5}{QQ2-1-68}{Consejos prácticos}}{104}\relax 
+\doTocEntry\tocchapter{9}{\csname a:TocLink\endcsname{1}{x1-690009}{QQ2-1-69}{La revisión del proyecto y la memoria}}{111}\relax 
+\doTocEntry\tocchapter{10}{\csname a:TocLink\endcsname{1}{x1-7000010}{QQ2-1-70}{La elaboración de la presentación en la defensa}}{111}\relax 
+\doTocEntry\tocsection{10.1}{\csname a:TocLink\endcsname{1}{x1-7100010.1}{QQ2-1-71}{Céntrate en lo importante}}{111}\relax 
+\doTocEntry\tocsection{10.2}{\csname a:TocLink\endcsname{1}{x1-7200010.2}{QQ2-1-72}{La presentación no es un karaoke}}{112}\relax 
+\doTocEntry\tocsection{10.3}{\csname a:TocLink\endcsname{1}{x1-7300010.3}{QQ2-1-73}{El poder de lo visual}}{113}\relax 
+\doTocEntry\tocsection{10.4}{\csname a:TocLink\endcsname{1}{x1-7400010.4}{QQ2-1-74}{Show. Don't tell}}{114}\relax 
+\doTocEntry\tocchapter{11}{\csname a:TocLink\endcsname{1}{x1-7500011}{QQ2-1-75}{La defensa}}{113}\relax 
+\doTocEntry\tocsection{11.1}{\csname a:TocLink\endcsname{1}{x1-7600011.1}{QQ2-1-76}{La estructura del acto}}{113}\relax 
+\doTocEntry\tocsection{11.2}{\csname a:TocLink\endcsname{1}{x1-7700011.2}{QQ2-1-77}{La importancia de la defensa}}{113}\relax 
+\doTocEntry\tocsection{11.3}{\csname a:TocLink\endcsname{1}{x1-7800011.3}{QQ2-1-78}{La comunicación con la comisión}}{118}\relax 
+\doTocEntry\tocsection{11.4}{\csname a:TocLink\endcsname{1}{x1-7900011.4}{QQ2-1-79}{Cuestiones de protocolo}}{119}\relax 
+\doTocEntry\tocappendix{A}{\csname a:TocLink\endcsname{1}{x1-80000A}{QQ2-1-80}{Propiedad intelectual y licencias}}{101}\relax 
+\doTocEntry\tocsection{A.1}{\csname a:TocLink\endcsname{1}{x1-81000A.1}{QQ2-1-81}{Propiedad intelectual}}{101}\relax 
+\doTocEntry\tocsubsection{A.1.1}{\csname a:TocLink\endcsname{1}{x1-82000A.1.1}{QQ2-1-82}{Normativa de la universidad}}{101}\relax 
+\doTocEntry\tocsection{A.2}{\csname a:TocLink\endcsname{1}{x1-83000A.2}{QQ2-1-83}{¿Qué son las licencias?}}{102}\relax 
+\doTocEntry\tocsection{A.3}{\csname a:TocLink\endcsname{1}{x1-84000A.3}{QQ2-1-84}{Licencias para texto, conjuntos de datos e imágenes}}{103}\relax 
+\doTocEntry\toclot{}{\csname a:TocLink\endcsname{1}{x1-84003}{}{\numberline {A.1}{\ignorespaces Sitios con recursos digitales abiertos\relax }}}{106}\relax 
+\doTocEntry\tocsection{A.4}{\csname a:TocLink\endcsname{1}{x1-85000A.4}{QQ2-1-85}{Licencias de código fuente}}{107}\relax 
+\doTocEntry\tocsubsection{A.4.1}{\csname a:TocLink\endcsname{1}{x1-86000A.4.1}{QQ2-1-86}{Licencias de software libre}}{108}\relax 
+\doTocEntry\tocsubsection{A.4.2}{\csname a:TocLink\endcsname{1}{x1-87000A.4.2}{QQ2-1-87}{Código abierto}}{108}\relax 
+\doTocEntry\tocsection{A.5}{\csname a:TocLink\endcsname{1}{x1-88000A.5}{QQ2-1-88}{Cómo aplicar una licencia a tu proyecto}}{109}\relax 
+\doTocEntry\tocsection{A.6}{\csname a:TocLink\endcsname{1}{x1-89000A.6}{QQ2-1-89}{Código generado por IA o copiado de páginas web}}{110}\relax 
+\doTocEntry\tocsection{A.7}{\csname a:TocLink\endcsname{1}{x1-90000A.7}{QQ2-1-90}{Otras consideraciones sobre las licencias y cómo obtenerlas}}{110}\relax 
+\doTocEntry\tocappendix{B}{\csname a:TocLink\endcsname{1}{x1-91000B}{QQ2-1-91}{Las tipologías de TFG y su desarrollo}}{115}\relax 
+\doTocEntry\tocsection{B.1}{\csname a:TocLink\endcsname{1}{x1-92000B.1}{QQ2-1-92}{TFG de desarrollo de software}}{115}\relax 
+\doTocEntry\tocsection{B.2}{\csname a:TocLink\endcsname{1}{x1-93000B.2}{QQ2-1-93}{TFG de investigación}}{117}\relax 
+\doTocEntry\tocsubsection{B.2.1}{\csname a:TocLink\endcsname{1}{x1-94000B.2.1}{QQ2-1-94}{El método científico}}{118}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-94003}{}{\numberline {B.1}{\ignorespaces Diagrama que representa el método científico.\relax }}}{120}\relax 
+\doTocEntry\tocsubsection{B.2.2}{\csname a:TocLink\endcsname{1}{x1-95000B.2.2}{QQ2-1-95}{Estructura del trabajo y de la memoria}}{122}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{1}{x1-96000B.2.2}{QQ2-1-96}{Motivación - Pregunta de investigación\textnormal  {.}}}{122}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{1}{x1-97000B.2.2}{QQ2-1-97}{Investigación relacionada - Estudiar el estado del arte\textnormal  {.}}}{122}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{1}{x1-98000B.2.2}{QQ2-1-98}{Hipótesis\textnormal  {.}}}{123}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{1}{x1-99000B.2.2}{QQ2-1-99}{Desarrollo - Evaluación de la hipótesis\textnormal  {.}}}{124}\relax 
+\doTocEntry\toclot{}{\csname a:TocLink\endcsname{1}{x1-99002}{}{\numberline {B.1}{\ignorespaces Conjuntos de datos utilizados en este trabajo provenientes del repositorio UCI}}}{124}\relax 
+\doTocEntry\toclot{}{\csname a:TocLink\endcsname{1}{x1-99005}{}{\numberline {B.2}{\ignorespaces Elementos incluidos en los distintos conjuntos de datos generados artificialmente.\relax }}}{125}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{1}{x1-100000B.2.2}{QQ2-1-100}{Análisis de los resultados\textnormal  {.}}}{126}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{1}{x1-101000B.2.2}{QQ2-1-101}{Conclusiones.}}{127}\relax 
+\doTocEntry\tocsubsection{B.2.3}{\csname a:TocLink\endcsname{1}{x1-102000B.2.3}{QQ2-1-102}{Recomendaciones}}{127}\relax 
+\doTocEntry\tocsection{B.3}{\csname a:TocLink\endcsname{1}{x1-103000B.3}{QQ2-1-103}{TFG de revisión del estado del arte}}{129}\relax 
+\doTocEntry\tocsubsection{B.3.1}{\csname a:TocLink\endcsname{1}{x1-104000B.3.1}{QQ2-1-104}{Tipos de revisiones}}{129}\relax 
+\doTocEntry\tocsubsection{B.3.2}{\csname a:TocLink\endcsname{1}{x1-105000B.3.2}{QQ2-1-105}{Revisiones sistemáticas}}{131}\relax 
