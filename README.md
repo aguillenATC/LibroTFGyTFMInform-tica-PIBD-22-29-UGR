@@ -9,6 +9,10 @@ Por todo ello, se echa en falta un material docente que integre y aúne recomend
 
 https://www.youtube.com/channel/UCoBdgKxqebJ4c4Eks6HYj0g
 
+# NotebookLM (solicitar acceso con cuenta go.ugr.es)
+
+http://sl.ugr.es/notebookLM_ElaboraTFG
+
 # Autores
 
 - Juan Manuel Fernández Luna
