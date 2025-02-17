@@ -33,7 +33,7 @@ jobs:
         run: |
           mkdir ./public
           cp *.tex public/
-          cp -r assets/ public/
+          cp -r images/ public/
           cd public/
           pdflatex ElaboracionMemoriaTFG.tex
           pdflatex ElaboracionMemoriaTFG.tex
