@@ -1,0 +1,102 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {chapter}{\numberline {1}Introducción}{17}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Recomendaciones generales}{21}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Sobre la elección del TFG}{21}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Sobre el desarrollo del proyecto}{23}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Reuniones con la persona que te tutoriza}{24}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Disciplina/pauta de trabajo}{25}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}Planificación y herramientas}{26}{subsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.2.4}Cuestiones éticas y legales}{27}{subsection.2.2.4}%
+\contentsline {section}{\numberline {2.3}Sobre la redacción de la memoria}{30}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Estilo de redacción}{31}{subsection.2.3.1}%
+\contentsline {section}{\numberline {2.4}Sobre la maquetación}{32}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Presentación}{33}{subsection.2.4.1}%
+\contentsline {section}{\numberline {2.5}La finalización del proyecto}{33}{section.2.5}%
+\contentsline {subsection}{\numberline {2.5.1}Lecciones aprendidas}{34}{subsection.2.5.1}%
+\contentsline {section}{\numberline {2.6}Otras consideraciones}{35}{section.2.6}%
+\contentsline {subsection}{\numberline {2.6.1}Ingeniería Curricular}{35}{subsection.2.6.1}%
+\contentsline {subsection}{\numberline {2.6.2}Recomendaciones generales para el uso de la IA}{35}{subsection.2.6.2}%
+\contentsline {chapter}{\numberline {3}La estructura general de la memoria}{39}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Estructura general de un TFG}{39}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Proyectos de desarrollo}{40}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Metodologías ágiles}{40}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Ciclo de vida clásico}{41}{subsection.3.2.2}%
+\contentsline {section}{\numberline {3.3}Proyectos de investigación}{41}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Proyectos de revisión de Estado del Arte}{42}{section.3.4}%
+\contentsline {chapter}{\numberline {4}La introducción del TFG}{43}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Introducción}{43}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Contexto}{45}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Qué de qué: definiciones}{45}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}No despistes al lector}{45}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.2.3}Estructura de la introducción: algunas sugerencias}{46}{subsection.4.2.3}%
+\contentsline {section}{\numberline {4.3}Motivación}{46}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Objetivos del TFG}{48}{section.4.4}%
+\contentsline {section}{\numberline {4.5}Estructura de la memoria}{49}{section.4.5}%
+\contentsline {chapter}{\numberline {5}La revisión del estado del arte}{51}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Introducción}{51}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Búsqueda de información}{52}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}Identificar las preguntas}{52}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.2.2}Selección de las palabras clave para la búsqueda}{53}{subsection.5.2.2}%
+\contentsline {subsection}{\numberline {5.2.3}Selección de las fuentes y recursos}{53}{subsection.5.2.3}%
+\contentsline {subsection}{\numberline {5.2.4}Evaluación de la calidad de la información, análisis y síntesis}{55}{subsection.5.2.4}%
+\contentsline {section}{\numberline {5.3}Cómo plasmarlo en la memoria}{57}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Recomendaciones generales}{58}{section.5.4}%
+\contentsline {chapter}{\numberline {6}La planificación y los costes del proyecto}{61}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Planificación temporal}{61}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}Planificación ``a posteriori''}{63}{subsection.6.1.1}%
+\contentsline {section}{\numberline {6.2}Plan de gestión de riesgos y contingencias}{63}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Costes}{64}{section.6.3}%
+\contentsline {subsection}{\numberline {6.3.1}Ejemplo}{65}{subsection.6.3.1}%
+\contentsline {subsubsection}{Coste de personal}{65}{section*.11}%
+\contentsline {subsubsection}{Costes de material}{66}{section*.12}%
+\contentsline {subsubsection}{Costes de despliegue y mantenimiento}{66}{section*.13}%
+\contentsline {subsubsection}{Costes indirectos}{66}{section*.14}%
+\contentsline {subsection}{\numberline {6.3.2}Coste Total}{66}{subsection.6.3.2}%
+\contentsline {chapter}{\numberline {7}Las conclusiones y los trabajos futuros}{67}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Conclusiones}{67}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Trabajo futuro}{68}{section.7.2}%
+\contentsline {chapter}{\numberline {8}La bibliografía}{71}{chapter.8}%
+\contentsline {section}{\numberline {8.1}¿Por qué citar?}{71}{section.8.1}%
+\contentsline {section}{\numberline {8.2}¿Qué citar?}{71}{section.8.2}%
+\contentsline {section}{\numberline {8.3}¿Cómo citar?}{72}{section.8.3}%
+\contentsline {section}{\numberline {8.4}Herramientas de gestión de referencias y citas}{76}{section.8.4}%
+\contentsline {section}{\numberline {8.5}Consejos prácticos}{76}{section.8.5}%
+\contentsline {chapter}{\numberline {9}La revisión del proyecto y la memoria}{79}{chapter.9}%
+\contentsline {chapter}{\numberline {10}La elaboración de la presentación en la defensa}{83}{chapter.10}%
+\contentsline {section}{\numberline {10.1}Céntrate en lo importante}{83}{section.10.1}%
+\contentsline {section}{\numberline {10.2}La presentación no es un karaoke}{84}{section.10.2}%
+\contentsline {section}{\numberline {10.3}El poder de lo visual}{85}{section.10.3}%
+\contentsline {section}{\numberline {10.4}Show. Don't tell}{85}{section.10.4}%
+\contentsline {chapter}{\numberline {11}La defensa}{87}{chapter.11}%
+\contentsline {section}{\numberline {11.1}La estructura del acto}{87}{section.11.1}%
+\contentsline {section}{\numberline {11.2}La importancia de la defensa}{88}{section.11.2}%
+\contentsline {section}{\numberline {11.3}La comunicación con la comisión}{91}{section.11.3}%
+\contentsline {section}{\numberline {11.4}Cuestiones de protocolo}{92}{section.11.4}%
+\contentsline {chapter}{\numberline {A}Propiedad intelectual y licencias}{95}{appendix.Alph1}%
+\contentsline {section}{\numberline {A.1}Propiedad intelectual}{95}{section.Alph1.1}%
+\contentsline {subsection}{\numberline {A.1.1}Normativa de la universidad}{95}{subsection.Alph1.1.1}%
+\contentsline {section}{\numberline {A.2}¿Qué son las licencias?}{96}{section.Alph1.2}%
+\contentsline {section}{\numberline {A.3}Licencias para texto, conjuntos de datos e imágenes}{97}{section.Alph1.3}%
+\contentsline {section}{\numberline {A.4}Licencias de código fuente}{98}{section.Alph1.4}%
+\contentsline {subsection}{\numberline {A.4.1}Licencias de software libre}{99}{subsection.Alph1.4.1}%
+\contentsline {subsection}{\numberline {A.4.2}Código abierto}{99}{subsection.Alph1.4.2}%
+\contentsline {section}{\numberline {A.5}Cómo aplicar una licencia a tu proyecto}{100}{section.Alph1.5}%
+\contentsline {section}{\numberline {A.6}Código generado por IA o copiado de páginas web}{101}{section.Alph1.6}%
+\contentsline {section}{\numberline {A.7}Otras consideraciones sobre las licencias y cómo obtenerlas}{101}{section.Alph1.7}%
+\contentsline {chapter}{\numberline {B}Las tipologías de TFG y su desarrollo}{103}{appendix.Alph2}%
+\contentsline {section}{\numberline {B.1}TFG de desarrollo de software}{103}{section.Alph2.1}%
+\contentsline {section}{\numberline {B.2}TFG de investigación}{105}{section.Alph2.2}%
+\contentsline {subsection}{\numberline {B.2.1}El método científico}{106}{subsection.Alph2.2.1}%
+\contentsline {subsection}{\numberline {B.2.2}Estructura del trabajo y de la memoria}{107}{subsection.Alph2.2.2}%
+\contentsline {paragraph}{Motivación - Pregunta de investigación\textnormal {.}}{108}{section*.20}%
+\contentsline {paragraph}{Investigación relacionada - Estudiar el estado del arte\textnormal {.}}{108}{section*.21}%
+\contentsline {paragraph}{Hipótesis\textnormal {.}}{109}{section*.22}%
+\contentsline {paragraph}{Desarrollo - Evaluación de la hipótesis\textnormal {.}}{109}{section*.23}%
+\contentsline {paragraph}{Análisis de los resultados\textnormal {.}}{112}{section*.26}%
+\contentsline {paragraph}{Conclusiones.}{112}{section*.27}%
+\contentsline {subsection}{\numberline {B.2.3}Recomendaciones}{112}{subsection.Alph2.2.3}%
+\contentsline {section}{\numberline {B.3}TFG de revisión del estado del arte}{114}{section.Alph2.3}%
+\contentsline {subsection}{\numberline {B.3.1}Tipos de revisiones}{114}{subsection.Alph2.3.1}%
+\contentsline {subsection}{\numberline {B.3.2}Revisiones sistemáticas}{115}{subsection.Alph2.3.2}%
+\contentsline {chapter}{\numberline {C}Experiencias y consejos del estudiantado}{119}{appendix.Alph3}%
+\contentsline {section}{\numberline {C.1}¡Incluye tu comentario o experiencia aquí!}{119}{section.Alph3.1}%
