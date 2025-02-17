@@ -18,7 +18,7 @@ jobs:
 
       # Restore the TeX Live installation from cache
       - name: Restore TeX Live Cache
-        uses: actions/cache@v2
+        uses: actions/cache@v3
         with:
           path: |
             /usr/local/texlive
@@ -40,7 +40,7 @@ jobs:
 
       # Save the TeX Live installation to cache for future use
       - name: Save TeX Live Cache
-        uses: actions/cache@v2
+        uses: actions/cache@v3
         with:
           path: |
             /usr/local/texlive
@@ -58,11 +58,11 @@ jobs:
           tag_name: Current
           files: public/ElaboracionMemoriaTFG.pdf
 
-      - name: Build Latex  HTML
-        run: |
-          cd public/
-          make4ht ElaboracionMemoriaTFG.tex
-          mv ElaboracionMemoriaTFG.html index.html
+      #- name: Build Latex  HTML
+      #  run: |
+      #    cd public/
+      #    make4ht ElaboracionMemoriaTFG.tex
+      #    mv ElaboracionMemoriaTFG.html index.html
 
       - name: Publish HTML to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
