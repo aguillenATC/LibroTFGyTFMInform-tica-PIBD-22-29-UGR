@@ -5,6 +5,10 @@ Desde el punto de vista docente, para los que actúan de tutores existe una dive
 
 Por todo ello, se echa en falta un material docente que integre y aúne recomendaciones, buenas prácticas, consejos sobre cómo escribir una memoria de TFG / TFM y no morir en el intento. Y este es el objetivo principal de este PIBD, la confección de un material docente, de libre distribución, que homogenice la escritura de este documento sin menoscabar la libertad de cátedra. Este producto se confeccionará a partir de cuestionarios que serán pasados a estudiantes egresados, estudiantes trabajando en proceso de su TFG /TFM, docentes tutores y docentes evaluadores, con objeto de cubrir un amplio rango de roles y obtener la máxima información posible, y la más útil, que permita diseñar un producto de calidad con una alta utilidad para el estudiantado y profesorado.
 
+# Enlaces de descarga de la 1a edición
+ DigiBUG: https://hdl.handle.net/10481/102499
+ Zenodo: https://zenodo.org/records/14887022 
+
 # Canal de YouTube con resumen
 
 https://www.youtube.com/channel/UCoBdgKxqebJ4c4Eks6HYj0g
