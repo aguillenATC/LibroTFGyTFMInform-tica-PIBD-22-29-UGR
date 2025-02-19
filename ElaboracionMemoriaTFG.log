@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=latex 2025.2.17)  17 FEB 2025 17:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=latex 2025.2.19)  19 FEB 2025 08:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1676,6 +1676,10 @@ Such booboos are generally harmless, so keep going.
 [24
 
 ]
+--- file ElaboracionMemoriaTFG3.html ---
+--- file ElaboracionMemoriaTFG4.html ---
+--- file ElaboracionMemoriaTFG5.html ---
+--- file ElaboracionMemoriaTFG6.html ---
 ! Argument of \MT@res@a has an extra }.
 <inserted text> 
                 \par 
@@ -1689,7 +1693,7 @@ argument that might be the root of the problem. But if
 your `}' was spurious, just type `2' and it will go away.
 
 Runaway argument?
-##1,\OT1/cmtt/m/n/10 ,##2##3\@nnil {\ifx ##2\@empty \MT@inlist@false \ETC.
+##1,\U/msb/m/n/5 ,##2##3\@nnil {\ifx ##2\@empty \MT@inlist@false \else \ETC.
 ! Paragraph ended before \MT@res@a was complete.
 <to be read again> 
                    \par 
@@ -1712,7 +1716,7 @@ argument that might be the root of the problem. But if
 your `}' was spurious, just type `2' and it will go away.
 
 Runaway argument?
-##1,\OT1/cmtt/m/n/10 ,##2##3\@nnil {\ifx ##2\@empty \MT@inlist@false \ETC.
+##1,\U/msb/m/n/5 ,##2##3\@nnil {\ifx ##2\@empty \MT@inlist@false \else \ETC.
 ! Paragraph ended before \MT@res@a was complete.
 <to be read again> 
                    \par 
@@ -1726,7 +1730,12 @@ My plan is to forget the whole thing and hope for the best.
 LaTeX Warning: Reference `cap:IntroducciónTFG' on page 25 undefined on input l
 ine 40.
 
-[25]
+[25
+
+
+
+
+]
 ! Argument of \MT@res@a has an extra }.
 <inserted text> 
                 \par 
@@ -1901,7 +1910,7 @@ I'm ignoring this; it doesn't match any \if.
 ]
 Cap\'{\i }tulo 2.
 [31] [32]
---- file ElaboracionMemoriaTFG3.html ---
+--- file ElaboracionMemoriaTFG7.html ---
 [33
 
 ] [34
@@ -1916,18 +1925,18 @@ l. 46 --- needs --- images/DecisionTFG-.png ---
 ] [36
 
 ]
---- file ElaboracionMemoriaTFG4.html ---
---- file ElaboracionMemoriaTFG5.html ---
---- file ElaboracionMemoriaTFG6.html ---
---- file ElaboracionMemoriaTFG7.html ---
+--- file ElaboracionMemoriaTFG8.html ---
+--- file ElaboracionMemoriaTFG9.html ---
+--- file ElaboracionMemoriaTFG10.html ---
+--- file ElaboracionMemoriaTFG11.html ---
 [37
 
 
 
 ]
---- file ElaboracionMemoriaTFG8.html ---
---- file ElaboracionMemoriaTFG9.html ---
---- file ElaboracionMemoriaTFG10.html ---
+--- file ElaboracionMemoriaTFG12.html ---
+--- file ElaboracionMemoriaTFG13.html ---
+--- file ElaboracionMemoriaTFG14.html ---
 [38
 
 
@@ -1938,8 +1947,8 @@ l. 46 --- needs --- images/DecisionTFG-.png ---
 LaTeX Warning: Citation `EticaCantabria' on page 40 undefined on input line 129
 .
 
---- file ElaboracionMemoriaTFG11.html ---
---- file ElaboracionMemoriaTFG12.html ---
+--- file ElaboracionMemoriaTFG15.html ---
+--- file ElaboracionMemoriaTFG16.html ---
 [40
 
 
@@ -2011,8 +2020,8 @@ LaTeX Warning: Reference `cap:elaboraciónPresentación' on page 46 undefined o
 n input line 295.
 
 [46] [47] [48]
---- file ElaboracionMemoriaTFG13.html ---
---- file ElaboracionMemoriaTFG14.html ---
+--- file ElaboracionMemoriaTFG17.html ---
+--- file ElaboracionMemoriaTFG18.html ---
 [49
 
 
@@ -2027,8 +2036,8 @@ LaTeX Warning: Citation `ugrIA' on page 53 undefined on input line 395.
 [53
 
 ]
---- file ElaboracionMemoriaTFG15.html ---
---- file ElaboracionMemoriaTFG16.html ---
+--- file ElaboracionMemoriaTFG19.html ---
+--- file ElaboracionMemoriaTFG20.html ---
 ) [54
 
 ]
@@ -2202,7 +2211,7 @@ LaTeX Warning: Reference `anexo:Tipologías' on page 56 undefined on input line
  53.
 
 [56] [57]
---- file ElaboracionMemoriaTFG17.html ---
+--- file ElaboracionMemoriaTFG21.html ---
 [58]) [59
 
 ]
@@ -2276,7 +2285,7 @@ File: omlbch.fd
 LaTeX Font Info:    Font shape `OML/bch/m/n' in size <10> not available
 (Font)              Font shape `OML/cmm/m/it' tried instead on input line 40.
 [59]
---- file ElaboracionMemoriaTFG18.html ---
+--- file ElaboracionMemoriaTFG22.html ---
 [60
 
 ] [61] [62]
@@ -2284,7 +2293,7 @@ LaTeX Font Info:    Font shape `OML/bch/m/n' in size <10> not available
 LaTeX Warning: Citation `doran1981there' on page 63 undefined on input line 110
 .
 
---- file ElaboracionMemoriaTFG19.html ---
+--- file ElaboracionMemoriaTFG23.html ---
 [63
 
 ]
@@ -2310,16 +2319,12 @@ I'm ignoring this; it doesn't match any \if.
 ]
 Cap\'{\i }tulo 5.
 [61]
---- file ElaboracionMemoriaTFG20.html ---
+--- file ElaboracionMemoriaTFG24.html ---
 [62
 
 ]
---- file ElaboracionMemoriaTFG21.html ---
-[63]
---- file ElaboracionMemoriaTFG22.html ---
---- file ElaboracionMemoriaTFG23.html ---
---- file ElaboracionMemoriaTFG24.html ---
 --- file ElaboracionMemoriaTFG25.html ---
+[63]
 --- file ElaboracionMemoriaTFG26.html ---
 --- file ElaboracionMemoriaTFG27.html ---
 --- file ElaboracionMemoriaTFG28.html ---
@@ -2327,6 +2332,10 @@ Cap\'{\i }tulo 5.
 --- file ElaboracionMemoriaTFG30.html ---
 --- file ElaboracionMemoriaTFG31.html ---
 --- file ElaboracionMemoriaTFG32.html ---
+--- file ElaboracionMemoriaTFG33.html ---
+--- file ElaboracionMemoriaTFG34.html ---
+--- file ElaboracionMemoriaTFG35.html ---
+--- file ElaboracionMemoriaTFG36.html ---
 [64
 
 
@@ -2334,10 +2343,10 @@ Cap\'{\i }tulo 5.
 
 
 ]
---- file ElaboracionMemoriaTFG33.html ---
---- file ElaboracionMemoriaTFG34.html ---
---- file ElaboracionMemoriaTFG35.html ---
---- file ElaboracionMemoriaTFG36.html ---
+--- file ElaboracionMemoriaTFG37.html ---
+--- file ElaboracionMemoriaTFG38.html ---
+--- file ElaboracionMemoriaTFG39.html ---
+--- file ElaboracionMemoriaTFG40.html ---
 [65
 
 
@@ -2349,11 +2358,11 @@ Cap\'{\i }tulo 5.
 
 
 ]
---- file ElaboracionMemoriaTFG37.html ---
+--- file ElaboracionMemoriaTFG41.html ---
 [67] [68
 
 ] [69]
---- file ElaboracionMemoriaTFG38.html ---
+--- file ElaboracionMemoriaTFG42.html ---
 [70]) [71]
 \openout2 = `6.planificacion_presupuesto.aux'.
 
@@ -2363,7 +2372,7 @@ Cap\'{\i }tulo 5.
 
 ]
 Cap\'{\i }tulo 6.
---- file ElaboracionMemoriaTFG39.html ---
+--- file ElaboracionMemoriaTFG43.html ---
 [73
 
 ] [74
@@ -2376,11 +2385,11 @@ l. 17 --- needs --- images/EjemploGantt-.png ---
 [75
 
 ]
---- file ElaboracionMemoriaTFG40.html ---
---- file ElaboracionMemoriaTFG41.html ---
---- file ElaboracionMemoriaTFG42.html ---
---- file ElaboracionMemoriaTFG43.html ---
 --- file ElaboracionMemoriaTFG44.html ---
+--- file ElaboracionMemoriaTFG45.html ---
+--- file ElaboracionMemoriaTFG46.html ---
+--- file ElaboracionMemoriaTFG47.html ---
+--- file ElaboracionMemoriaTFG48.html ---
 [76
 
 
@@ -2502,9 +2511,9 @@ l.237 --- TeX4ht warning --- Cannot determine size of graphic in "images/ieee.x
 bb" (no BoundingBox) ---
 l. 237 --- needs --- images/ieee-.png ---
 [103]
---- file ElaboracionMemoriaTFG45.html ---
---- file ElaboracionMemoriaTFG46.html ---
---- file ElaboracionMemoriaTFG47.html ---
+--- file ElaboracionMemoriaTFG49.html ---
+--- file ElaboracionMemoriaTFG50.html ---
+--- file ElaboracionMemoriaTFG51.html ---
 Package textcomp Info: Symbol \textasciiacute not provided by
 (textcomp)             font family bch in TS1 encoding.
 (textcomp)             Default family used instead on input line 251.
@@ -2516,7 +2525,7 @@ Package textcomp Info: Symbol \textasciiacute not provided by
 
 
 ]
---- file ElaboracionMemoriaTFG48.html ---
+--- file ElaboracionMemoriaTFG52.html ---
 ) [105
 
 ] [106
@@ -2644,7 +2653,7 @@ You've closed more groups than you opened.
 Such booboos are generally harmless, so keep going.
 
 [111] [112]
---- file ElaboracionMemoriaTFG49.html ---
+--- file ElaboracionMemoriaTFG53.html ---
 [113
 
 ]) [114]
@@ -2742,14 +2751,14 @@ No file ElaboracionMemoriaTFG.bbl.
 
 ]
 Ap\'{e}ndice A.
---- file ElaboracionMemoriaTFG50.html ---
---- file ElaboracionMemoriaTFG51.html ---
+--- file ElaboracionMemoriaTFG54.html ---
+--- file ElaboracionMemoriaTFG55.html ---
 [101
 
 ] [102
 
 ]
---- file ElaboracionMemoriaTFG52.html ---
+--- file ElaboracionMemoriaTFG56.html ---
 [103
 
 ] [104] [105
@@ -2761,39 +2770,39 @@ Ap\'{e}ndice A.
 LaTeX Warning: Citation `derechosautorIA' on page 107 undefined on input line 1
 45.
 
---- file ElaboracionMemoriaTFG53.html ---
+--- file ElaboracionMemoriaTFG57.html ---
 [107
 
 
 ]
---- file ElaboracionMemoriaTFG54.html ---
+--- file ElaboracionMemoriaTFG58.html ---
 
 LaTeX Warning: Citation `FSFfaq' on page 108 undefined on input line 165.
 
---- file ElaboracionMemoriaTFG55.html ---
+--- file ElaboracionMemoriaTFG59.html ---
 [108
 
 
 ]
---- file ElaboracionMemoriaTFG56.html ---
---- file ElaboracionMemoriaTFG57.html ---
---- file ElaboracionMemoriaTFG58.html ---
-[109
-
-
-
-]
---- file ElaboracionMemoriaTFG59.html ---
 --- file ElaboracionMemoriaTFG60.html ---
 --- file ElaboracionMemoriaTFG61.html ---
 --- file ElaboracionMemoriaTFG62.html ---
-[110
+[109
 
 
 
 ]
 --- file ElaboracionMemoriaTFG63.html ---
 --- file ElaboracionMemoriaTFG64.html ---
+--- file ElaboracionMemoriaTFG65.html ---
+--- file ElaboracionMemoriaTFG66.html ---
+[110
+
+
+
+]
+--- file ElaboracionMemoriaTFG67.html ---
+--- file ElaboracionMemoriaTFG68.html ---
 ) [111
 
 
@@ -2884,7 +2893,7 @@ LaTeX Warning: Citation `Zwart2022' on page 117 undefined on input line 8.
 LaTeX Warning: Citation `Chalmers2013' on page 117 undefined on input line 18.
 
 [117]
---- file ElaboracionMemoriaTFG65.html ---
+--- file ElaboracionMemoriaTFG69.html ---
 
 LaTeX Warning: Citation `NationalAcademies2019' on page 118 undefined on input 
 line 33.
@@ -2912,15 +2921,15 @@ l. 51 Writing ElaboracionMemoriaTFG.idv[3] (ElaboracionMemoriaTFG2x.png)
 LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <10> not available
 (Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 117.
 [122] [123] [124]
---- file ElaboracionMemoriaTFG66.html ---
+--- file ElaboracionMemoriaTFG70.html ---
 [125]
---- file ElaboracionMemoriaTFG67.html ---
+--- file ElaboracionMemoriaTFG71.html ---
 
 LaTeX Warning: Citation `esetal2024Ragas' on page 126 undefined on input line 2
 09.
 
---- file ElaboracionMemoriaTFG68.html ---
---- file ElaboracionMemoriaTFG69.html ---
+--- file ElaboracionMemoriaTFG72.html ---
+--- file ElaboracionMemoriaTFG73.html ---
 [126
 
 
@@ -2936,7 +2945,7 @@ LaTeX Warning: Citation `grant2009maria' on page 130 undefined on input line 14
 .
 
 [130]
---- file ElaboracionMemoriaTFG70.html ---
+--- file ElaboracionMemoriaTFG74.html ---
 
 LaTeX Warning: Citation `codina2018lluis' on page 131 undefined on input line 4
 5.
@@ -3244,12 +3253,12 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 (\end occurred when \iftrue on line 101 was incomplete)
 (\end occurred when \ifnum on line 101 was incomplete) 
 Here is how much of TeX's memory you used:
- 29792 strings out of 481240
- 526849 string characters out of 5920403
- 917585 words of memory out of 5000000
- 44067 multiletter control sequences out of 15000+600000
+ 29825 strings out of 481240
+ 527350 string characters out of 5920403
+ 917861 words of memory out of 5000000
+ 44100 multiletter control sequences out of 15000+600000
  548204 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  74i,20n,86p,2838b,1017s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on ElaboracionMemoriaTFG.dvi (195 pages, 773212 bytes).
+Output written on ElaboracionMemoriaTFG.dvi (195 pages, 779512 bytes).
