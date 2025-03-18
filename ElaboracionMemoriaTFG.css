@@ -2,22 +2,23 @@
 /* start css.sty */
 .cmr-7{font-size:70%;}
 .cmmi-10{font-style: italic;}
-.bchri7t-{font-style: oblique;}
-.bchri7t-{font-style: oblique;}
-.cmtt-10{font-family: monospace,monospace;}
-.cmtt-10{font-family: monospace,monospace;}
-.cmtt-10{font-family: monospace,monospace;}
-.bchb7t-{font-weight: bold;}
-.bchr7t-x-x-90{font-size:90%;}
-.bchr7t-x-x-80{font-size:80%;}
-.cmtt-8{font-size:80%;font-family: monospace,monospace;}
-.cmtt-8{font-family: monospace,monospace;}
-.cmtt-8{font-family: monospace,monospace;}
-.bchr7t-x-x-70{font-size:70%;}
-.cmitt-10{font-family: monospace,monospace; font-style: italic;}
-.bchbi7t-{font-style: oblique;}
-.bchri7t-x-x-80{font-size:80%;font-style: oblique;}
-.bchri7t-x-x-80{font-style: oblique;}
+.ectt-1000{ font-family: monospace,monospace;}
+.ectt-1000{ font-family: monospace,monospace;}
+.ectt-1000{ font-family: monospace,monospace;}
+.ectt-1000{ font-family: monospace,monospace;}
+.bchr8t-x-x-90{font-size:90%;}
+.bchr8t-x-x-80{font-size:80%;}
+.ectt-0800{font-size:80%; font-family: monospace,monospace;}
+.ectt-0800{ font-family: monospace,monospace;}
+.ectt-0800{ font-family: monospace,monospace;}
+.ectt-0800{ font-family: monospace,monospace;}
+.bchr8t-x-x-70{font-size:70%;}
+.ecit-1000{ font-style: italic; font-family: monospace,monospace;}
+.ecit-1000{ font-style: italic; font-family: monospace,monospace;}
+.ecit-1000{ font-style: italic; font-family: monospace,monospace;}
+.ecit-1000{ font-style: italic; font-family: monospace,monospace;}
+.bchbi8t-{font-weight: bold; font-style: italic;}
+.bchri8t-x-x-80{font-size:80%;}
 p{margin-top:0;margin-bottom:0}
 p.indent{text-indent:0;}
 p + p{margin-top:1em;}
@@ -164,24 +165,24 @@ dt.enumerate-enumitem{float:left; clear:left; margin-left:1em; margin-right:1em;
 #TBL-1{border-collapse:collapse;}
 #TBL-1 colgroup{border-left: 1px solid black;border-right:1px solid black;}
 #TBL-1{border-collapse:collapse;}
-tr#TBL-2-1- td{border-top:0.112em solid} 
-tr#TBL-2-1- td{border-bottom:0.06999em solid}
-tr#TBL-2-7- td{border-bottom:0.112em solid}
+tr#TBL-2-1- td{border-top:0.11197em solid} 
+tr#TBL-2-1- td{border-bottom:0.06998em solid}
+tr#TBL-2-7- td{border-bottom:0.11197em solid}
 #TBL-3 colgroup{border-left: 1px solid black;border-right:1px solid black;}
 #TBL-3{border-collapse:collapse;}
-tr#TBL-3-1- td{border-top:0.112em solid} 
-tr#TBL-3-1- td{border-bottom:0.06999em solid}
-tr#TBL-3-7- td{border-bottom:0.06999em solid}
-tr#TBL-3-14- td{border-bottom:0.06999em solid}
-tr#TBL-3-22- td{border-bottom:0.112em solid}
+tr#TBL-3-1- td{border-top:0.11197em solid} 
+tr#TBL-3-1- td{border-bottom:0.06998em solid}
+tr#TBL-3-7- td{border-bottom:0.06998em solid}
+tr#TBL-3-14- td{border-bottom:0.06998em solid}
+tr#TBL-3-22- td{border-bottom:0.11197em solid}
 #TBL-4 colgroup{border-left: 1px solid black;border-right:1px solid black;}
 #TBL-4{border-collapse:collapse;}
-tr#TBL-4-1- td{border-top:0.112em solid} 
-tr#TBL-4-1- td{border-bottom:0.06999em solid}
-tr#TBL-4-8- td{border-bottom:0.06999em solid}
-tr#TBL-4-14- td{border-bottom:0.06999em solid}
-tr#TBL-4-17- td{border-bottom:0.06999em solid}
-tr#TBL-4-21- td{border-bottom:0.112em solid}
+tr#TBL-4-1- td{border-top:0.11197em solid} 
+tr#TBL-4-1- td{border-bottom:0.06998em solid}
+tr#TBL-4-8- td{border-bottom:0.06998em solid}
+tr#TBL-4-14- td{border-bottom:0.06998em solid}
+tr#TBL-4-17- td{border-bottom:0.06998em solid}
+tr#TBL-4-21- td{border-bottom:0.11197em solid}
 #TBL-5 colgroup{border-left: 1px solid black;border-right:1px solid black;}
 #TBL-5{border-collapse:collapse;}
 #TBL-5 colgroup{border-left: 1px solid black;border-right:1px solid black;}

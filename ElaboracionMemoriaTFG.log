@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=latex 2025.3.15)  15 MAR 2025 15:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=latex 2025.3.18)  18 MAR 2025 19:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -100,7 +100,13 @@ Package babel Info: Making " an active character on input line 561.
 Package babel Info: Making . an active character on input line 662.
 Package babel Info: Making < an active character on input line 707.
 Package babel Info: Making > an active character on input line 707.
-)) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+)) (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks18
+\inpenc@posthook=\toks19
+) (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/usepackage.4ht
 version 2019-12-19-14:27
@@ -185,7 +191,7 @@ Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 \Fld@menulength=\count187
 \Field@Width=\dimen148
 \Fld@charsize=\dimen149
-\Field@toks=\toks18
+\Field@toks=\toks20
 Package hyperref Info: Hyper figures OFF on input line 6430.
 Package hyperref Info: Link nesting OFF on input line 6435.
 Package hyperref Info: Hyper index ON on input line 6438.
@@ -269,7 +275,7 @@ For additional information on amsmath, use the `?' option.
 Package: amstext 2000/06/29 v2.01 AMS text
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks19
+\@emptytoks=\toks21
 \ex@=\dimen173
 )) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
@@ -297,28 +303,28 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
 \dotsspace@=\muskip17
 \c@parentequation=\count270
 \dspbrk@lvl=\count271
-\tag@help=\toks20
+\tag@help=\toks22
 \row@=\count272
 \column@=\count273
 \maxfields@=\count274
-\andhelp@=\toks21
+\andhelp@=\toks23
 \eqnshift@=\dimen176
 \alignsep@=\dimen177
 \tagshift@=\dimen178
 \tagwidth@=\dimen179
 \totwidth@=\dimen180
 \lineht@=\dimen181
-\@envbody=\toks22
+\@envbody=\toks24
 \multlinegap=\skip52
 \multlinetaggap=\skip53
-\mathdisplay@stack=\toks23
+\mathdisplay@stack=\toks25
 LaTeX Info: Redefining \[ on input line 2859.
 LaTeX Info: Redefining \] on input line 2860.
 ) (/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
 \labelindent=\skip54
 \enit@outerparindent=\dimen182
-\enit@toks=\toks24
+\enit@toks=\toks26
 \enit@inbox=\box48
 \enit@count@id=\count275
 \enitdp@description=\count276
@@ -331,8 +337,8 @@ Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
 (/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex (/usr/share/texl
 ive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
-\XKV@toks=\toks25
-\XKV@tempa@toks=\toks26
+\XKV@toks=\toks27
+\XKV@tempa@toks=\toks28
 )
 \XKV@depth=\count277
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
@@ -344,7 +350,7 @@ version 2019-12-19-14:27
 re/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty (/usr/share/texlive/texm
 f-dist/tex/latex/pgf/utilities/pgfrcs.sty (/usr/share/texlive/texmf-dist/tex/ge
 neric/pgf/utilities/pgfutil-common.tex
-\pgfutil@everybye=\toks27
+\pgfutil@everybye=\toks29
 \pgfutil@tempdima=\dimen183
 \pgfutil@tempdimb=\dimen184
 
@@ -363,12 +369,12 @@ Package: pgf 2020/01/08 v3.1.5b (3.1.5b)
 xmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
 Package: pgfsys 2020/01/08 v3.1.5b (3.1.5b)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
-\pgfkeys@pathtoks=\toks28
-\pgfkeys@temptoks=\toks29
+\pgfkeys@pathtoks=\toks30
+\pgfkeys@temptoks=\toks31
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.t
 ex
-\pgfkeys@tmptoks=\toks30
+\pgfkeys@tmptoks=\toks32
 ))
 \pgf@x=\dimen185
 \pgf@y=\dimen186
@@ -386,9 +392,9 @@ ex
 \c@pgf@countb=\count279
 \c@pgf@countc=\count280
 \c@pgf@countd=\count281
-\t@pgf@toka=\toks31
-\t@pgf@tokb=\toks32
-\t@pgf@tokc=\toks33
+\t@pgf@toka=\toks33
+\t@pgf@tokb=\toks34
+\t@pgf@tokc=\toks35
 \pgf@sys@id@count=\count282
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
 File: pgf.cfg 2020/01/08 v3.1.5b (3.1.5b)
@@ -433,9 +439,9 @@ exmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
 \pgfmath@dimen=\dimen197
 \pgfmath@count=\count291
 \pgfmath@box=\box51
-\pgfmath@toks=\toks34
-\pgfmath@stack@operand=\toks35
-\pgfmath@stack@operation=\toks36
+\pgfmath@toks=\toks36
+\pgfmath@stack@operand=\toks37
+\pgfmath@stack@operation=\toks38
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code
@@ -576,8 +582,8 @@ Package: pgffor 2020/01/08 v3.1.5b (3.1.5b)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
 \pgffor@iter=\dimen280
 \pgffor@skip=\dimen281
-\pgffor@stack=\toks37
-\pgffor@toks=\toks38
+\pgffor@stack=\toks39
+\pgffor@toks=\toks40
 ))
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
 Package: tikz 2020/01/08 v3.1.5b (3.1.5b)
@@ -671,7 +677,7 @@ Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
 \rotFPtop=\skip58
 \rotFPbot=\skip59
 \rot@float@box=\box61
-\rot@mess@toks=\toks39
+\rot@mess@toks=\toks41
 ) (/usr/share/texlive/texmf-dist/tex/latex/psnfss/charter.sty
 Package: charter 2005/04/12 PSNFSS-v9.2a (P.Dyballa) 
 ) (/usr/share/texlive/texmf-dist/tex/latex/emptypage/emptypage.sty
@@ -679,7 +685,7 @@ Package: emptypage 2010/05/30 v1.2 Suppress page numbers and headings on empty
 pages
 ) (/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.sty
 Package: microtype 2019/11/18 v2.7d Micro-typographical refinements (RS)
-\MT@toks=\toks40
+\MT@toks=\toks42
 \MT@count=\count311
 LaTeX Info: Redefining \textls on input line 790.
 \MT@outer@kern=\dimen293
@@ -715,9 +721,9 @@ Package pdfpages Warning: I will use a dummy \includepdf command
 
 ))
 \AM@pagebox=\box62
-\AM@global@opts=\toks41
+\AM@global@opts=\toks43
 \AM@pagecnt=\count313
-\AM@toc@title=\toks42
+\AM@toc@title=\toks44
 \c@AM@survey=\count314
 \AM@templatesizebox=\box63
 ) (/usr/share/texlive/texmf-dist/tex/latex/babelbib/babelbib.sty
@@ -835,8 +841,8 @@ version 2019-11-21-13:36
 --- Note --- To print a timestamp, use the command line option timestamp
 --------------------------------------
 )
-\:tokwrite=\toks43
-\:tokpage=\toks44
+\:tokwrite=\toks45
+\:tokpage=\toks46
 --------------------------------------
 --- Note --- for back links to toc, use the command line option `sections+'
 --------------------------------------
@@ -1017,6 +1023,16 @@ version 2019-12-16-15:21
 version 2019-11-21-13:36
 )) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/spanish.4ht
 version 2015-02-17-15:57
+(/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-02-14-14:21
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2019-12-28-14:40
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2019-12-16-15:21
+) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2019-11-21-13:36
+)) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/inputenc.4ht
+version 2009-05-21-09:32
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
 version 2020-02-14-14:21
 ) (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/unicode.4ht
@@ -1277,34 +1293,195 @@ File: l3backend-dvips.def 2020-02-03 L3 backend support: dvips
 ) (./ElaboracionMemoriaTFG.aux
 LaTeX Info: Redefining \. on input line 23.
 LaTeX Info: Redefining \% on input line 23.
-(./0.prologo.aux) (./1.introduccion_libro.aux) (./2.recomendaciones_generales.a
-ux) (./3.estructura_memoria.aux) (./4.introduccion_tfg.aux) (./5.revision_estad
-o_arte.aux) (./6.planificacion_presupuesto.aux) (./7.conclusiones_trabajos_futu
-ros.aux) (./8.bibliografia_tfg.aux) (./X.anexostfg.aux) (./9.revision_proyecto_
-memoria.aux) (./10.elaboracion_presentacion.aux) (./11.defensa.aux) (./anexoI_l
-icencias.aux) (./anexoII_tipologias.aux) (./anexoIII_experiencias.tex.aux))
+(./0.prologo.aux) (./1.introduccion_libro.aux
+! Missing \endcsname inserted.
+<to be read again> 
+                   \let 
+l.5 ...sname{chapter}Introducción}}{chapter.1}{}}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \let 
+l.5 ...sname{chapter}Introducción}}{chapter.1}{}}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+
+! LaTeX Error: Missing \begin{document} in `'.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...sname{chapter}Introducción}}{chapter.1}{}}
+                                                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Extra \endcsname.
+\@namedef ...xpandafter \def \csname #1\endcsname 
+                                                  
+l.5 ...sname{chapter}Introducción}}{chapter.1}{}}
+                                                  
+I'm ignoring this, since I wasn't doing a \csname.
+
+) (./2.recomendaciones_generales.aux) (./3.estructura_memoria.aux) (./4.introdu
+ccion_tfg.aux
+! Missing \endcsname inserted.
+<to be read again> 
+                   \let 
+l.5 ...er}La introducción del TFG}}{chapter.1}{}}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Extra \endcsname.
+\bbl@ifunset #1->\ifcsname #1\endcsname 
+                                        \expandafter \ifx \csname #1\endcsna...
+l.5 ...er}La introducción del TFG}}{chapter.1}{}}
+                                                  
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \let 
+l.5 ...er}La introducción del TFG}}{chapter.1}{}}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+
+LaTeX Warning: Label `cap:Introducci\let \prOteCt \relax \let \prOteCt \relax \
+let \prOteCt \relax \let \prOteCt \relax \let \prOteCt \relax \Protect \csname 
+acp:c\endcsname {20}onTFG' multiply defined.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \let 
+l.5 ...er}La introducción del TFG}}{chapter.1}{}}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Extra \endcsname.
+\@namedef ...xpandafter \def \csname #1\endcsname 
+                                                  
+l.5 ...er}La introducción del TFG}}{chapter.1}{}}
+                                                  
+I'm ignoring this, since I wasn't doing a \csname.
+
+) (./5.revision_estado_arte.aux) (./6.planificacion_presupuesto.aux) (./7.concl
+usiones_trabajos_futuros.aux) (./8.bibliografia_tfg.aux) (./X.anexostfg.aux) (.
+/9.revision_proyecto_memoria.aux
+! Missing \endcsname inserted.
+<to be read again> 
+                   \let 
+l.5 ...n del proyecto y la memoria}}{chapter.1}{}}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \let 
+l.5 ...n del proyecto y la memoria}}{chapter.1}{}}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Extra \endcsname.
+\@namedef ...xpandafter \def \csname #1\endcsname 
+                                                  
+l.5 ...n del proyecto y la memoria}}{chapter.1}{}}
+                                                  
+I'm ignoring this, since I wasn't doing a \csname.
+
+) (./10.elaboracion_presentacion.aux
+! Missing \endcsname inserted.
+<to be read again> 
+                   \let 
+l.5 ...presentación en la defensa}}{chapter.1}{}}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \let 
+l.5 ...presentación en la defensa}}{chapter.1}{}}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Extra \endcsname.
+\@namedef ...xpandafter \def \csname #1\endcsname 
+                                                  
+l.5 ...presentación en la defensa}}{chapter.1}{}}
+                                                  
+I'm ignoring this, since I wasn't doing a \csname.
+
+) (./11.defensa.aux) (./anexoI_licencias.aux) (./anexoII_tipologias.aux
+! Undefined control sequence.
+<argument> ...tect \csname acp:c\endcsname {20}\T 
+                                                  1\i as
+l.10 ...tect \csname acp:c\endcsname {20}\T1\i as}
+                                                  {{\rEfLiNK{x1-91000B}{\csn...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \let 
+l.10 ...as de TFG y su desarrollo}}{appendix.1}{}}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \let 
+l.10 ...as de TFG y su desarrollo}}{appendix.1}{}}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Extra \endcsname.
+\@namedef ...xpandafter \def \csname #1\endcsname 
+                                                  
+l.10 ...as de TFG y su desarrollo}}{appendix.1}{}}
+                                                  
+I'm ignoring this, since I wasn't doing a \csname.
+
+) (./anexoIII_experiencias.tex.aux))
 \openout1 = `ElaboracionMemoriaTFG.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Trying to load font information for OT1+bch on input line 6
-1.
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1bch.fd
-File: ot1bch.fd 2004/10/18 font definitions for OT1/bch.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Trying to load font information for T1+bch on input line 62
+.
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1bch.fd
+File: t1bch.fd 2004/10/18 font definitions for T1/bch.
 )
 *geometry* driver: auto-detecting
 *geometry* detected driver: dvips
@@ -1340,17 +1517,17 @@ File: ot1bch.fd 2004/10/18 font definitions for OT1/bch.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \. on input line 61.
-LaTeX Info: Redefining \% on input line 61.
+LaTeX Info: Redefining \. on input line 62.
+LaTeX Info: Redefining \% on input line 62.
 \AtBeginShipoutBox=\box67
-Package hyperref Info: Link coloring ON on input line 61.
-LaTeX Info: Redefining \ref on input line 61.
-LaTeX Info: Redefining \pageref on input line 61.
-LaTeX Info: Redefining \nameref on input line 61.
+Package hyperref Info: Link coloring ON on input line 62.
+LaTeX Info: Redefining \ref on input line 62.
+LaTeX Info: Redefining \pageref on input line 62.
+LaTeX Info: Redefining \nameref on input line 62.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: rotating package is loaded.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Info: Redefining \microtypecontext on input line 61.
+LaTeX Info: Redefining \microtypecontext on input line 62.
 Package microtype Info: Generating DVI output.
 Package microtype Info: No character protrusion.
 Package microtype Info: No font expansion.
@@ -1389,7 +1566,7 @@ Package pdfpages Warning: I cannot determine the number of pages of the
 ! Undefined control sequence.
 <argument> ...\edef \AM@texcoord {\ifESO@texcoord 
                                                   -\AM@pageheight \else \z@ ...
-l.67 ...,width=1.45\textwidth]{images/portada.pdf}
+l.68 ...,width=1.45\textwidth]{images/portada.pdf}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1400,7 +1577,7 @@ and I'll forget about whatever was undefined.
 ! You can't use `\raise' in vertical mode.
 \put  (#1,#2)#3->\@killglue \raise 
                                    #2\unitlength \hb@xt@ \z@ {\kern #1\unitl...
-l.67 ...,width=1.45\textwidth]{images/portada.pdf}
+l.68 ...,width=1.45\textwidth]{images/portada.pdf}
                                                   
 Sorry, but I'm not programmed to handle this case;
 I'll just pretend that you didn't ask for it.
@@ -1410,7 +1587,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 ! Missing number, treated as zero.
 <to be read again> 
                    \hbox 
-l.67 ...,width=1.45\textwidth]{images/portada.pdf}
+l.68 ...,width=1.45\textwidth]{images/portada.pdf}
                                                   
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -1419,7 +1596,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    \hbox 
-l.67 ...,width=1.45\textwidth]{images/portada.pdf}
+l.68 ...,width=1.45\textwidth]{images/portada.pdf}
                                                   
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -1431,7 +1608,7 @@ two letters. (See Chapter 27 of The TeXbook.)
 ! Missing number, treated as zero.
 <to be read again> 
                    }
-l.67 ...,width=1.45\textwidth]{images/portada.pdf}
+l.68 ...,width=1.45\textwidth]{images/portada.pdf}
                                                   
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -1440,7 +1617,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    }
-l.67 ...,width=1.45\textwidth]{images/portada.pdf}
+l.68 ...,width=1.45\textwidth]{images/portada.pdf}
                                                   
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -1452,7 +1629,7 @@ two letters. (See Chapter 27 of The TeXbook.)
 ! Extra }, or forgotten \endgroup.
 <recently read> }
                  
-l.67 ...,width=1.45\textwidth]{images/portada.pdf}
+l.68 ...,width=1.45\textwidth]{images/portada.pdf}
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -1463,7 +1640,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing number, treated as zero.
 <to be read again> 
                    }
-l.67 ...,width=1.45\textwidth]{images/portada.pdf}
+l.68 ...,width=1.45\textwidth]{images/portada.pdf}
                                                   
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -1472,7 +1649,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    }
-l.67 ...,width=1.45\textwidth]{images/portada.pdf}
+l.68 ...,width=1.45\textwidth]{images/portada.pdf}
                                                   
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -1484,7 +1661,7 @@ two letters. (See Chapter 27 of The TeXbook.)
 ! Extra }, or forgotten \endgroup.
 <recently read> }
                  
-l.67 ...,width=1.45\textwidth]{images/portada.pdf}
+l.68 ...,width=1.45\textwidth]{images/portada.pdf}
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -1495,28 +1672,28 @@ deleted material, e.g., by typing `I$}'.
 ! Extra \else.
 \@iwhilesw ...i ->#1\expandafter \@iwhilesw \else 
                                                   \@gobbletwo \fi {#1}\fi 
-l.67 ...,width=1.45\textwidth]{images/portada.pdf}
+l.68 ...,width=1.45\textwidth]{images/portada.pdf}
                                                   
 I'm ignoring this; it doesn't match any \if.
 
 ! Extra \else.
 \@iwhilesw ...i ->#1\expandafter \@iwhilesw \else 
                                                   \@gobbletwo \fi {#1}\fi 
-l.67 ...,width=1.45\textwidth]{images/portada.pdf}
+l.68 ...,width=1.45\textwidth]{images/portada.pdf}
                                                   
 I'm ignoring this; it doesn't match any \if.
 
 ! Extra \fi.
 \@iwhilesw ...ilesw \else \@gobbletwo \fi {#1}\fi 
                                                   
-l.67 ...,width=1.45\textwidth]{images/portada.pdf}
+l.68 ...,width=1.45\textwidth]{images/portada.pdf}
                                                   
 I'm ignoring this; it doesn't match any \if.
 
 ! Missing number, treated as zero.
 <to be read again> 
                    }
-l.67 ...,width=1.45\textwidth]{images/portada.pdf}
+l.68 ...,width=1.45\textwidth]{images/portada.pdf}
                                                   
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -1525,7 +1702,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    }
-l.67 ...,width=1.45\textwidth]{images/portada.pdf}
+l.68 ...,width=1.45\textwidth]{images/portada.pdf}
                                                   
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -1537,7 +1714,7 @@ two letters. (See Chapter 27 of The TeXbook.)
 ! Extra }, or forgotten \endgroup.
 \@iwhilesw ...@iwhilesw \else \@gobbletwo \fi {#1}
                                                   \fi 
-l.67 ...,width=1.45\textwidth]{images/portada.pdf}
+l.68 ...,width=1.45\textwidth]{images/portada.pdf}
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -1548,14 +1725,14 @@ deleted material, e.g., by typing `I$}'.
 ! Extra \fi.
 \@iwhilesw ...ilesw \else \@gobbletwo \fi {#1}\fi 
                                                   
-l.67 ...,width=1.45\textwidth]{images/portada.pdf}
+l.68 ...,width=1.45\textwidth]{images/portada.pdf}
                                                   
 I'm ignoring this; it doesn't match any \if.
 
 ! Extra \fi.
 \@whilesw #1\fi #2->#1#2\@iwhilesw {#1#2}\fi \fi 
                                                  
-l.67 ...,width=1.45\textwidth]{images/portada.pdf}
+l.68 ...,width=1.45\textwidth]{images/portada.pdf}
                                                   
 I'm ignoring this; it doesn't match any \if.
 
@@ -1563,31 +1740,36 @@ I'm ignoring this; it doesn't match any \if.
 ! Extra \fi.
 \\includepdf ...ter {\the \AM@global@opts ,#1}\fi 
                                                   \AM@CheckAtEnd \endgroup \...
-l.67 ...,width=1.45\textwidth]{images/portada.pdf}
+l.68 ...,width=1.45\textwidth]{images/portada.pdf}
                                                   
 I'm ignoring this; it doesn't match any \if.
 
 LaTeX Font Info:    Trying to load font information for TS1+bch on input line 7
-2.
+3.
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1bch.fd
 File: ts1bch.fd 2004/10/18 font definitions for TS1/bch.
 )
-LaTeX Font Info:    Trying to load font information for U+msa on input line 72.
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 7
+3.
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    Trying to load font information for U+msa on input line 73.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 72.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 73.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [4] [5
 
 ]
-l.76 --- TeX4ht warning --- File `"images/by-nc-sa.xbb"' not found ---
-l.76 --- TeX4ht warning --- Cannot determine size of graphic in "images/by-nc-s
+l.77 --- TeX4ht warning --- File `"images/by-nc-sa.xbb"' not found ---
+l.77 --- TeX4ht warning --- Cannot determine size of graphic in "images/by-nc-s
 a.xbb" (no BoundingBox) ---
-l. 76 --- needs --- images/by-nc-sa.png ---
+l. 77 --- needs --- images/by-nc-sa.png ---
 [6
 
 ] [7
@@ -1626,49 +1808,6 @@ LaTeX Warning: Citation `fernandez2023evaluacion' on page 21 undefined on input
 
 ]
 Cap\'{\i }tulo 1.
-! Argument of \MT@res@a has an extra }.
-<inserted text> 
-                \par 
-l.2 \label{cap:Introducción}
-                             
-I've run across a `}' that doesn't seem to match anything.
-For example, `\def\a#1{...}' and `\a}' would produce
-this error. If you simply proceed now, the `\par' that
-I've just inserted will cause me to report a runaway
-argument that might be the root of the problem. But if
-your `}' was spurious, just type `2' and it will go away.
-
-Runaway argument?
-##1,\OT1/cmtt/m/n/10 ,##2##3\@nnil {\ifx ##2\@empty \MT@inlist@false \ETC.
-! Paragraph ended before \MT@res@a was complete.
-<to be read again> 
-                   \par 
-l.2 \label{cap:Introducción}
-                             
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-Runaway argument?
-{cap:Introducci\relax \unhbox \voidb@x \special {t4ht=&#x00F3;}\let \begingroup
- \ETC.
-! Paragraph ended before \l:bel: was complete.
-<to be read again> 
-                   \par 
-l.2 \label{cap:Introducción}
-                             
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-! Too many }'s.
-\:temp ...t \MT@subst@\OT1/cmtt/m/n/10 \def \par }
-                                                  
-l.2 \label{cap:Introducción}
-                             
-You've closed more groups than you opened.
-Such booboos are generally harmless, so keep going.
-
 [23
 
 ]
@@ -1680,52 +1819,6 @@ Such booboos are generally harmless, so keep going.
 --- file ElaboracionMemoriaTFG4.html ---
 --- file ElaboracionMemoriaTFG5.html ---
 --- file ElaboracionMemoriaTFG6.html ---
-! Argument of \MT@res@a has an extra }.
-<inserted text> 
-                \par 
-l.40 ...rrow$ Capítulo \ref{cap:IntroducciónTFG}
-                                                  . La introducción del TFG.
-I've run across a `}' that doesn't seem to match anything.
-For example, `\def\a#1{...}' and `\a}' would produce
-this error. If you simply proceed now, the `\par' that
-I've just inserted will cause me to report a runaway
-argument that might be the root of the problem. But if
-your `}' was spurious, just type `2' and it will go away.
-
-Runaway argument?
-##1,\U/msb/m/n/5 ,##2##3\@nnil {\ifx ##2\@empty \MT@inlist@false \else \ETC.
-! Paragraph ended before \MT@res@a was complete.
-<to be read again> 
-                   \par 
-l.40 ...rrow$ Capítulo \ref{cap:IntroducciónTFG}
-                                                  . La introducción del TFG.
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-! Argument of \MT@res@a has an extra }.
-<inserted text> 
-                \par 
-l.40 ...rrow$ Capítulo \ref{cap:IntroducciónTFG}
-                                                  . La introducción del TFG.
-I've run across a `}' that doesn't seem to match anything.
-For example, `\def\a#1{...}' and `\a}' would produce
-this error. If you simply proceed now, the `\par' that
-I've just inserted will cause me to report a runaway
-argument that might be the root of the problem. But if
-your `}' was spurious, just type `2' and it will go away.
-
-Runaway argument?
-##1,\U/msb/m/n/5 ,##2##3\@nnil {\ifx ##2\@empty \MT@inlist@false \else \ETC.
-! Paragraph ended before \MT@res@a was complete.
-<to be read again> 
-                   \par 
-l.40 ...rrow$ Capítulo \ref{cap:IntroducciónTFG}
-                                                  . La introducción del TFG.
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
 
 LaTeX Warning: Reference `cap:IntroducciónTFG' on page 25 undefined on input l
 ine 40.
@@ -1736,151 +1829,13 @@ ine 40.
 
 
 ]
-! Argument of \MT@res@a has an extra }.
-<inserted text> 
-                \par 
-l.45 ...\rightarrow$ Capítulo \ref{cap:Revisión}
-                                                  . La revisión del proyect...
-I've run across a `}' that doesn't seem to match anything.
-For example, `\def\a#1{...}' and `\a}' would produce
-this error. If you simply proceed now, the `\par' that
-I've just inserted will cause me to report a runaway
-argument that might be the root of the problem. But if
-your `}' was spurious, just type `2' and it will go away.
-
-Runaway argument?
-##1,\OT1/bch/m/n/10 ,##2##3\@nnil {\ifx ##2\@empty \MT@inlist@false \else \ETC.
-! Paragraph ended before \MT@res@a was complete.
-<to be read again> 
-                   \par 
-l.45 ...\rightarrow$ Capítulo \ref{cap:Revisión}
-                                                  . La revisión del proyect...
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-! Argument of \MT@res@a has an extra }.
-<inserted text> 
-                \par 
-l.45 ...\rightarrow$ Capítulo \ref{cap:Revisión}
-                                                  . La revisión del proyect...
-I've run across a `}' that doesn't seem to match anything.
-For example, `\def\a#1{...}' and `\a}' would produce
-this error. If you simply proceed now, the `\par' that
-I've just inserted will cause me to report a runaway
-argument that might be the root of the problem. But if
-your `}' was spurious, just type `2' and it will go away.
-
-Runaway argument?
-##1,\OT1/bch/m/n/10 ,##2##3\@nnil {\ifx ##2\@empty \MT@inlist@false \else \ETC.
-! Paragraph ended before \MT@res@a was complete.
-<to be read again> 
-                   \par 
-l.45 ...\rightarrow$ Capítulo \ref{cap:Revisión}
-                                                  . La revisión del proyect...
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
 
 LaTeX Warning: Reference `cap:Revisión' on page 26 undefined on input line 45.
 
 
-! Argument of \MT@res@a has an extra }.
-<inserted text> 
-                \par 
-l.46 ...ítulo \ref{cap:elaboraciónPresentación}
-                                                  . La elaboración de la pr...
-I've run across a `}' that doesn't seem to match anything.
-For example, `\def\a#1{...}' and `\a}' would produce
-this error. If you simply proceed now, the `\par' that
-I've just inserted will cause me to report a runaway
-argument that might be the root of the problem. But if
-your `}' was spurious, just type `2' and it will go away.
-
-Runaway argument?
-##1,\OT1/bch/b/n/10 ,##2##3\@nnil {\ifx ##2\@empty \MT@inlist@false \else \ETC.
-! Paragraph ended before \MT@res@a was complete.
-<to be read again> 
-                   \par 
-l.46 ...ítulo \ref{cap:elaboraciónPresentación}
-                                                  . La elaboración de la pr...
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-! Argument of \MT@res@a has an extra }.
-<inserted text> 
-                \par 
-l.46 ...ítulo \ref{cap:elaboraciónPresentación}
-                                                  . La elaboración de la pr...
-I've run across a `}' that doesn't seem to match anything.
-For example, `\def\a#1{...}' and `\a}' would produce
-this error. If you simply proceed now, the `\par' that
-I've just inserted will cause me to report a runaway
-argument that might be the root of the problem. But if
-your `}' was spurious, just type `2' and it will go away.
-
-Runaway argument?
-##1,\OT1/bch/b/n/10 ,##2##3\@nnil {\ifx ##2\@empty \MT@inlist@false \else \ETC.
-! Paragraph ended before \MT@res@a was complete.
-<to be read again> 
-                   \par 
-l.46 ...ítulo \ref{cap:elaboraciónPresentación}
-                                                  . La elaboración de la pr...
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
 
 LaTeX Warning: Reference `cap:elaboraciónPresentación' on page 26 undefined o
 n input line 46.
-
-! Argument of \MT@res@a has an extra }.
-<inserted text> 
-                \par 
-l.49 ...htarrow$ Apéndice \ref{anexo:Tipologías}
-                                                  . Las tipologías de TFG y...
-I've run across a `}' that doesn't seem to match anything.
-For example, `\def\a#1{...}' and `\a}' would produce
-this error. If you simply proceed now, the `\par' that
-I've just inserted will cause me to report a runaway
-argument that might be the root of the problem. But if
-your `}' was spurious, just type `2' and it will go away.
-
-Runaway argument?
-##1,\OT1/bch/b/n/10 ,##2##3\@nnil {\ifx ##2\@empty \MT@inlist@false \else \ETC.
-! Paragraph ended before \MT@res@a was complete.
-<to be read again> 
-                   \par 
-l.49 ...htarrow$ Apéndice \ref{anexo:Tipologías}
-                                                  . Las tipologías de TFG y...
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-! Argument of \MT@res@a has an extra }.
-<inserted text> 
-                \par 
-l.49 ...htarrow$ Apéndice \ref{anexo:Tipologías}
-                                                  . Las tipologías de TFG y...
-I've run across a `}' that doesn't seem to match anything.
-For example, `\def\a#1{...}' and `\a}' would produce
-this error. If you simply proceed now, the `\par' that
-I've just inserted will cause me to report a runaway
-argument that might be the root of the problem. But if
-your `}' was spurious, just type `2' and it will go away.
-
-Runaway argument?
-##1,\OT1/bch/b/n/10 ,##2##3\@nnil {\ifx ##2\@empty \MT@inlist@false \else \ETC.
-! Paragraph ended before \MT@res@a was complete.
-<to be read again> 
-                   \par 
-l.49 ...htarrow$ Apéndice \ref{anexo:Tipologías}
-                                                  . Las tipologías de TFG y...
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
 
 
 LaTeX Warning: Reference `anexo:Tipologías' on page 26 undefined on input line
@@ -1890,15 +1845,7 @@ LaTeX Warning: Reference `anexo:Tipologías' on page 26 undefined on input line
 LaTeX Warning: Reference `anexo:Experiencias' on page 26 undefined on input lin
 e 50.
 
-[26]) [27]
-! Extra \else.
-\@include ...ediate \closeout \@partaux \fi \else 
-                                                  \deadcycles \z@ \@nameuse ...
-l.101 \include{1.introduccion_libro}
-                                    
-I'm ignoring this; it doesn't match any \if.
-
-[28
+[26]) [27] [28
 
 ]
 \openout2 = `2.recomendaciones_generales.aux'.
@@ -1969,63 +1916,17 @@ LaTeX Warning: Citation `doran1981there' on page 43 undefined on input line 204
 .
 
 [43] [44] [45]
-! Argument of \MT@res@a has an extra }.
-<inserted text> 
-                \par 
-l.295 ...�tulo \ref{cap:elaboraciónPresentación}
-                                                  , pero, como recomendacion...
-I've run across a `}' that doesn't seem to match anything.
-For example, `\def\a#1{...}' and `\a}' would produce
-this error. If you simply proceed now, the `\par' that
-I've just inserted will cause me to report a runaway
-argument that might be the root of the problem. But if
-your `}' was spurious, just type `2' and it will go away.
-
-Runaway argument?
-##1,\OT1/cmtt/m/n/10 ,##2##3\@nnil {\ifx ##2\@empty \MT@inlist@false \ETC.
-! Paragraph ended before \MT@res@a was complete.
-<to be read again> 
-                   \par 
-l.295 ...�tulo \ref{cap:elaboraciónPresentación}
-                                                  , pero, como recomendacion...
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-! Argument of \MT@res@a has an extra }.
-<inserted text> 
-                \par 
-l.295 ...�tulo \ref{cap:elaboraciónPresentación}
-                                                  , pero, como recomendacion...
-I've run across a `}' that doesn't seem to match anything.
-For example, `\def\a#1{...}' and `\a}' would produce
-this error. If you simply proceed now, the `\par' that
-I've just inserted will cause me to report a runaway
-argument that might be the root of the problem. But if
-your `}' was spurious, just type `2' and it will go away.
-
-Runaway argument?
-##1,\OT1/cmtt/m/n/10 ,##2##3\@nnil {\ifx ##2\@empty \MT@inlist@false \ETC.
-! Paragraph ended before \MT@res@a was complete.
-<to be read again> 
-                   \par 
-l.295 ...�tulo \ref{cap:elaboraciónPresentación}
-                                                  , pero, como recomendacion...
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
 
 LaTeX Warning: Reference `cap:elaboraciónPresentación' on page 46 undefined o
 n input line 295.
 
-[46] [47] [48]
+[46] [47] [48] [49]
 --- file ElaboracionMemoriaTFG17.html ---
 --- file ElaboracionMemoriaTFG18.html ---
-[49
+[50
 
 
-] [50] [51
+] [51
 
 ] [52
 
@@ -2040,291 +1941,74 @@ LaTeX Warning: Citation `ugrIA' on page 53 undefined on input line 395.
 --- file ElaboracionMemoriaTFG20.html ---
 ) [54
 
-]
-! Extra \else.
-\@include ...ediate \closeout \@partaux \fi \else 
-                                                  \deadcycles \z@ \@nameuse ...
-l.102 \include{2.recomendaciones_generales}
-                                           
-I'm ignoring this; it doesn't match any \if.
-
-[53
+] [55
 
 ]
 \openout2 = `3.estructura_memoria.aux'.
 
-(./3.estructura_memoria.tex [54
+(./3.estructura_memoria.tex [56
 
 ]
 Cap\'{\i }tulo 3.
-! Argument of \MT@res@a has an extra }.
-<inserted text> 
-                \par 
-l.13 ...ces (ver Apéndice \ref{anexo:Tipologías}
-                                                  ). En general, e independi...
-I've run across a `}' that doesn't seem to match anything.
-For example, `\def\a#1{...}' and `\a}' would produce
-this error. If you simply proceed now, the `\par' that
-I've just inserted will cause me to report a runaway
-argument that might be the root of the problem. But if
-your `}' was spurious, just type `2' and it will go away.
 
-Runaway argument?
-##1,\OT1/cmtt/m/n/10 ,##2##3\@nnil {\ifx ##2\@empty \MT@inlist@false \ETC.
-! Paragraph ended before \MT@res@a was complete.
-<to be read again> 
-                   \par 
-l.13 ...ces (ver Apéndice \ref{anexo:Tipologías}
-                                                  ). En general, e independi...
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-! Argument of \MT@res@a has an extra }.
-<inserted text> 
-                \par 
-l.13 ...ces (ver Apéndice \ref{anexo:Tipologías}
-                                                  ). En general, e independi...
-I've run across a `}' that doesn't seem to match anything.
-For example, `\def\a#1{...}' and `\a}' would produce
-this error. If you simply proceed now, the `\par' that
-I've just inserted will cause me to report a runaway
-argument that might be the root of the problem. But if
-your `}' was spurious, just type `2' and it will go away.
-
-Runaway argument?
-##1,\OT1/cmtt/m/n/10 ,##2##3\@nnil {\ifx ##2\@empty \MT@inlist@false \ETC.
-! Paragraph ended before \MT@res@a was complete.
-<to be read again> 
-                   \par 
-l.13 ...ces (ver Apéndice \ref{anexo:Tipologías}
-                                                  ). En general, e independi...
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-
-LaTeX Warning: Reference `anexo:Tipologías' on page 55 undefined on input line
+LaTeX Warning: Reference `anexo:Tipologías' on page 57 undefined on input line
  13.
 
-[55
+[57
 
 ]
-! Argument of \MT@res@a has an extra }.
-<inserted text> 
-                \par 
-l.47 En el capítulo \ref{cap:IntroducciónTFG}
-                                                podrás ver en profundidad l...
-I've run across a `}' that doesn't seem to match anything.
-For example, `\def\a#1{...}' and `\a}' would produce
-this error. If you simply proceed now, the `\par' that
-I've just inserted will cause me to report a runaway
-argument that might be the root of the problem. But if
-your `}' was spurious, just type `2' and it will go away.
 
-Runaway argument?
-##1,\OT1/bch/b/n/10 ,##2##3\@nnil {\ifx ##2\@empty \MT@inlist@false \else \ETC.
-! Paragraph ended before \MT@res@a was complete.
-<to be read again> 
-                   \par 
-l.47 En el capítulo \ref{cap:IntroducciónTFG}
-                                                podrás ver en profundidad l...
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-! Argument of \MT@res@a has an extra }.
-<inserted text> 
-                \par 
-l.47 En el capítulo \ref{cap:IntroducciónTFG}
-                                                podrás ver en profundidad l...
-I've run across a `}' that doesn't seem to match anything.
-For example, `\def\a#1{...}' and `\a}' would produce
-this error. If you simply proceed now, the `\par' that
-I've just inserted will cause me to report a runaway
-argument that might be the root of the problem. But if
-your `}' was spurious, just type `2' and it will go away.
-
-Runaway argument?
-##1,\OT1/bch/b/n/10 ,##2##3\@nnil {\ifx ##2\@empty \MT@inlist@false \else \ETC.
-! Paragraph ended before \MT@res@a was complete.
-<to be read again> 
-                   \par 
-l.47 En el capítulo \ref{cap:IntroducciónTFG}
-                                                podrás ver en profundidad l...
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-
-LaTeX Warning: Reference `cap:IntroducciónTFG' on page 56 undefined on input l
+LaTeX Warning: Reference `cap:IntroducciónTFG' on page 58 undefined on input l
 ine 47.
 
-! Argument of \MT@res@a has an extra }.
-<inserted text> 
-                \par 
-l.53 ...allada en el Anexo \ref{anexo:Tipologías}
-                                                   para cada tipo de proyecto.
-I've run across a `}' that doesn't seem to match anything.
-For example, `\def\a#1{...}' and `\a}' would produce
-this error. If you simply proceed now, the `\par' that
-I've just inserted will cause me to report a runaway
-argument that might be the root of the problem. But if
-your `}' was spurious, just type `2' and it will go away.
 
-Runaway argument?
-##1,\OT1/bch/b/n/10 ,##2##3\@nnil {\ifx ##2\@empty \MT@inlist@false \else \ETC.
-! Paragraph ended before \MT@res@a was complete.
-<to be read again> 
-                   \par 
-l.53 ...allada en el Anexo \ref{anexo:Tipologías}
-                                                   para cada tipo de proyecto.
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-! Argument of \MT@res@a has an extra }.
-<inserted text> 
-                \par 
-l.53 ...allada en el Anexo \ref{anexo:Tipologías}
-                                                   para cada tipo de proyecto.
-I've run across a `}' that doesn't seem to match anything.
-For example, `\def\a#1{...}' and `\a}' would produce
-this error. If you simply proceed now, the `\par' that
-I've just inserted will cause me to report a runaway
-argument that might be the root of the problem. But if
-your `}' was spurious, just type `2' and it will go away.
-
-Runaway argument?
-##1,\OT1/bch/b/n/10 ,##2##3\@nnil {\ifx ##2\@empty \MT@inlist@false \else \ETC.
-! Paragraph ended before \MT@res@a was complete.
-<to be read again> 
-                   \par 
-l.53 ...allada en el Anexo \ref{anexo:Tipologías}
-                                                   para cada tipo de proyecto.
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-
-LaTeX Warning: Reference `anexo:Tipologías' on page 56 undefined on input line
+LaTeX Warning: Reference `anexo:Tipologías' on page 58 undefined on input line
  53.
 
-[56] [57]
+[58] [59] [60]
 --- file ElaboracionMemoriaTFG21.html ---
-[58]) [59
+) [61
 
-]
-! Extra \else.
-\@include ...ediate \closeout \@partaux \fi \else 
-                                                  \deadcycles \z@ \@nameuse ...
-l.103 \include{3.estructura_memoria}
-                                    
-I'm ignoring this; it doesn't match any \if.
-
-[54
+] [62
 
 ]
 \openout2 = `4.introduccion_tfg.aux'.
 
-(./4.introduccion_tfg.tex [55
+(./4.introduccion_tfg.tex [63
 
-] [56
+] [64
 
 ]
 Cap\'{\i }tulo 4.
-! Argument of \MT@res@a has an extra }.
-<inserted text> 
-                \par 
-l.2 \label{cap:IntroducciónTFG}
-                                
-I've run across a `}' that doesn't seem to match anything.
-For example, `\def\a#1{...}' and `\a}' would produce
-this error. If you simply proceed now, the `\par' that
-I've just inserted will cause me to report a runaway
-argument that might be the root of the problem. But if
-your `}' was spurious, just type `2' and it will go away.
-
-Runaway argument?
-##1,\OT1/cmtt/m/n/10 ,##2##3\@nnil {\ifx ##2\@empty \MT@inlist@false \ETC.
-! Paragraph ended before \MT@res@a was complete.
-<to be read again> 
-                   \par 
-l.2 \label{cap:IntroducciónTFG}
-                                
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-Runaway argument?
-{cap:Introducci\relax \unhbox \voidb@x \special {t4ht=&#x00F3;}\let \begingroup
- \ETC.
-! Paragraph ended before \l:bel: was complete.
-<to be read again> 
-                   \par 
-l.2 \label{cap:IntroducciónTFG}
-                                
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-! Too many }'s.
-\:temp ...t \MT@subst@\OT1/cmtt/m/n/10 \def \par }
-                                                  
-l.2 \label{cap:IntroducciónTFG}
-                                
-You've closed more groups than you opened.
-Such booboos are generally harmless, so keep going.
-
-[57] [58]
-LaTeX Font Info:    Trying to load font information for OML+bch on input line 4
-0.
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omlbch.fd
-File: omlbch.fd 
-)
-LaTeX Font Info:    Font shape `OML/bch/m/n' in size <10> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 40.
-[59]
+[65] [66] [67]
 --- file ElaboracionMemoriaTFG22.html ---
-[60
+[68
 
-] [61] [62]
+] [69] [70]
 
-LaTeX Warning: Citation `doran1981there' on page 63 undefined on input line 110
+LaTeX Warning: Citation `doran1981there' on page 71 undefined on input line 110
 .
 
 --- file ElaboracionMemoriaTFG23.html ---
-[63
+[71
 
-]
-LaTeX Font Info:    Font shape `OML/bch/m/it' in size <10> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 123.
-) [64] [65]
-! Extra \else.
-\@include ...ediate \closeout \@partaux \fi \else 
-                                                  \deadcycles \z@ \@nameuse ...
-l.104 \include{4.introduccion_tfg}
-                                  
-I'm ignoring this; it doesn't match any \if.
-
-[58
+] [72]) [73] [74
 
 ]
 \openout2 = `5.revision_estado_arte.aux'.
 
-(./5.revision_estado_arte.tex [59
+(./5.revision_estado_arte.tex [75
 
-] [60
+] [76
 
 ]
 Cap\'{\i }tulo 5.
-[61]
+[77]
 --- file ElaboracionMemoriaTFG24.html ---
-[62
+[78
 
-]
+] [79]
 --- file ElaboracionMemoriaTFG25.html ---
-[63]
 --- file ElaboracionMemoriaTFG26.html ---
 --- file ElaboracionMemoriaTFG27.html ---
 --- file ElaboracionMemoriaTFG28.html ---
@@ -2336,7 +2020,12 @@ Cap\'{\i }tulo 5.
 --- file ElaboracionMemoriaTFG34.html ---
 --- file ElaboracionMemoriaTFG35.html ---
 --- file ElaboracionMemoriaTFG36.html ---
-[64
+[80
+
+
+
+
+] [81
 
 
 
@@ -2347,42 +2036,37 @@ Cap\'{\i }tulo 5.
 --- file ElaboracionMemoriaTFG38.html ---
 --- file ElaboracionMemoriaTFG39.html ---
 --- file ElaboracionMemoriaTFG40.html ---
-[65
+[82
 
 
 
 
-] [66
-
-
-
-
-]
+] [83]
 --- file ElaboracionMemoriaTFG41.html ---
-[67] [68
+[84
 
-] [69]
+] [85]
 --- file ElaboracionMemoriaTFG42.html ---
-[70]) [71]
+[86]) [87]
 \openout2 = `6.planificacion_presupuesto.aux'.
 
-(./6.planificacion_presupuesto.tex [72
+(./6.planificacion_presupuesto.tex [88
 
 
 
 ]
 Cap\'{\i }tulo 6.
 --- file ElaboracionMemoriaTFG43.html ---
-[73
+[89
 
-] [74
+] [90
 
 ]
 l.17 --- TeX4ht warning --- File `"images/EjemploGantt.xbb"' not found ---
 l.17 --- TeX4ht warning --- Cannot determine size of graphic in "images/Ejemplo
 Gantt.xbb" (no BoundingBox) ---
 l. 17 --- needs --- images/EjemploGantt-.png ---
-[75
+[91
 
 ]
 --- file ElaboracionMemoriaTFG44.html ---
@@ -2390,63 +2074,63 @@ l. 17 --- needs --- images/EjemploGantt-.png ---
 --- file ElaboracionMemoriaTFG46.html ---
 --- file ElaboracionMemoriaTFG47.html ---
 --- file ElaboracionMemoriaTFG48.html ---
-[76
+[92
 
 
 
 
 
-] [77
+] [93
 
 ]
 
-LaTeX Warning: Citation `guerin2018gestion' on page 78 undefined on input line 
+LaTeX Warning: Citation `guerin2018gestion' on page 94 undefined on input line 
 66.
 
-[78] [79] [80]
+[94] [95] [96]
 l. 153 Writing ElaboracionMemoriaTFG.idv[1] (ElaboracionMemoriaTFG0x.png)
-[81]) [82] [83
+[97]) [98] [99
 
 ]
 \openout2 = `7.conclusiones_trabajos_futuros.aux'.
 
-(./7.conclusiones_trabajos_futuros.tex [84
+(./7.conclusiones_trabajos_futuros.tex [100
 
 ]
 Cap\'{\i }tulo 7.
-[85
+[101
 
-]) [86] [87] [88
+] [102]) [103] [104
 
 ]
 \openout2 = `8.bibliografia_tfg.aux'.
 
-(./8.bibliografia_tfg.tex [89
+(./8.bibliografia_tfg.tex [105
 
-] [90
+] [106
 
 ]
 Cap\'{\i }tulo 8.
-[91]
+[107]
 
-LaTeX Warning: Citation `fernandez2023evaluacion' on page 92 undefined on input
- line 46.
+LaTeX Warning: Citation `fernandez2023evaluacion' on page 108 undefined on inpu
+t line 46.
 
 
-LaTeX Warning: Citation `fernandez2023evaluacion' on page 92 undefined on input
- line 54.
+LaTeX Warning: Citation `fernandez2023evaluacion' on page 108 undefined on inpu
+t line 54.
 
-[92]
+[108]
 
-LaTeX Warning: Citation `fernandez2023evaluacion' on page 93 undefined on input
- line 64.
+LaTeX Warning: Citation `fernandez2023evaluacion' on page 109 undefined on inpu
+t line 64.
 
-[93] [94
+[109] [110
 
 ]
 
-LaTeX Warning: Citation `fernandez2023evaluacion' on page 95 undefined on input
- line 74.
+LaTeX Warning: Citation `fernandez2023evaluacion' on page 111 undefined on inpu
+t line 74.
 
 
 Package varwidth Warning: Failed to reprocess entire contents on input line 89.
@@ -2461,37 +2145,37 @@ l.92 --- TeX4ht warning --- Cannot determine size of graphic in "images/Mapa_pr
 ov.xbb" (no BoundingBox) ---
 l. 92 --- needs --- images/Mapa_prov.png ---
 
-LaTeX Warning: Citation `fernandez2023evaluacion' on page 95 undefined on input
- line 93.
+LaTeX Warning: Citation `fernandez2023evaluacion' on page 111 undefined on inpu
+t line 93.
 
-[95
+[111
 
-] [96
+] [112
 
-] [97
+] [113
 
-] [98
-
-]
-
-LaTeX Warning: Citation `INE' on page 99 undefined on input line 120.
-
-[99
-
-] [100
-
-] [101
+] [114
 
 ]
 
-LaTeX Warning: Citation `bezanson2017julia' on page 102 undefined on input line
+LaTeX Warning: Citation `INE' on page 115 undefined on input line 120.
+
+[115
+
+] [116
+
+] [117
+
+]
+
+LaTeX Warning: Citation `bezanson2017julia' on page 118 undefined on input line
  202.
 
 l.221 --- TeX4ht warning --- File `"images/apa.xbb"' not found ---
 l.221 --- TeX4ht warning --- Cannot determine size of graphic in "images/apa.xb
 b" (no BoundingBox) ---
 l. 221 --- needs --- images/apa-.png ---
-[102
+[118
 
 ]
 l.225 --- TeX4ht warning --- File `"images/mla.xbb"' not found ---
@@ -2510,7 +2194,7 @@ l.237 --- TeX4ht warning --- File `"images/ieee.xbb"' not found ---
 l.237 --- TeX4ht warning --- Cannot determine size of graphic in "images/ieee.x
 bb" (no BoundingBox) ---
 l. 237 --- needs --- images/ieee-.png ---
-[103]
+[119]
 --- file ElaboracionMemoriaTFG49.html ---
 --- file ElaboracionMemoriaTFG50.html ---
 --- file ElaboracionMemoriaTFG51.html ---
@@ -2520,275 +2204,118 @@ Package textcomp Info: Symbol \textasciiacute not provided by
 Package textcomp Info: Symbol \textasciiacute not provided by
 (textcomp)             font family bch in TS1 encoding.
 (textcomp)             Default family used instead on input line 251.
-[104
+[120
 
 
 
 ]
 --- file ElaboracionMemoriaTFG52.html ---
-) [105
+) [121
 
-] [106
+] [122
 
 ]
 \openout2 = `X.anexostfg.aux'.
 
 No file X.anexostfg.tex.
-[107
+[123
 
-] [108
+] [124
 
 ]
 \openout2 = `9.revision_proyecto_memoria.aux'.
 
-(./9.revision_proyecto_memoria.tex [109
+(./9.revision_proyecto_memoria.tex [125
 
-] [110
+] [126
 
 ]
 Cap\'{\i }tulo 9.
-! Argument of \MT@res@a has an extra }.
-<inserted text> 
-                \par 
-l.2 \label{cap:Revisión}
-                         
-I've run across a `}' that doesn't seem to match anything.
-For example, `\def\a#1{...}' and `\a}' would produce
-this error. If you simply proceed now, the `\par' that
-I've just inserted will cause me to report a runaway
-argument that might be the root of the problem. But if
-your `}' was spurious, just type `2' and it will go away.
-
-Runaway argument?
-##1,\OT1/cmtt/m/n/10 ,##2##3\@nnil {\ifx ##2\@empty \MT@inlist@false \ETC.
-! Paragraph ended before \MT@res@a was complete.
-<to be read again> 
-                   \par 
-l.2 \label{cap:Revisión}
-                         
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-Runaway argument?
-{cap:Revisi\relax \unhbox \voidb@x \special {t4ht=&#x00F3;}\let \begingroup \ET
-C.
-! Paragraph ended before \l:bel: was complete.
-<to be read again> 
-                   \par 
-l.2 \label{cap:Revisión}
-                         
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-! Too many }'s.
-\:temp ...t \MT@subst@\OT1/cmtt/m/n/10 \def \par }
-                                                  
-l.2 \label{cap:Revisión}
-                         
-You've closed more groups than you opened.
-Such booboos are generally harmless, so keep going.
-
-[111] [112]) [113]
-! Extra \else.
-\@include ...ediate \closeout \@partaux \fi \else 
-                                                  \deadcycles \z@ \@nameuse ...
-l.110 \include{9.revision_proyecto_memoria}
-                                           
-I'm ignoring this; it doesn't match any \if.
-
-[108
+[127] [128]) [129] [130
 
 ]
 \openout2 = `10.elaboracion_presentacion.aux'.
 
-(./10.elaboracion_presentacion.tex [109
+(./10.elaboracion_presentacion.tex [131
 
-] [110
+] [132
 
 ]
 Cap\'{\i }tulo 10.
-! Argument of \MT@res@a has an extra }.
-<inserted text> 
-                \par 
-l.1 ...ensa} \label{cap:elaboraciónPresentación}
-                                                  
-I've run across a `}' that doesn't seem to match anything.
-For example, `\def\a#1{...}' and `\a}' would produce
-this error. If you simply proceed now, the `\par' that
-I've just inserted will cause me to report a runaway
-argument that might be the root of the problem. But if
-your `}' was spurious, just type `2' and it will go away.
-
-Runaway argument?
-##1,\OT1/cmtt/m/n/10 ,##2##3\@nnil {\ifx ##2\@empty \MT@inlist@false \ETC.
-! Paragraph ended before \MT@res@a was complete.
-<to be read again> 
-                   \par 
-l.1 ...ensa} \label{cap:elaboraciónPresentación}
-                                                  
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-Runaway argument?
-{cap:elaboraci\relax \unhbox \voidb@x \special {t4ht=&#x00F3;}\let \begingroup 
-\ETC.
-! Paragraph ended before \l:bel: was complete.
-<to be read again> 
-                   \par 
-l.1 ...ensa} \label{cap:elaboraciónPresentación}
-                                                  
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-! Too many }'s.
-\:temp ...t \MT@subst@\OT1/cmtt/m/n/10 \def \par }
-                                                  
-l.1 ...ensa} \label{cap:elaboraciónPresentación}
-                                                  
-You've closed more groups than you opened.
-Such booboos are generally harmless, so keep going.
-
-[111] [112]
+[133] [134]
 --- file ElaboracionMemoriaTFG53.html ---
-[113
+[135
 
-]) [114]
-! Extra \else.
-\@include ...ediate \closeout \@partaux \fi \else 
-                                                  \deadcycles \z@ \@nameuse ...
-l.111 \include{10.elaboracion_presentacion}
-                                           
-I'm ignoring this; it doesn't match any \if.
-
-[111
+]) [136] [137
 
 ]
 \openout2 = `11.defensa.aux'.
 
-(./11.defensa.tex [112
+(./11.defensa.tex [138
 
 ]
 Cap\'{\i }tulo 11.
-[113
+[139
 
-] [114] [115] [116]
-! Argument of \MT@res@a has an extra }.
-<inserted text> 
-                \par 
-l.86 ...ítulo \ref{cap:elaboraciónPresentación}
-                                                  , como técnicas verbales,...
-I've run across a `}' that doesn't seem to match anything.
-For example, `\def\a#1{...}' and `\a}' would produce
-this error. If you simply proceed now, the `\par' that
-I've just inserted will cause me to report a runaway
-argument that might be the root of the problem. But if
-your `}' was spurious, just type `2' and it will go away.
+] [140] [141] [142]
 
-Runaway argument?
-##1,\OT1/bch/m/n/10 ,##2##3\@nnil {\ifx ##2\@empty \MT@inlist@false \else \ETC.
-! Paragraph ended before \MT@res@a was complete.
-<to be read again> 
-                   \par 
-l.86 ...ítulo \ref{cap:elaboraciónPresentación}
-                                                  , como técnicas verbales,...
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-! Argument of \MT@res@a has an extra }.
-<inserted text> 
-                \par 
-l.86 ...ítulo \ref{cap:elaboraciónPresentación}
-                                                  , como técnicas verbales,...
-I've run across a `}' that doesn't seem to match anything.
-For example, `\def\a#1{...}' and `\a}' would produce
-this error. If you simply proceed now, the `\par' that
-I've just inserted will cause me to report a runaway
-argument that might be the root of the problem. But if
-your `}' was spurious, just type `2' and it will go away.
-
-Runaway argument?
-##1,\OT1/bch/m/n/10 ,##2##3\@nnil {\ifx ##2\@empty \MT@inlist@false \else \ETC.
-! Paragraph ended before \MT@res@a was complete.
-<to be read again> 
-                   \par 
-l.86 ...ítulo \ref{cap:elaboraciónPresentación}
-                                                  , como técnicas verbales,...
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-
-LaTeX Warning: Reference `cap:elaboraciónPresentación' on page 117 undefined 
+LaTeX Warning: Reference `cap:elaboraciónPresentación' on page 143 undefined 
 on input line 86.
 
-[117]
+[143]
 
-LaTeX Warning: Citation `vallejo2009defensa' on page 118 undefined on input lin
+LaTeX Warning: Citation `vallejo2009defensa' on page 144 undefined on input lin
 e 99.
 
-[118]) [119]
-! Extra \else.
-\@include ...ediate \closeout \@partaux \fi \else 
-                                                  \deadcycles \z@ \@nameuse ...
-l.112 \include{11.defensa}
-                          
-I'm ignoring this; it doesn't match any \if.
-
+[144] [145]) [146]
 No file ElaboracionMemoriaTFG.bbl.
-[98
+[147
 
 ]
 \openout2 = `anexoI_licencias.aux'.
 
-(./anexoI_licencias.tex [99
-
-] [100
+(./anexoI_licencias.tex [148
 
 ]
 Ap\'{e}ndice A.
 --- file ElaboracionMemoriaTFG54.html ---
 --- file ElaboracionMemoriaTFG55.html ---
-[101
+[149
 
-] [102
+
+] [150
 
 ]
 --- file ElaboracionMemoriaTFG56.html ---
-[103
+[151
 
-] [104] [105
+] [152] [153
 
-] [106
+] [154
 
 ]
 
-LaTeX Warning: Citation `derechosautorIA' on page 107 undefined on input line 1
+LaTeX Warning: Citation `derechosautorIA' on page 155 undefined on input line 1
 45.
 
 --- file ElaboracionMemoriaTFG57.html ---
-[107
+[155
 
 
 ]
 --- file ElaboracionMemoriaTFG58.html ---
 
-LaTeX Warning: Citation `FSFfaq' on page 108 undefined on input line 165.
+LaTeX Warning: Citation `FSFfaq' on page 156 undefined on input line 165.
 
 --- file ElaboracionMemoriaTFG59.html ---
-[108
+[156
 
 
 ]
 --- file ElaboracionMemoriaTFG60.html ---
 --- file ElaboracionMemoriaTFG61.html ---
 --- file ElaboracionMemoriaTFG62.html ---
-[109
-
+[157
 
 
 ]
@@ -2796,111 +2323,69 @@ LaTeX Warning: Citation `FSFfaq' on page 108 undefined on input line 165.
 --- file ElaboracionMemoriaTFG64.html ---
 --- file ElaboracionMemoriaTFG65.html ---
 --- file ElaboracionMemoriaTFG66.html ---
-[110
+[158
+
 
 
 
 ]
 --- file ElaboracionMemoriaTFG67.html ---
 --- file ElaboracionMemoriaTFG68.html ---
-) [111
+) [159
 
 
 
-] [112
+] [160
 
 ]
 \openout2 = `anexoII_tipologias.aux'.
 
-(./anexoII_tipologias.tex [113
+(./anexoII_tipologias.tex [161
 
-] [114
+] [162
 
 ]
 Ap\'{e}ndice B.
-! Argument of \MT@res@a has an extra }.
-<inserted text> 
-                \par 
-l.2 \label{anexo:Tipologías}
-                             
-I've run across a `}' that doesn't seem to match anything.
-For example, `\def\a#1{...}' and `\a}' would produce
-this error. If you simply proceed now, the `\par' that
-I've just inserted will cause me to report a runaway
-argument that might be the root of the problem. But if
-your `}' was spurious, just type `2' and it will go away.
-
-Runaway argument?
-##1,\OT1/cmtt/m/n/10 ,##2##3\@nnil {\ifx ##2\@empty \MT@inlist@false \ETC.
-! Paragraph ended before \MT@res@a was complete.
-<to be read again> 
-                   \par 
-l.2 \label{anexo:Tipologías}
-                             
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-Runaway argument?
-{anexo:Tipolog\relax \unhbox \voidb@x \special {t4ht=&#x00ED;}\let \begingroup 
-\ETC.
-! Paragraph ended before \l:bel: was complete.
-<to be read again> 
-                   \par 
-l.2 \label{anexo:Tipologías}
-                             
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-! Too many }'s.
-\:temp ...t \MT@subst@\OT1/cmtt/m/n/10 \def \par }
-                                                  
-l.2 \label{anexo:Tipologías}
-                             
-You've closed more groups than you opened.
-Such booboos are generally harmless, so keep going.
-
 (./TFG_desarrollo.tex
 
-LaTeX Warning: Citation `sommerville2005ingenieria' on page 115 undefined on in
+LaTeX Warning: Citation `sommerville2005ingenieria' on page 163 undefined on in
 put line 7.
 
 
-LaTeX Warning: Citation `larman2004agile' on page 115 undefined on input line 1
+LaTeX Warning: Citation `larman2004agile' on page 163 undefined on input line 1
 0.
 
 
-LaTeX Warning: Citation `beck2022test' on page 115 undefined on input line 12.
+LaTeX Warning: Citation `beck2022test' on page 163 undefined on input line 12.
 
 
-LaTeX Warning: Citation `freeman2019devops' on page 115 undefined on input line
+LaTeX Warning: Citation `freeman2019devops' on page 163 undefined on input line
  16.
 
 
-LaTeX Warning: Citation `garcia2019desarrollo' on page 115 undefined on input l
+LaTeX Warning: Citation `garcia2019desarrollo' on page 163 undefined on input l
 ine 16.
 
-[115]
+[163]
 
-LaTeX Warning: Citation `TFGs2024JJ' on page 116 undefined on input line 32.
+LaTeX Warning: Citation `TFGs2024JJ' on page 164 undefined on input line 32.
 
-[116]) (./TFX_investigacion.tex
+[164]) (./TFX_investigacion.tex
 
-LaTeX Warning: Citation `Zwart2022' on page 117 undefined on input line 8.
+LaTeX Warning: Citation `Zwart2022' on page 165 undefined on input line 8.
 
 
-LaTeX Warning: Citation `Chalmers2013' on page 117 undefined on input line 18.
+LaTeX Warning: Citation `Chalmers2013' on page 165 undefined on input line 18.
 
-[117]
+[165]
 --- file ElaboracionMemoriaTFG69.html ---
 
-LaTeX Warning: Citation `NationalAcademies2019' on page 118 undefined on input 
+LaTeX Warning: Citation `NationalAcademies2019' on page 166 undefined on input 
 line 33.
 
-[118
+[166
 
-] [119
+] [167
 
 ]
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
@@ -2913,94 +2398,86 @@ File: pgflibraryshapes.geometric.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 ))
 l. 47 Writing ElaboracionMemoriaTFG.idv[2] (ElaboracionMemoriaTFG1x.png)
 l. 51 Writing ElaboracionMemoriaTFG.idv[3] (ElaboracionMemoriaTFG2x.png)
-[120
+[168
 
-] [121
+] [169
 
 ]
-LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <10> not available
-(Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 117.
-[122] [123] [124]
+LaTeX Font Info:    Font shape `T1/cmtt/bx/n' in size <10> not available
+(Font)              Font shape `T1/cmtt/m/n' tried instead on input line 117.
+[170] [171] [172]
 --- file ElaboracionMemoriaTFG70.html ---
-[125]
+[173]
 --- file ElaboracionMemoriaTFG71.html ---
 
-LaTeX Warning: Citation `esetal2024Ragas' on page 126 undefined on input line 2
+LaTeX Warning: Citation `esetal2024Ragas' on page 174 undefined on input line 2
 09.
 
 --- file ElaboracionMemoriaTFG72.html ---
 --- file ElaboracionMemoriaTFG73.html ---
-[126
+[174
 
 
 
-] [127] [128]) (./TFG_revision.tex
+] [175] [176]) (./TFG_revision.tex [177]
 
-LaTeX Warning: Citation `codina2024lluis' on page 129 undefined on input line 1
+LaTeX Warning: Citation `codina2024lluis' on page 178 undefined on input line 1
 2.
 
-[129]
 
-LaTeX Warning: Citation `grant2009maria' on page 130 undefined on input line 14
+LaTeX Warning: Citation `grant2009maria' on page 178 undefined on input line 14
 .
 
-[130]
+[178]
 --- file ElaboracionMemoriaTFG74.html ---
 
-LaTeX Warning: Citation `codina2018lluis' on page 131 undefined on input line 4
+LaTeX Warning: Citation `codina2018lluis' on page 179 undefined on input line 4
 5.
 
+[179
 
-LaTeX Warning: Citation `booth2021a' on page 131 undefined on input line 47.
+]
 
-[131
+LaTeX Warning: Citation `booth2021a' on page 180 undefined on input line 47.
 
-] [132]
+[180]
 
-LaTeX Warning: Citation `carrera2022angela' on page 133 undefined on input line
+LaTeX Warning: Citation `carrera2022angela' on page 181 undefined on input line
  81.
 
 
-LaTeX Warning: Citation `kofod2022anders' on page 133 undefined on input line 8
+LaTeX Warning: Citation `kofod2022anders' on page 181 undefined on input line 8
 1.
 
 
-LaTeX Warning: Citation `silva2016rodrigo' on page 133 undefined on input line 
+LaTeX Warning: Citation `silva2016rodrigo' on page 181 undefined on input line 
 81.
 
-)) [133]
-! Extra \else.
-\@include ...ediate \closeout \@partaux \fi \else 
-                                                  \deadcycles \z@ \@nameuse ...
-l.120 \include{anexoII_tipologias}
-                                  
-I'm ignoring this; it doesn't match any \if.
-
-[132
+)) [181] [182
 
 ]
 \openout2 = `anexoIII_experiencias.tex.aux'.
 
 No file anexoIII_experiencias.tex.tex.
-[133
+[183
 
-] [134
+] [184
 
-] [135
+] [185
 
-] [136] [137
+] [186] [187
 
-] [138
+] [188
 
-] [139]
-l.173 --- TeX4ht warning --- File `"images/qr-youtube.xbb"' not found ---
-l.173 --- TeX4ht warning --- Cannot determine size of graphic in "images/qr-you
+] [189]
+l.174 --- TeX4ht warning --- File `"images/qr-youtube.xbb"' not found ---
+l.174 --- TeX4ht warning --- Cannot determine size of graphic in "images/qr-you
 tube.xbb" (no BoundingBox) ---
-l. 173 --- needs --- images/qr-youtube.png ---
-l.179 --- TeX4ht warning --- File `"images/qr-github.xbb"' not found ---
-l.179 --- TeX4ht warning --- Cannot determine size of graphic in "images/qr-git
+l. 174 --- needs --- images/qr-youtube.png ---
+l.180 --- TeX4ht warning --- File `"images/qr-github.xbb"' not found ---
+l.180 --- TeX4ht warning --- Cannot determine size of graphic in "images/qr-git
 hub.xbb" (no BoundingBox) ---
-l. 179 --- needs --- images/qr-github.png ---
+l. 180 --- needs --- images/qr-github.png ---
 [1] [2]
 
 Package pdfpages Warning: I cannot determine the number of pages of the
@@ -3012,7 +2489,7 @@ Package pdfpages Warning: I cannot determine the number of pages of the
 ! Undefined control sequence.
 <argument> ...\edef \AM@texcoord {\ifESO@texcoord 
                                                   -\AM@pageheight \else \z@ ...
-l.189 ...1.45\textwidth]{images/contraportada.pdf}
+l.190 ...1.45\textwidth]{images/contraportada.pdf}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3023,7 +2500,7 @@ and I'll forget about whatever was undefined.
 ! You can't use `\raise' in vertical mode.
 \put  (#1,#2)#3->\@killglue \raise 
                                    #2\unitlength \hb@xt@ \z@ {\kern #1\unitl...
-l.189 ...1.45\textwidth]{images/contraportada.pdf}
+l.190 ...1.45\textwidth]{images/contraportada.pdf}
                                                   
 Sorry, but I'm not programmed to handle this case;
 I'll just pretend that you didn't ask for it.
@@ -3033,7 +2510,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 ! Missing number, treated as zero.
 <to be read again> 
                    \hbox 
-l.189 ...1.45\textwidth]{images/contraportada.pdf}
+l.190 ...1.45\textwidth]{images/contraportada.pdf}
                                                   
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -3042,7 +2519,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    \hbox 
-l.189 ...1.45\textwidth]{images/contraportada.pdf}
+l.190 ...1.45\textwidth]{images/contraportada.pdf}
                                                   
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -3054,7 +2531,7 @@ two letters. (See Chapter 27 of The TeXbook.)
 ! Missing number, treated as zero.
 <to be read again> 
                    }
-l.189 ...1.45\textwidth]{images/contraportada.pdf}
+l.190 ...1.45\textwidth]{images/contraportada.pdf}
                                                   
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -3063,7 +2540,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    }
-l.189 ...1.45\textwidth]{images/contraportada.pdf}
+l.190 ...1.45\textwidth]{images/contraportada.pdf}
                                                   
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -3075,7 +2552,7 @@ two letters. (See Chapter 27 of The TeXbook.)
 ! Extra }, or forgotten \endgroup.
 <recently read> }
                  
-l.189 ...1.45\textwidth]{images/contraportada.pdf}
+l.190 ...1.45\textwidth]{images/contraportada.pdf}
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -3086,7 +2563,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing number, treated as zero.
 <to be read again> 
                    }
-l.189 ...1.45\textwidth]{images/contraportada.pdf}
+l.190 ...1.45\textwidth]{images/contraportada.pdf}
                                                   
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -3095,7 +2572,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    }
-l.189 ...1.45\textwidth]{images/contraportada.pdf}
+l.190 ...1.45\textwidth]{images/contraportada.pdf}
                                                   
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -3107,39 +2584,7 @@ two letters. (See Chapter 27 of The TeXbook.)
 ! Extra }, or forgotten \endgroup.
 <recently read> }
                  
-l.189 ...1.45\textwidth]{images/contraportada.pdf}
-                                                  
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-! Missing number, treated as zero.
-<to be read again> 
-                   }
-l.189 ...1.45\textwidth]{images/contraportada.pdf}
-                                                  
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   }
-l.189 ...1.45\textwidth]{images/contraportada.pdf}
-                                                  
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-! Extra }, or forgotten \endgroup.
-<recently read> }
-                 
-l.189 ...1.45\textwidth]{images/contraportada.pdf}
+l.190 ...1.45\textwidth]{images/contraportada.pdf}
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -3150,21 +2595,28 @@ deleted material, e.g., by typing `I$}'.
 ! Extra \else.
 \@iwhilesw ...i ->#1\expandafter \@iwhilesw \else 
                                                   \@gobbletwo \fi {#1}\fi 
-l.189 ...1.45\textwidth]{images/contraportada.pdf}
+l.190 ...1.45\textwidth]{images/contraportada.pdf}
                                                   
 I'm ignoring this; it doesn't match any \if.
 
 ! Extra \else.
 \@iwhilesw ...i ->#1\expandafter \@iwhilesw \else 
                                                   \@gobbletwo \fi {#1}\fi 
-l.189 ...1.45\textwidth]{images/contraportada.pdf}
+l.190 ...1.45\textwidth]{images/contraportada.pdf}
+                                                  
+I'm ignoring this; it doesn't match any \if.
+
+! Extra \fi.
+\@iwhilesw ...ilesw \else \@gobbletwo \fi {#1}\fi 
+                                                  
+l.190 ...1.45\textwidth]{images/contraportada.pdf}
                                                   
 I'm ignoring this; it doesn't match any \if.
 
 ! Missing number, treated as zero.
 <to be read again> 
                    }
-l.189 ...1.45\textwidth]{images/contraportada.pdf}
+l.190 ...1.45\textwidth]{images/contraportada.pdf}
                                                   
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -3173,7 +2625,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    }
-l.189 ...1.45\textwidth]{images/contraportada.pdf}
+l.190 ...1.45\textwidth]{images/contraportada.pdf}
                                                   
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -3185,7 +2637,7 @@ two letters. (See Chapter 27 of The TeXbook.)
 ! Extra }, or forgotten \endgroup.
 \@iwhilesw ...@iwhilesw \else \@gobbletwo \fi {#1}
                                                   \fi 
-l.189 ...1.45\textwidth]{images/contraportada.pdf}
+l.190 ...1.45\textwidth]{images/contraportada.pdf}
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -3193,72 +2645,142 @@ you forgot something else, as in `\hbox{$x}'. In such cases
 the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
-[4] [5] [6
+! Extra \fi.
+\@iwhilesw ...ilesw \else \@gobbletwo \fi {#1}\fi 
+                                                  
+l.190 ...1.45\textwidth]{images/contraportada.pdf}
+                                                  
+I'm ignoring this; it doesn't match any \if.
+
+! Extra \fi.
+\@whilesw #1\fi #2->#1#2\@iwhilesw {#1#2}\fi \fi 
+                                                 
+l.190 ...1.45\textwidth]{images/contraportada.pdf}
+                                                  
+I'm ignoring this; it doesn't match any \if.
+
+[4]
+! Extra \fi.
+\\includepdf ...ter {\the \AM@global@opts ,#1}\fi 
+                                                  \AM@CheckAtEnd \endgroup \...
+l.190 ...1.45\textwidth]{images/contraportada.pdf}
+                                                  
+I'm ignoring this; it doesn't match any \if.
+
+[5] [6
 
 ] (./ElaboracionMemoriaTFG.aux
 LaTeX Info: Redefining \. on input line 23.
 LaTeX Info: Redefining \% on input line 23.
-(./0.prologo.aux) (./1.introduccion_libro.aux) (./2.recomendaciones_generales.a
-ux) (./3.estructura_memoria.aux) (./4.introduccion_tfg.aux) (./5.revision_estad
-o_arte.aux) (./6.planificacion_presupuesto.aux) (./7.conclusiones_trabajos_futu
-ros.aux) (./8.bibliografia_tfg.aux) (./X.anexostfg.aux) (./9.revision_proyecto_
-memoria.aux) (./10.elaboracion_presentacion.aux) (./11.defensa.aux) (./anexoI_l
-icencias.aux) (./anexoII_tipologias.aux) (./anexoIII_experiencias.tex.aux))
+(./0.prologo.aux) (./1.introduccion_libro.aux
+! Missing \endcsname inserted.
+<to be read again> 
+                   \let 
+l.5 ...sname{chapter}Introducción}}{chapter.1}{}}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Extra \endcsname.
+\:testdef ...r \bbl@tempa \csname #1@#2\endcsname 
+                                                  \def \bbl@tempb {#3}\@safe...
+l.5 ...sname{chapter}Introducción}}{chapter.1}{}}
+                                                  
+I'm ignoring this, since I wasn't doing a \csname.
+
+) (./2.recomendaciones_generales.aux) (./3.estructura_memoria.aux) (./4.introdu
+ccion_tfg.aux
+! Missing \endcsname inserted.
+<to be read again> 
+                   \let 
+l.5 ...er}La introducción del TFG}}{chapter.1}{}}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Extra \endcsname.
+\:testdef ...r \bbl@tempa \csname #1@#2\endcsname 
+                                                  \def \bbl@tempb {#3}\@safe...
+l.5 ...er}La introducción del TFG}}{chapter.1}{}}
+                                                  
+I'm ignoring this, since I wasn't doing a \csname.
+
+) (./5.revision_estado_arte.aux) (./6.planificacion_presupuesto.aux) (./7.concl
+usiones_trabajos_futuros.aux) (./8.bibliografia_tfg.aux) (./X.anexostfg.aux) (.
+/9.revision_proyecto_memoria.aux
+! Missing \endcsname inserted.
+<to be read again> 
+                   \let 
+l.5 ...n del proyecto y la memoria}}{chapter.1}{}}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Extra \endcsname.
+\:testdef ...r \bbl@tempa \csname #1@#2\endcsname 
+                                                  \def \bbl@tempb {#3}\@safe...
+l.5 ...n del proyecto y la memoria}}{chapter.1}{}}
+                                                  
+I'm ignoring this, since I wasn't doing a \csname.
+
+) (./10.elaboracion_presentacion.aux
+! Missing \endcsname inserted.
+<to be read again> 
+                   \let 
+l.5 ...presentación en la defensa}}{chapter.1}{}}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Extra \endcsname.
+\:testdef ...r \bbl@tempa \csname #1@#2\endcsname 
+                                                  \def \bbl@tempb {#3}\@safe...
+l.5 ...presentación en la defensa}}{chapter.1}{}}
+                                                  
+I'm ignoring this, since I wasn't doing a \csname.
+
+) (./11.defensa.aux) (./anexoI_licencias.aux) (./anexoII_tipologias.aux
+! Undefined control sequence.
+<argument> ...tect \csname acp:c\endcsname {20}\T 
+                                                  1\i as
+l.10 ...tect \csname acp:c\endcsname {20}\T1\i as}
+                                                  {{\rEfLiNK{x1-91000B}{\csn...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \let 
+l.10 ...as de TFG y su desarrollo}}{appendix.1}{}}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Extra \endcsname.
+\:testdef ...r \bbl@tempa \csname #1@#2\endcsname 
+                                                  \def \bbl@tempb {#3}\@safe...
+l.10 ...as de TFG y su desarrollo}}{appendix.1}{}}
+                                                  
+I'm ignoring this, since I wasn't doing a \csname.
+
+) (./anexoIII_experiencias.tex.aux))
 
 LaTeX Warning: There were undefined references.
 
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+LaTeX Warning: There were multiply-defined labels.
 
- )
-(\end occurred when \ifnum on line 112 was incomplete)
-(\end occurred when \iftrue on line 111 was incomplete)
-(\end occurred when \ifnum on line 111 was incomplete)
-(\end occurred when \iftrue on line 110 was incomplete)
-(\end occurred when \ifnum on line 110 was incomplete)
-(\end occurred when \iftrue on line 104 was incomplete)
-(\end occurred when \ifnum on line 104 was incomplete)
-(\end occurred when \ifx on line 53 was incomplete)
-(\end occurred when \ifx on line 53 was incomplete)
-(\end occurred when \ifx on line 47 was incomplete)
-(\end occurred when \ifx on line 47 was incomplete)
-(\end occurred when \ifx on line 47 was incomplete)
-(\end occurred when \ifx on line 47 was incomplete)
-(\end occurred when \ifx on line 13 was incomplete)
-(\end occurred when \ifx on line 13 was incomplete)
-(\end occurred when \ifx on line 13 was incomplete)
-(\end occurred when \ifx on line 13 was incomplete)
-(\end occurred when \iftrue on line 103 was incomplete)
-(\end occurred when \ifnum on line 103 was incomplete)
-(\end occurred when \ifx on line 295 was incomplete)
-(\end occurred when \ifx on line 295 was incomplete)
-(\end occurred when \iftrue on line 102 was incomplete)
-(\end occurred when \ifnum on line 102 was incomplete)
-(\end occurred when \ifx on line 49 was incomplete)
-(\end occurred when \ifx on line 49 was incomplete)
-(\end occurred when \ifx on line 46 was incomplete)
-(\end occurred when \ifx on line 46 was incomplete)
-(\end occurred when \ifx on line 46 was incomplete)
-(\end occurred when \ifx on line 46 was incomplete)
-(\end occurred when \ifx on line 45 was incomplete)
-(\end occurred when \ifx on line 45 was incomplete)
-(\end occurred when \ifx on line 45 was incomplete)
-(\end occurred when \ifx on line 45 was incomplete)
-(\end occurred when \ifx on line 40 was incomplete)
-(\end occurred when \ifx on line 40 was incomplete)
-(\end occurred when \ifx on line 40 was incomplete)
-(\end occurred when \ifx on line 40 was incomplete)
-(\end occurred when \ifx on line 2 was incomplete)
-(\end occurred when \ifx on line 2 was incomplete)
-(\end occurred when \iftrue on line 101 was incomplete)
-(\end occurred when \ifnum on line 101 was incomplete) 
+ ) 
 Here is how much of TeX's memory you used:
- 29825 strings out of 481240
- 527350 string characters out of 5920403
- 917860 words of memory out of 5000000
- 44100 multiletter control sequences out of 15000+600000
- 548204 words of font info for 66 fonts, out of 8000000 for 9000
+ 29990 strings out of 481240
+ 529610 string characters out of 5920403
+ 914496 words of memory out of 5000000
+ 44248 multiletter control sequences out of 15000+600000
+ 566630 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  74i,20n,86p,2838b,1017s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on ElaboracionMemoriaTFG.dvi (195 pages, 779512 bytes).
+Output written on ElaboracionMemoriaTFG.dvi (195 pages, 826620 bytes).
